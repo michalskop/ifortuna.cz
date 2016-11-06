@@ -38,18 +38,21 @@ def scrape_dir(fdir):
             rows = []
             for tr in trs:
                 item = {}
-                item['title'] = tr.xpath('td[@class="col_title"]/div/span/a')[0].text.strip()
                 try:
-                    item['title'] += " " + tr.xpath('td[@class="col_title"]/div/span/span/span')[0].text.strip()
+                    item['title'] = tr.xpath('td[@class="col_title"]/div/span/a')[0].text.strip()
+                    try:
+                        item['title'] += " " + tr.xpath('td[@class="col_title"]/div/span/span/span')[0].text.strip()
+                    except:
+                        nothing = None
+                    item['bets'] = []
+                    item['identifier'] = tr.xpath('td[@class="col_title"]/div/span/span')[0].text.strip()
+                    ass = tr.xpath('td[@class="col_bet "]/a')
+                    for a in ass:
+                        item['bets'].append("".join(a.itertext()).strip())
+                    item['date_bet'] = ''.join(tr.xpath('td[@class="col_date sorted_column"]/span')[0].itertext()).strip()
+                    rows.append(item)
                 except:
                     nothing = None
-                item['bets'] = []
-                item['identifier'] = tr.xpath('td[@class="col_title"]/div/span/span')[0].text.strip()
-                ass = tr.xpath('td[@class="col_bet "]/a')
-                for a in ass:
-                    item['bets'].append("".join(a.itertext()).strip())
-                item['date_bet'] = ''.join(tr.xpath('td[@class="col_date sorted_column"]/span')[0].itertext()).strip()
-                rows.append(item)
             group['rows'] = rows
             data.append(group)
     return data
