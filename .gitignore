@@ -1,0 +1,8 @@
+dev
+dev/*
+webcache
+__pycache__
+tempdata
+*~lock*
+.Rhistory
+settings.py

@@ -1,0 +1,52 @@
+{
+    "resources": [
+        {
+            "name": "odds",
+            "path": "odds.csv",
+            "langugage": "cs",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "date",
+                        "type": "date",
+                        "format": "YYYY-mm-ddTHH:ii:ss.uuuuuu",
+                        "description": "Date and time (UTC) of retrieving the information"
+                    },
+                    {
+                        "name": "title",
+                        "type": "string",
+                        "description": "Title of the bet/race"
+                    },
+                    {
+                        "name": "result",
+                        "type": "string",
+                        "description": "Result, which can be bet on"
+                    },
+                    {
+                        "name": "odds",
+                        "type": "number",
+                        "description": "Odds for the result"
+                    },
+                    {
+                        "name": "date_bet",
+                        "type": "date",
+                        "format": "j.n. HH:ii",
+                        "description": "Date of the bet/race"
+                    },
+                    {
+                        "name": "identifier",
+                        "type": "integer",
+                        "description": "Identifier from ifortuna.cz"
+                    }
+                ]
+            }
+        }
+    ],
+    "language": "en",
+    "sources": [
+        {
+            "name": "Fortuna",
+            "web": "http://ifortuna.cz"
+        }
+    ]
+}
