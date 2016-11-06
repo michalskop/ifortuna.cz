@@ -31,7 +31,7 @@ for fdir in settings.fortuna_dirs:
         except:
             # create datapackage
             dp = datapackage.DataPackage()
-            with open("datapackage_prepared.json") as fin:
+            with open(settings.project_url + "/datapackage_prepared.json") as fin:
                 prepared = json.load(fin)
             dp.descriptor['identifier'] = group['identifier']
             dp.descriptor['name'] = "ifortuna_cz_" + group['identifier']
