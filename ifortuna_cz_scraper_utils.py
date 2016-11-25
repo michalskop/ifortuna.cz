@@ -5,8 +5,6 @@ import requests
 
 import settings
 
-fdir = 'fotbal'
-
 def scrape_dir(fdir):
     url = settings.fortuna_url + fdir + settings.fortuna_params
     r = requests.get(url)
@@ -57,4 +55,8 @@ def scrape_dir(fdir):
             data.append(group)
     return data
 
-data = scrape_dir(fdir)
+if __name__ == "__main__":
+    # test:
+    fdir = 'fotbal'
+    data = scrape_dir(fdir)
+    print(data)
