@@ -6,6 +6,7 @@ import datetime
 import json
 import git
 import os
+import requests
 
 import ifortuna_cz_scraper_utils as utils
 import settings
@@ -31,8 +32,9 @@ for fdir in settings.fortuna_dirs:
         except:
             # create datapackage
             dp = datapackage.DataPackage()
-            with open(settings.project_url + "/datapackage_prepared.json") as fin:
-                prepared = json.load(fin)
+            urldp = settings.project_url + "datapackage_prepared.json"
+            rdp = requests.get(urldp)
+            prepared = rdp.json()
             dp.descriptor['identifier'] = group['identifier']
             dp.descriptor['name'] = "ifortuna_cz_" + group['identifier']
             dp.descriptor['title'] = group['title'] + " - odds from ifortuna.cz"
