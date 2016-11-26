@@ -19,13 +19,11 @@ def scrape_dir(fdir):
                 group = {}
                 group['identifier'] = re.search('bet-table-holder-(\d{1,})',div.xpath('@id')[0]).group(1)
                 group['title'] = ''.join(div.xpath('div/h3')[0].itertext()).strip()
-                print(group['title'])
                 try:
                     group['title_comment'] = div.xpath('div/p')[0].text
                 except:
                     group['title_comment'] = ""
                 group['title_bet'] = div.xpath('div/div/table/thead/tr[@class="header-row"]/th[@class="col_title_info"]/a')[0].text.strip()
-                print(group['title_bet'])
 
                 ths = div.xpath('div/div/table/thead/tr[@class="header-row"]/th[@class="col_bet"]')
                 group['bets'] = []
