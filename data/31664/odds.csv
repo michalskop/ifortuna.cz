@@ -152,3 +152,9 @@ date,title,result,odds,date_bet,identifier
 2017-03-04T11:01:10.367571,Skončí ve funkci prezidenta USA v roce 2018,ano,5.5,1.6. 20:00,61241
 2017-03-04T11:01:10.367571,Skončí ve funkci prezidenta USA v roce 2019,ano,6.5,1.6. 20:00,61242
 2017-03-04T11:01:10.367571,Skončí ve funkci prezidenta USA v roce 2020 a později,ano,1.62,1.6. 20:00,61296
+2017-03-04T23:01:03.164321,Předčasně skončí ve funkci prezidenta USA během prvního funkčního období,ano,2.06,1.6. 20:00,61216
+2017-03-04T23:01:03.164321,Předčasně skončí ve funkci prezidenta USA během prvního funkčního období,ne,1.6,1.6. 20:00,61216
+2017-03-04T23:01:03.164321,Skončí ve funkci prezidenta USA v roce 2017,ano,3.75,1.6. 20:00,61240
+2017-03-04T23:01:03.164321,Skončí ve funkci prezidenta USA v roce 2018,ano,6,1.6. 20:00,61241
+2017-03-04T23:01:03.164321,Skončí ve funkci prezidenta USA v roce 2019,ano,8,1.6. 20:00,61242
+2017-03-04T23:01:03.164321,Skončí ve funkci prezidenta USA v roce 2020 a později,ano,1.58,1.6. 20:00,61296
