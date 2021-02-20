@@ -1,18 +1,103 @@
-date,title,result,odds,date_bet,identifier
-2018-11-10T11:01:02.166407,Politický hejhula vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93860
-2018-11-10T11:01:02.166407,Vlezdobruselista vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93863
-2018-11-10T11:01:02.166407,Diplomatický bulík vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93864
-2018-11-10T11:01:02.166407,Senátorský flink vysíláno v přímém přenosu po ekonomických zm.dech,V,4,30.11. 12:00,93865
-2018-11-10T11:01:02.166407,Evropský křupan vysíláno v přímém přenosu po ekonomických zm.dech,V,25,30.11. 12:00,93866
-2018-11-10T11:01:02.166407,Policejní fuchtle vysíláno v přímém přenosu po ekonomických zm.dech,V,8,30.11. 12:00,93873
-2018-11-10T11:01:02.166407,Soudní prasopes vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93874
-2018-11-10T11:01:02.166407,Intelektuální mrzák vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93875
-2018-11-10T11:01:02.166407,Krucipablb vysíláno v přímém přenosu po ekonomických zm.dech,V,22,30.11. 12:00,93876
-2018-11-10T11:01:02.166407,Ministerský fekál vysíláno v přímém přenosu po ekonomických zm.dech,V,6,30.11. 12:00,93877
-2018-11-10T11:01:02.166407,Hov.o vysíláno v přímém přenosu po ekonomických zm.dech,V,7,30.11. 12:00,93878
-2018-11-10T11:01:02.166407,Ču.ák vysíláno v přímém přenosu po ekonomických zm.dech,V,13,30.11. 12:00,93879
-2018-11-10T11:01:02.166407,K.kot vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93882
-2018-11-10T11:01:02.166407,Buz.a vysíláno v přímém přenosu po ekonomických zm.dech,V,18,30.11. 12:00,93883
-2018-11-10T11:01:02.166407,Pí.a vysíláno v přímém přenosu po ekonomických zm.dech,V,5,30.11. 12:00,93884
-2018-11-10T11:01:02.166407,Všechny uvedené vulgarity najednou vulgarity infočíslo 93860-93884 / vysíláno v přímém přenosu po ekonomických zm.dech,V,666,30.11. 12:00,93897
-2018-11-10T11:01:02.166407,Jakákoliv další vulgarita vysíláno v přímém přenosu po ekonomických zm.dech,V,1.01,30.11. 12:00,93898
+
+2018-11-27T19:01:05.422216,Politický hejhula vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93860
+2018-11-27T19:01:05.422216,Vlezdobruselista vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93863
+2018-11-27T19:01:05.422216,Diplomatický bulík vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93864
+2018-11-27T19:01:05.422216,Senátorský flink vysíláno v přímém přenosu po ekonomických zm.dech,V,4,30.11. 12:00,93865
+2018-11-27T19:01:05.422216,Evropský křupan vysíláno v přímém přenosu po ekonomických zm.dech,V,25,30.11. 12:00,93866
+2018-11-27T19:01:05.422216,Policejní fuchtle vysíláno v přímém přenosu po ekonomických zm.dech,V,8,30.11. 12:00,93873
+2018-11-27T19:01:05.422216,Soudní prasopes vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93874
+2018-11-27T19:01:05.422216,Intelektuální mrzák vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93875
+2018-11-27T19:01:05.422216,Krucipablb vysíláno v přímém přenosu po ekonomických zm.dech,V,22,30.11. 12:00,93876
+2018-11-27T19:01:05.422216,Ministerský fekál vysíláno v přímém přenosu po ekonomických zm.dech,V,6,30.11. 12:00,93877
+2018-11-27T19:01:05.422216,Hov.o vysíláno v přímém přenosu po ekonomických zm.dech,V,7,30.11. 12:00,93878
+2018-11-27T19:01:05.422216,Ču.ák vysíláno v přímém přenosu po ekonomických zm.dech,V,13,30.11. 12:00,93879
+2018-11-27T19:01:05.422216,K.kot vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93882
+2018-11-27T19:01:05.422216,Buz.a vysíláno v přímém přenosu po ekonomických zm.dech,V,18,30.11. 12:00,93883
+2018-11-27T19:01:05.422216,Pí.a vysíláno v přímém přenosu po ekonomických zm.dech,V,5,30.11. 12:00,93884
+2018-11-27T19:01:05.422216,Všechny uvedené vulgarity najednou vulgarity infočíslo 93860-93884 / vysíláno v přímém přenosu po ekonomických zm.dech,V,666,30.11. 12:00,93897
+2018-11-27T19:01:05.422216,Jakákoliv další vulgarita vysíláno v přímém přenosu po ekonomických zm.dech,V,1.01,30.11. 12:00,93898
+2018-11-28T07:01:04.705075,Politický hejhula vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93860
+2018-11-28T07:01:04.705075,Vlezdobruselista vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93863
+2018-11-28T07:01:04.705075,Diplomatický bulík vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93864
+2018-11-28T07:01:04.705075,Senátorský flink vysíláno v přímém přenosu po ekonomických zm.dech,V,4,30.11. 12:00,93865
+2018-11-28T07:01:04.705075,Evropský křupan vysíláno v přímém přenosu po ekonomických zm.dech,V,25,30.11. 12:00,93866
+2018-11-28T07:01:04.705075,Policejní fuchtle vysíláno v přímém přenosu po ekonomických zm.dech,V,8,30.11. 12:00,93873
+2018-11-28T07:01:04.705075,Soudní prasopes vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93874
+2018-11-28T07:01:04.705075,Intelektuální mrzák vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93875
+2018-11-28T07:01:04.705075,Krucipablb vysíláno v přímém přenosu po ekonomických zm.dech,V,22,30.11. 12:00,93876
+2018-11-28T07:01:04.705075,Ministerský fekál vysíláno v přímém přenosu po ekonomických zm.dech,V,6,30.11. 12:00,93877
+2018-11-28T07:01:04.705075,Hov.o vysíláno v přímém přenosu po ekonomických zm.dech,V,7,30.11. 12:00,93878
+2018-11-28T07:01:04.705075,Ču.ák vysíláno v přímém přenosu po ekonomických zm.dech,V,13,30.11. 12:00,93879
+2018-11-28T07:01:04.705075,K.kot vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93882
+2018-11-28T07:01:04.705075,Buz.a vysíláno v přímém přenosu po ekonomických zm.dech,V,18,30.11. 12:00,93883
+2018-11-28T07:01:04.705075,Pí.a vysíláno v přímém přenosu po ekonomických zm.dech,V,5,30.11. 12:00,93884
+2018-11-28T07:01:04.705075,Všechny uvedené vulgarity najednou vulgarity infočíslo 93860-93884 / vysíláno v přímém přenosu po ekonomických zm.dech,V,666,30.11. 12:00,93897
+2018-11-28T07:01:04.705075,Jakákoliv další vulgarita vysíláno v přímém přenosu po ekonomických zm.dech,V,1.01,30.11. 12:00,93898
+2018-11-28T19:01:04.973702,Politický hejhula vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93860
+2018-11-28T19:01:04.973702,Vlezdobruselista vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93863
+2018-11-28T19:01:04.973702,Diplomatický bulík vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93864
+2018-11-28T19:01:04.973702,Senátorský flink vysíláno v přímém přenosu po ekonomických zm.dech,V,4,30.11. 12:00,93865
+2018-11-28T19:01:04.973702,Evropský křupan vysíláno v přímém přenosu po ekonomických zm.dech,V,25,30.11. 12:00,93866
+2018-11-28T19:01:04.973702,Policejní fuchtle vysíláno v přímém přenosu po ekonomických zm.dech,V,8,30.11. 12:00,93873
+2018-11-28T19:01:04.973702,Soudní prasopes vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93874
+2018-11-28T19:01:04.973702,Intelektuální mrzák vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93875
+2018-11-28T19:01:04.973702,Krucipablb vysíláno v přímém přenosu po ekonomických zm.dech,V,22,30.11. 12:00,93876
+2018-11-28T19:01:04.973702,Ministerský fekál vysíláno v přímém přenosu po ekonomických zm.dech,V,6,30.11. 12:00,93877
+2018-11-28T19:01:04.973702,Hov.o vysíláno v přímém přenosu po ekonomických zm.dech,V,7,30.11. 12:00,93878
+2018-11-28T19:01:04.973702,Ču.ák vysíláno v přímém přenosu po ekonomických zm.dech,V,13,30.11. 12:00,93879
+2018-11-28T19:01:04.973702,K.kot vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93882
+2018-11-28T19:01:04.973702,Buz.a vysíláno v přímém přenosu po ekonomických zm.dech,V,18,30.11. 12:00,93883
+2018-11-28T19:01:04.973702,Pí.a vysíláno v přímém přenosu po ekonomických zm.dech,V,5,30.11. 12:00,93884
+2018-11-28T19:01:04.973702,Všechny uvedené vulgarity najednou vulgarity infočíslo 93860-93884 / vysíláno v přímém přenosu po ekonomických zm.dech,V,666,30.11. 12:00,93897
+2018-11-28T19:01:04.973702,Jakákoliv další vulgarita vysíláno v přímém přenosu po ekonomických zm.dech,V,1.01,30.11. 12:00,93898
+2018-11-29T07:01:04.990406,Politický hejhula vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93860
+2018-11-29T07:01:04.990406,Vlezdobruselista vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93863
+2018-11-29T07:01:04.990406,Diplomatický bulík vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93864
+2018-11-29T07:01:04.990406,Senátorský flink vysíláno v přímém přenosu po ekonomických zm.dech,V,4,30.11. 12:00,93865
+2018-11-29T07:01:04.990406,Evropský křupan vysíláno v přímém přenosu po ekonomických zm.dech,V,25,30.11. 12:00,93866
+2018-11-29T07:01:04.990406,Policejní fuchtle vysíláno v přímém přenosu po ekonomických zm.dech,V,8,30.11. 12:00,93873
+2018-11-29T07:01:04.990406,Soudní prasopes vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93874
+2018-11-29T07:01:04.990406,Intelektuální mrzák vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93875
+2018-11-29T07:01:04.990406,Krucipablb vysíláno v přímém přenosu po ekonomických zm.dech,V,22,30.11. 12:00,93876
+2018-11-29T07:01:04.990406,Ministerský fekál vysíláno v přímém přenosu po ekonomických zm.dech,V,6,30.11. 12:00,93877
+2018-11-29T07:01:04.990406,Hov.o vysíláno v přímém přenosu po ekonomických zm.dech,V,7,30.11. 12:00,93878
+2018-11-29T07:01:04.990406,Ču.ák vysíláno v přímém přenosu po ekonomických zm.dech,V,13,30.11. 12:00,93879
+2018-11-29T07:01:04.990406,K.kot vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93882
+2018-11-29T07:01:04.990406,Buz.a vysíláno v přímém přenosu po ekonomických zm.dech,V,18,30.11. 12:00,93883
+2018-11-29T07:01:04.990406,Pí.a vysíláno v přímém přenosu po ekonomických zm.dech,V,5,30.11. 12:00,93884
+2018-11-29T07:01:04.990406,Všechny uvedené vulgarity najednou vulgarity infočíslo 93860-93884 / vysíláno v přímém přenosu po ekonomických zm.dech,V,666,30.11. 12:00,93897
+2018-11-29T07:01:04.990406,Jakákoliv další vulgarita vysíláno v přímém přenosu po ekonomických zm.dech,V,1.01,30.11. 12:00,93898
+2018-11-29T19:01:05.579825,Politický hejhula vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93860
+2018-11-29T19:01:05.579825,Vlezdobruselista vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93863
+2018-11-29T19:01:05.579825,Diplomatický bulík vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93864
+2018-11-29T19:01:05.579825,Senátorský flink vysíláno v přímém přenosu po ekonomických zm.dech,V,4,30.11. 12:00,93865
+2018-11-29T19:01:05.579825,Evropský křupan vysíláno v přímém přenosu po ekonomických zm.dech,V,25,30.11. 12:00,93866
+2018-11-29T19:01:05.579825,Policejní fuchtle vysíláno v přímém přenosu po ekonomických zm.dech,V,8,30.11. 12:00,93873
+2018-11-29T19:01:05.579825,Soudní prasopes vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93874
+2018-11-29T19:01:05.579825,Intelektuální mrzák vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93875
+2018-11-29T19:01:05.579825,Krucipablb vysíláno v přímém přenosu po ekonomických zm.dech,V,22,30.11. 12:00,93876
+2018-11-29T19:01:05.579825,Ministerský fekál vysíláno v přímém přenosu po ekonomických zm.dech,V,6,30.11. 12:00,93877
+2018-11-29T19:01:05.579825,Hov.o vysíláno v přímém přenosu po ekonomických zm.dech,V,7,30.11. 12:00,93878
+2018-11-29T19:01:05.579825,Ču.ák vysíláno v přímém přenosu po ekonomických zm.dech,V,13,30.11. 12:00,93879
+2018-11-29T19:01:05.579825,K.kot vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93882
+2018-11-29T19:01:05.579825,Buz.a vysíláno v přímém přenosu po ekonomických zm.dech,V,18,30.11. 12:00,93883
+2018-11-29T19:01:05.579825,Pí.a vysíláno v přímém přenosu po ekonomických zm.dech,V,5,30.11. 12:00,93884
+2018-11-29T19:01:05.579825,Všechny uvedené vulgarity najednou vulgarity infočíslo 93860-93884 / vysíláno v přímém přenosu po ekonomických zm.dech,V,666,30.11. 12:00,93897
+2018-11-29T19:01:05.579825,Jakákoliv další vulgarita vysíláno v přímém přenosu po ekonomických zm.dech,V,1.01,30.11. 12:00,93898
+2018-11-30T07:01:06.437205,Politický hejhula vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93860
+2018-11-30T07:01:06.437205,Vlezdobruselista vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93863
+2018-11-30T07:01:06.437205,Diplomatický bulík vysíláno v přímém přenosu po ekonomických zm.dech,V,30,30.11. 12:00,93864
+2018-11-30T07:01:06.437205,Senátorský flink vysíláno v přímém přenosu po ekonomických zm.dech,V,4,30.11. 12:00,93865
+2018-11-30T07:01:06.437205,Evropský křupan vysíláno v přímém přenosu po ekonomických zm.dech,V,25,30.11. 12:00,93866
+2018-11-30T07:01:06.437205,Policejní fuchtle vysíláno v přímém přenosu po ekonomických zm.dech,V,8,30.11. 12:00,93873
+2018-11-30T07:01:06.437205,Soudní prasopes vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93874
+2018-11-30T07:01:06.437205,Intelektuální mrzák vysíláno v přímém přenosu po ekonomických zm.dech,V,20,30.11. 12:00,93875
+2018-11-30T07:01:06.437205,Krucipablb vysíláno v přímém přenosu po ekonomických zm.dech,V,22,30.11. 12:00,93876
+2018-11-30T07:01:06.437205,Ministerský fekál vysíláno v přímém přenosu po ekonomických zm.dech,V,6,30.11. 12:00,93877
+2018-11-30T07:01:06.437205,Hov.o vysíláno v přímém přenosu po ekonomických zm.dech,V,7,30.11. 12:00,93878
+2018-11-30T07:01:06.437205,Ču.ák vysíláno v přímém přenosu po ekonomických zm.dech,V,13,30.11. 12:00,93879
+2018-11-30T07:01:06.437205,K.kot vysíláno v přímém přenosu po ekonomických zm.dech,V,11,30.11. 12:00,93882
+2018-11-30T07:01:06.437205,Buz.a vysíláno v přímém přenosu po ekonomických zm.dech,V,18,30.11. 12:00,93883
+2018-11-30T07:01:06.437205,Pí.a vysíláno v přímém přenosu po ekonomických zm.dech,V,5,30.11. 12:00,93884
+2018-11-30T07:01:06.437205,Všechny uvedené vulgarity najednou vulgarity infočíslo 93860-93884 / vysíláno v přímém přenosu po ekonomických zm.dech,V,666,30.11. 12:00,93897
+2018-11-30T07:01:06.437205,Jakákoliv další vulgarita vysíláno v přímém přenosu po ekonomických zm.dech,V,1.01,30.11. 12:00,93898
