@@ -30,7 +30,7 @@ jobs:
           pip install -r requirements.txt
       
       - name: Run scraper 
-        run: ifortuna.cz.py
+        run: python ifortuna.cz.py
 
       - name: Commit and push if it changed
         run: |-
