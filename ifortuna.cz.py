@@ -5,7 +5,7 @@ import datetime
 from lxml import html, etree
 import requests
 
-now = datetime.datetime.now().isoformat()
+now = datetime.datetime.utcnow().isoformat()
 
 url_base = "https://www.ifortuna.cz/bets/ajax/loadmoresport/"
 url_dir = "politika"
