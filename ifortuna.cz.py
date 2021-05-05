@@ -76,14 +76,17 @@ while next:
                         for tr in trs:
                             item = {'odds': []}
                             item['title'] = tr.xpath('./td[@class="col-title"]')[0].attrib['data-value']
-                            item['identifier'] = tr.xpath('./td[@class="col-title"]/span/span[@class="event-info-number"]')[0].text.strip()
+                            item['identifier'] = tr.xpath('.//span[@class="event-info-number"]')[0].text.strip()
                             tds = tr.xpath('./td[@class="col-odds"]')
                             for td in tds:
                                 a = td.xpath('./a')[0]
-                                item['odds'].append({
-                                    'info': a.attrib['data-info'],
-                                    'value': a.attrib['data-value']
-                                })
+                                try:
+                                    item['odds'].append({
+                                        'info': a.attrib['data-info'],
+                                        'value': a.attrib['data-value']
+                                    })
+                                except:
+                                    nothing = 'disabled'
                             item['date'] = tr.xpath('./td[@class="col-date"]')[0].attrib['data-value']
                             items.append(item)
                         with open("data/" + competition['id'] + ".csv", "a") as fout:
