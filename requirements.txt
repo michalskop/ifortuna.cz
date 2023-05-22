@@ -1,2 +1,2 @@
 requests_html
-requests
+pandas
