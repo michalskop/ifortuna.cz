@@ -1055,36 +1055,69 @@ date,event_info_number,event_name,event_link,odds,datum
 2023-06-07 04:07:06.073886,29092,Ivanka Trump,/sazeni/politika/usa-prezidentske-volby-2024/ivanka-trump-MCZ29525607,400.0,30.06. 23:55
 2023-06-07 04:07:06.073886,29069,muž,/sazeni/politika/usa-prezidentske-volby-2024/muz-MCZ29525721,1.1,30.06. 23:59
 2023-06-07 04:07:06.073886,29068,žena,/sazeni/politika/usa-prezidentske-volby-2024/zena-MCZ29525722,6.0,30.06. 23:59
-2023-06-07 16:07:20.267121,29097,Joe Biden,/sazeni/politika/usa-prezidentske-volby-2024/joe-biden-MCZ29525366,2.60,30.06. 23:55
-2023-06-07 16:07:20.267121,29096,Donald Trump,/sazeni/politika/usa-prezidentske-volby-2024/donald-trump-MCZ29525391,3.00,30.06. 23:55
-2023-06-07 16:07:20.267121,8330,Ron DeSantis,/sazeni/politika/usa-prezidentske-volby-2024/ron-desantis-MCZ40111402,6.00,30.06. 23:55
-2023-06-07 16:07:20.267121,23422,Robert F. Kennedy Jr.,/sazeni/politika/usa-prezidentske-volby-2024/robert-f-kennedy-jr--MCZ74161334,15.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29098,Kamala Harris,/sazeni/politika/usa-prezidentske-volby-2024/kamala-harris-MCZ29525342,22.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29095,Nikki Haley,/sazeni/politika/usa-prezidentske-volby-2024/nikki-haley-MCZ29525397,33.00,30.06. 23:55
-2023-06-07 16:07:20.267121,7906,Gavin Newsom,/sazeni/politika/usa-prezidentske-volby-2024/gavin-newsom-MCZ74742498,40.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29087,Pete Buttigieg,/sazeni/politika/usa-prezidentske-volby-2024/pete-buttigieg-MCZ29525616,40.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29091,Michelle Obama,/sazeni/politika/usa-prezidentske-volby-2024/michelle-obama-MCZ29525608,40.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29094,Mike Pence,/sazeni/politika/usa-prezidentske-volby-2024/mike-pence-MCZ29525409,45.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29080,Hillary Clinton,/sazeni/politika/usa-prezidentske-volby-2024/hillary-clinton-MCZ29525663,95.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29078,Joe Kennedy III,/sazeni/politika/usa-prezidentske-volby-2024/joe-kennedy-iii-MCZ29525697,100.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29089,Elizabeth Warren,/sazeni/politika/usa-prezidentske-volby-2024/elizabeth-warren-MCZ29525615,100.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29073,Marco Rubio,/sazeni/politika/usa-prezidentske-volby-2024/marco-rubio-MCZ29525702,125.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29074,John Kasich,/sazeni/politika/usa-prezidentske-volby-2024/john-kasich-MCZ29525701,125.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29077,Michael Bloomberg,/sazeni/politika/usa-prezidentske-volby-2024/michael-bloomberg-MCZ29525698,125.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29086,Ted Cruz,/sazeni/politika/usa-prezidentske-volby-2024/ted-cruz-MCZ29525618,125.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29093,Alexandria Ocasio-Cortez,/sazeni/politika/usa-prezidentske-volby-2024/alexandria-ocasio-cortez-MCZ29525606,125.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29082,Bill Gates,/sazeni/politika/usa-prezidentske-volby-2024/bill-gates-MCZ29525661,140.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29076,Chelsea Clinton,/sazeni/politika/usa-prezidentske-volby-2024/chelsea-clinton-MCZ29525699,175.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29081,Oprah Winfrey,/sazeni/politika/usa-prezidentske-volby-2024/oprah-winfrey-MCZ29525662,175.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29083,Bernie Sanders,/sazeni/politika/usa-prezidentske-volby-2024/bernie-sanders-MCZ29525660,175.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29072,Kanye West,/sazeni/politika/usa-prezidentske-volby-2024/kanye-west-MCZ29525703,200.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29075,George Clooney,/sazeni/politika/usa-prezidentske-volby-2024/george-clooney-MCZ29525700,200.00,30.06. 23:55
-2023-06-07 16:07:20.267121,6073,Meghan Markle,/sazeni/politika/usa-prezidentske-volby-2024/meghan-markle-MCZ41782839,250.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29070,Mark Zuckerberg,/sazeni/politika/usa-prezidentske-volby-2024/mark-zuckerberg-MCZ29525720,250.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29090,Dwayne Johnson,/sazeni/politika/usa-prezidentske-volby-2024/dwayne-johnson-MCZ29525613,250.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29079,Eric Trump,/sazeni/politika/usa-prezidentske-volby-2024/eric-trump-MCZ29525680,300.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29085,Andrew Cuomo,/sazeni/politika/usa-prezidentske-volby-2024/andrew-cuomo-MCZ29525619,300.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29084,Donald Trump Jr.,/sazeni/politika/usa-prezidentske-volby-2024/donald-trump-jr--MCZ29525659,325.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29092,Ivanka Trump,/sazeni/politika/usa-prezidentske-volby-2024/ivanka-trump-MCZ29525607,400.00,30.06. 23:55
-2023-06-07 16:07:20.267121,29069,muž,/sazeni/politika/usa-prezidentske-volby-2024/muz-MCZ29525721,1.10,30.06. 23:59
-2023-06-07 16:07:20.267121,29068,žena,/sazeni/politika/usa-prezidentske-volby-2024/zena-MCZ29525722,6.00,30.06. 23:59
+2023-06-07 16:07:20.267121,29097,Joe Biden,/sazeni/politika/usa-prezidentske-volby-2024/joe-biden-MCZ29525366,2.6,30.06. 23:55
+2023-06-07 16:07:20.267121,29096,Donald Trump,/sazeni/politika/usa-prezidentske-volby-2024/donald-trump-MCZ29525391,3.0,30.06. 23:55
+2023-06-07 16:07:20.267121,8330,Ron DeSantis,/sazeni/politika/usa-prezidentske-volby-2024/ron-desantis-MCZ40111402,6.0,30.06. 23:55
+2023-06-07 16:07:20.267121,23422,Robert F. Kennedy Jr.,/sazeni/politika/usa-prezidentske-volby-2024/robert-f-kennedy-jr--MCZ74161334,15.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29098,Kamala Harris,/sazeni/politika/usa-prezidentske-volby-2024/kamala-harris-MCZ29525342,22.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29095,Nikki Haley,/sazeni/politika/usa-prezidentske-volby-2024/nikki-haley-MCZ29525397,33.0,30.06. 23:55
+2023-06-07 16:07:20.267121,7906,Gavin Newsom,/sazeni/politika/usa-prezidentske-volby-2024/gavin-newsom-MCZ74742498,40.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29087,Pete Buttigieg,/sazeni/politika/usa-prezidentske-volby-2024/pete-buttigieg-MCZ29525616,40.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29091,Michelle Obama,/sazeni/politika/usa-prezidentske-volby-2024/michelle-obama-MCZ29525608,40.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29094,Mike Pence,/sazeni/politika/usa-prezidentske-volby-2024/mike-pence-MCZ29525409,45.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29080,Hillary Clinton,/sazeni/politika/usa-prezidentske-volby-2024/hillary-clinton-MCZ29525663,95.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29078,Joe Kennedy III,/sazeni/politika/usa-prezidentske-volby-2024/joe-kennedy-iii-MCZ29525697,100.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29089,Elizabeth Warren,/sazeni/politika/usa-prezidentske-volby-2024/elizabeth-warren-MCZ29525615,100.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29073,Marco Rubio,/sazeni/politika/usa-prezidentske-volby-2024/marco-rubio-MCZ29525702,125.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29074,John Kasich,/sazeni/politika/usa-prezidentske-volby-2024/john-kasich-MCZ29525701,125.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29077,Michael Bloomberg,/sazeni/politika/usa-prezidentske-volby-2024/michael-bloomberg-MCZ29525698,125.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29086,Ted Cruz,/sazeni/politika/usa-prezidentske-volby-2024/ted-cruz-MCZ29525618,125.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29093,Alexandria Ocasio-Cortez,/sazeni/politika/usa-prezidentske-volby-2024/alexandria-ocasio-cortez-MCZ29525606,125.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29082,Bill Gates,/sazeni/politika/usa-prezidentske-volby-2024/bill-gates-MCZ29525661,140.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29076,Chelsea Clinton,/sazeni/politika/usa-prezidentske-volby-2024/chelsea-clinton-MCZ29525699,175.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29081,Oprah Winfrey,/sazeni/politika/usa-prezidentske-volby-2024/oprah-winfrey-MCZ29525662,175.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29083,Bernie Sanders,/sazeni/politika/usa-prezidentske-volby-2024/bernie-sanders-MCZ29525660,175.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29072,Kanye West,/sazeni/politika/usa-prezidentske-volby-2024/kanye-west-MCZ29525703,200.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29075,George Clooney,/sazeni/politika/usa-prezidentske-volby-2024/george-clooney-MCZ29525700,200.0,30.06. 23:55
+2023-06-07 16:07:20.267121,6073,Meghan Markle,/sazeni/politika/usa-prezidentske-volby-2024/meghan-markle-MCZ41782839,250.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29070,Mark Zuckerberg,/sazeni/politika/usa-prezidentske-volby-2024/mark-zuckerberg-MCZ29525720,250.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29090,Dwayne Johnson,/sazeni/politika/usa-prezidentske-volby-2024/dwayne-johnson-MCZ29525613,250.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29079,Eric Trump,/sazeni/politika/usa-prezidentske-volby-2024/eric-trump-MCZ29525680,300.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29085,Andrew Cuomo,/sazeni/politika/usa-prezidentske-volby-2024/andrew-cuomo-MCZ29525619,300.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29084,Donald Trump Jr.,/sazeni/politika/usa-prezidentske-volby-2024/donald-trump-jr--MCZ29525659,325.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29092,Ivanka Trump,/sazeni/politika/usa-prezidentske-volby-2024/ivanka-trump-MCZ29525607,400.0,30.06. 23:55
+2023-06-07 16:07:20.267121,29069,muž,/sazeni/politika/usa-prezidentske-volby-2024/muz-MCZ29525721,1.1,30.06. 23:59
+2023-06-07 16:07:20.267121,29068,žena,/sazeni/politika/usa-prezidentske-volby-2024/zena-MCZ29525722,6.0,30.06. 23:59
+2023-06-08 04:07:24.009715,29097,Joe Biden,/sazeni/politika/usa-prezidentske-volby-2024/joe-biden-MCZ29525366,2.60,30.06. 23:55
+2023-06-08 04:07:24.009715,29096,Donald Trump,/sazeni/politika/usa-prezidentske-volby-2024/donald-trump-MCZ29525391,3.00,30.06. 23:55
+2023-06-08 04:07:24.009715,8330,Ron DeSantis,/sazeni/politika/usa-prezidentske-volby-2024/ron-desantis-MCZ40111402,6.00,30.06. 23:55
+2023-06-08 04:07:24.009715,23422,Robert F. Kennedy Jr.,/sazeni/politika/usa-prezidentske-volby-2024/robert-f-kennedy-jr--MCZ74161334,15.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29098,Kamala Harris,/sazeni/politika/usa-prezidentske-volby-2024/kamala-harris-MCZ29525342,22.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29095,Nikki Haley,/sazeni/politika/usa-prezidentske-volby-2024/nikki-haley-MCZ29525397,33.00,30.06. 23:55
+2023-06-08 04:07:24.009715,7906,Gavin Newsom,/sazeni/politika/usa-prezidentske-volby-2024/gavin-newsom-MCZ74742498,40.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29087,Pete Buttigieg,/sazeni/politika/usa-prezidentske-volby-2024/pete-buttigieg-MCZ29525616,40.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29091,Michelle Obama,/sazeni/politika/usa-prezidentske-volby-2024/michelle-obama-MCZ29525608,40.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29094,Mike Pence,/sazeni/politika/usa-prezidentske-volby-2024/mike-pence-MCZ29525409,45.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29080,Hillary Clinton,/sazeni/politika/usa-prezidentske-volby-2024/hillary-clinton-MCZ29525663,95.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29078,Joe Kennedy III,/sazeni/politika/usa-prezidentske-volby-2024/joe-kennedy-iii-MCZ29525697,100.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29089,Elizabeth Warren,/sazeni/politika/usa-prezidentske-volby-2024/elizabeth-warren-MCZ29525615,100.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29073,Marco Rubio,/sazeni/politika/usa-prezidentske-volby-2024/marco-rubio-MCZ29525702,125.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29074,John Kasich,/sazeni/politika/usa-prezidentske-volby-2024/john-kasich-MCZ29525701,125.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29077,Michael Bloomberg,/sazeni/politika/usa-prezidentske-volby-2024/michael-bloomberg-MCZ29525698,125.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29086,Ted Cruz,/sazeni/politika/usa-prezidentske-volby-2024/ted-cruz-MCZ29525618,125.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29093,Alexandria Ocasio-Cortez,/sazeni/politika/usa-prezidentske-volby-2024/alexandria-ocasio-cortez-MCZ29525606,125.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29082,Bill Gates,/sazeni/politika/usa-prezidentske-volby-2024/bill-gates-MCZ29525661,140.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29076,Chelsea Clinton,/sazeni/politika/usa-prezidentske-volby-2024/chelsea-clinton-MCZ29525699,175.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29081,Oprah Winfrey,/sazeni/politika/usa-prezidentske-volby-2024/oprah-winfrey-MCZ29525662,175.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29083,Bernie Sanders,/sazeni/politika/usa-prezidentske-volby-2024/bernie-sanders-MCZ29525660,175.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29072,Kanye West,/sazeni/politika/usa-prezidentske-volby-2024/kanye-west-MCZ29525703,200.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29075,George Clooney,/sazeni/politika/usa-prezidentske-volby-2024/george-clooney-MCZ29525700,200.00,30.06. 23:55
+2023-06-08 04:07:24.009715,6073,Meghan Markle,/sazeni/politika/usa-prezidentske-volby-2024/meghan-markle-MCZ41782839,250.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29070,Mark Zuckerberg,/sazeni/politika/usa-prezidentske-volby-2024/mark-zuckerberg-MCZ29525720,250.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29090,Dwayne Johnson,/sazeni/politika/usa-prezidentske-volby-2024/dwayne-johnson-MCZ29525613,250.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29079,Eric Trump,/sazeni/politika/usa-prezidentske-volby-2024/eric-trump-MCZ29525680,300.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29085,Andrew Cuomo,/sazeni/politika/usa-prezidentske-volby-2024/andrew-cuomo-MCZ29525619,300.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29084,Donald Trump Jr.,/sazeni/politika/usa-prezidentske-volby-2024/donald-trump-jr--MCZ29525659,325.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29092,Ivanka Trump,/sazeni/politika/usa-prezidentske-volby-2024/ivanka-trump-MCZ29525607,400.00,30.06. 23:55
+2023-06-08 04:07:24.009715,29069,muž,/sazeni/politika/usa-prezidentske-volby-2024/muz-MCZ29525721,1.10,30.06. 23:59
+2023-06-08 04:07:24.009715,29068,žena,/sazeni/politika/usa-prezidentske-volby-2024/zena-MCZ29525722,6.00,30.06. 23:59
