@@ -4172,36 +4172,70 @@ date,event_info_number,event_name,event_link,odds,datum
 2023-07-23 16:07:03.298933,29069,muž,/stavkovanie/politika/prezidentske-volby-usa-2024/men-MSK29525721,1.1,31.08. 23:59
 2023-07-23 16:07:03.298933,29068,žena,/stavkovanie/politika/prezidentske-volby-usa-2024/women-MSK29525722,6.0,31.08. 23:59
 2023-07-24 04:07:11.228939,29097,Joe Biden,/stavkovanie/politika/prezidentske-volby-usa-2024/joe-biden-MSK29525366,2.85,31.08. 23:55
-2023-07-24 04:07:11.228939,29096,Donald Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/donald-trump-MSK29525391,3.10,31.08. 23:55
-2023-07-24 04:07:11.228939,8330,Ron DeSantis,/stavkovanie/politika/prezidentske-volby-usa-2024/ron-desantis-MSK40111402,8.00,31.08. 23:55
-2023-07-24 04:07:11.228939,23422,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024/robert-f-kennedy-jr--MSK74161334,11.00,31.08. 23:55
-2023-07-24 04:07:11.228939,7906,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024/gavin-newsom-MSK74742498,15.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29098,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024/kamala-harris-MSK29525342,25.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29091,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024/michelle-obama-MSK29525608,30.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29095,Nikki Haley,/stavkovanie/politika/prezidentske-volby-usa-2024/nikki-haley-MSK29525397,33.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29087,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024/pete-buttigieg-MSK29525616,40.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29094,Mike Pence,/stavkovanie/politika/prezidentske-volby-usa-2024/mike-pence-MSK29525409,45.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29080,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024/hillary-clinton-MSK29525663,95.00,31.08. 23:55
-2023-07-24 04:07:11.228939,6705,Arnold Schwarzenegger,/stavkovanie/politika/prezidentske-volby-usa-2024/arnold-schwarzenegger-MSK76599858,100.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29078,Joe Kennedy III,/stavkovanie/politika/prezidentske-volby-usa-2024/joe-kennedy-iii-MSK29525697,100.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29089,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024/elizabeth-warren-MSK29525615,100.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29073,Marco Rubio,/stavkovanie/politika/prezidentske-volby-usa-2024/marco-rubio-MSK29525702,125.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29074,John Kasich,/stavkovanie/politika/prezidentske-volby-usa-2024/john-kasich-MSK29525701,125.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29077,Michael Bloomberg,/stavkovanie/politika/prezidentske-volby-usa-2024/michael-bloomberg-MSK29525698,125.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29086,Ted Cruz,/stavkovanie/politika/prezidentske-volby-usa-2024/ted-cruz-MSK29525618,125.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29093,Alexandria Ocasio-Cortez,/stavkovanie/politika/prezidentske-volby-usa-2024/alexandria-ocasio-cortez-MSK29525606,125.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29082,Bill Gates,/stavkovanie/politika/prezidentske-volby-usa-2024/bill-gates-MSK29525661,140.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29076,Chelsea Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024/chelsea-clinton-MSK29525699,175.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29081,Oprah Winfrey,/stavkovanie/politika/prezidentske-volby-usa-2024/oprah-winfrey-MSK29525662,175.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29083,Bernie Sanders,/stavkovanie/politika/prezidentske-volby-usa-2024/bernie-sanders-MSK29525660,175.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29072,Kanye West,/stavkovanie/politika/prezidentske-volby-usa-2024/kanye-west-MSK29525703,200.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29075,George Clooney,/stavkovanie/politika/prezidentske-volby-usa-2024/george-clooney-MSK29525700,200.00,31.08. 23:55
-2023-07-24 04:07:11.228939,6073,Meghan Markle,/stavkovanie/politika/prezidentske-volby-usa-2024/meghan-markle-MSK41782839,250.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29070,Mark Zuckerberg,/stavkovanie/politika/prezidentske-volby-usa-2024/mark-zuckerberg-MSK29525720,250.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29090,Dwayne Johnson,/stavkovanie/politika/prezidentske-volby-usa-2024/dwayne-johnson-MSK29525613,250.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29079,Eric Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/eric-trump-MSK29525680,300.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29085,Andrew Cuomo,/stavkovanie/politika/prezidentske-volby-usa-2024/andrew-cuomo-MSK29525619,300.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29084,Donald Trump Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024/donald-trump-jr--MSK29525659,325.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29092,Ivanka Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/ivanka-trump-MSK29525607,400.00,31.08. 23:55
-2023-07-24 04:07:11.228939,29069,muž,/stavkovanie/politika/prezidentske-volby-usa-2024/men-MSK29525721,1.10,31.08. 23:59
-2023-07-24 04:07:11.228939,29068,žena,/stavkovanie/politika/prezidentske-volby-usa-2024/women-MSK29525722,6.00,31.08. 23:59
+2023-07-24 04:07:11.228939,29096,Donald Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/donald-trump-MSK29525391,3.1,31.08. 23:55
+2023-07-24 04:07:11.228939,8330,Ron DeSantis,/stavkovanie/politika/prezidentske-volby-usa-2024/ron-desantis-MSK40111402,8.0,31.08. 23:55
+2023-07-24 04:07:11.228939,23422,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024/robert-f-kennedy-jr--MSK74161334,11.0,31.08. 23:55
+2023-07-24 04:07:11.228939,7906,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024/gavin-newsom-MSK74742498,15.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29098,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024/kamala-harris-MSK29525342,25.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29091,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024/michelle-obama-MSK29525608,30.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29095,Nikki Haley,/stavkovanie/politika/prezidentske-volby-usa-2024/nikki-haley-MSK29525397,33.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29087,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024/pete-buttigieg-MSK29525616,40.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29094,Mike Pence,/stavkovanie/politika/prezidentske-volby-usa-2024/mike-pence-MSK29525409,45.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29080,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024/hillary-clinton-MSK29525663,95.0,31.08. 23:55
+2023-07-24 04:07:11.228939,6705,Arnold Schwarzenegger,/stavkovanie/politika/prezidentske-volby-usa-2024/arnold-schwarzenegger-MSK76599858,100.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29078,Joe Kennedy III,/stavkovanie/politika/prezidentske-volby-usa-2024/joe-kennedy-iii-MSK29525697,100.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29089,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024/elizabeth-warren-MSK29525615,100.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29073,Marco Rubio,/stavkovanie/politika/prezidentske-volby-usa-2024/marco-rubio-MSK29525702,125.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29074,John Kasich,/stavkovanie/politika/prezidentske-volby-usa-2024/john-kasich-MSK29525701,125.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29077,Michael Bloomberg,/stavkovanie/politika/prezidentske-volby-usa-2024/michael-bloomberg-MSK29525698,125.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29086,Ted Cruz,/stavkovanie/politika/prezidentske-volby-usa-2024/ted-cruz-MSK29525618,125.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29093,Alexandria Ocasio-Cortez,/stavkovanie/politika/prezidentske-volby-usa-2024/alexandria-ocasio-cortez-MSK29525606,125.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29082,Bill Gates,/stavkovanie/politika/prezidentske-volby-usa-2024/bill-gates-MSK29525661,140.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29076,Chelsea Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024/chelsea-clinton-MSK29525699,175.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29081,Oprah Winfrey,/stavkovanie/politika/prezidentske-volby-usa-2024/oprah-winfrey-MSK29525662,175.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29083,Bernie Sanders,/stavkovanie/politika/prezidentske-volby-usa-2024/bernie-sanders-MSK29525660,175.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29072,Kanye West,/stavkovanie/politika/prezidentske-volby-usa-2024/kanye-west-MSK29525703,200.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29075,George Clooney,/stavkovanie/politika/prezidentske-volby-usa-2024/george-clooney-MSK29525700,200.0,31.08. 23:55
+2023-07-24 04:07:11.228939,6073,Meghan Markle,/stavkovanie/politika/prezidentske-volby-usa-2024/meghan-markle-MSK41782839,250.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29070,Mark Zuckerberg,/stavkovanie/politika/prezidentske-volby-usa-2024/mark-zuckerberg-MSK29525720,250.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29090,Dwayne Johnson,/stavkovanie/politika/prezidentske-volby-usa-2024/dwayne-johnson-MSK29525613,250.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29079,Eric Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/eric-trump-MSK29525680,300.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29085,Andrew Cuomo,/stavkovanie/politika/prezidentske-volby-usa-2024/andrew-cuomo-MSK29525619,300.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29084,Donald Trump Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024/donald-trump-jr--MSK29525659,325.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29092,Ivanka Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/ivanka-trump-MSK29525607,400.0,31.08. 23:55
+2023-07-24 04:07:11.228939,29069,muž,/stavkovanie/politika/prezidentske-volby-usa-2024/men-MSK29525721,1.1,31.08. 23:59
+2023-07-24 04:07:11.228939,29068,žena,/stavkovanie/politika/prezidentske-volby-usa-2024/women-MSK29525722,6.0,31.08. 23:59
+2023-07-24 16:07:09.849278,29097,Joe Biden,/stavkovanie/politika/prezidentske-volby-usa-2024/joe-biden-MSK29525366,2.85,31.08. 23:55
+2023-07-24 16:07:09.849278,29096,Donald Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/donald-trump-MSK29525391,3.10,31.08. 23:55
+2023-07-24 16:07:09.849278,8330,Ron DeSantis,/stavkovanie/politika/prezidentske-volby-usa-2024/ron-desantis-MSK40111402,8.00,31.08. 23:55
+2023-07-24 16:07:09.849278,23422,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024/robert-f-kennedy-jr--MSK74161334,11.00,31.08. 23:55
+2023-07-24 16:07:09.849278,7906,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024/gavin-newsom-MSK74742498,15.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29098,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024/kamala-harris-MSK29525342,25.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29091,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024/michelle-obama-MSK29525608,30.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29095,Nikki Haley,/stavkovanie/politika/prezidentske-volby-usa-2024/nikki-haley-MSK29525397,33.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29087,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024/pete-buttigieg-MSK29525616,40.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29094,Mike Pence,/stavkovanie/politika/prezidentske-volby-usa-2024/mike-pence-MSK29525409,45.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29080,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024/hillary-clinton-MSK29525663,95.00,31.08. 23:55
+2023-07-24 16:07:09.849278,6705,Arnold Schwarzenegger,/stavkovanie/politika/prezidentske-volby-usa-2024/arnold-schwarzenegger-MSK76599858,100.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29078,Joe Kennedy III,/stavkovanie/politika/prezidentske-volby-usa-2024/joe-kennedy-iii-MSK29525697,100.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29089,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024/elizabeth-warren-MSK29525615,100.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29073,Marco Rubio,/stavkovanie/politika/prezidentske-volby-usa-2024/marco-rubio-MSK29525702,125.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29074,John Kasich,/stavkovanie/politika/prezidentske-volby-usa-2024/john-kasich-MSK29525701,125.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29077,Michael Bloomberg,/stavkovanie/politika/prezidentske-volby-usa-2024/michael-bloomberg-MSK29525698,125.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29086,Ted Cruz,/stavkovanie/politika/prezidentske-volby-usa-2024/ted-cruz-MSK29525618,125.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29093,Alexandria Ocasio-Cortez,/stavkovanie/politika/prezidentske-volby-usa-2024/alexandria-ocasio-cortez-MSK29525606,125.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29082,Bill Gates,/stavkovanie/politika/prezidentske-volby-usa-2024/bill-gates-MSK29525661,140.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29076,Chelsea Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024/chelsea-clinton-MSK29525699,175.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29081,Oprah Winfrey,/stavkovanie/politika/prezidentske-volby-usa-2024/oprah-winfrey-MSK29525662,175.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29083,Bernie Sanders,/stavkovanie/politika/prezidentske-volby-usa-2024/bernie-sanders-MSK29525660,175.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29072,Kanye West,/stavkovanie/politika/prezidentske-volby-usa-2024/kanye-west-MSK29525703,200.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29075,George Clooney,/stavkovanie/politika/prezidentske-volby-usa-2024/george-clooney-MSK29525700,200.00,31.08. 23:55
+2023-07-24 16:07:09.849278,6073,Meghan Markle,/stavkovanie/politika/prezidentske-volby-usa-2024/meghan-markle-MSK41782839,250.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29070,Mark Zuckerberg,/stavkovanie/politika/prezidentske-volby-usa-2024/mark-zuckerberg-MSK29525720,250.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29090,Dwayne Johnson,/stavkovanie/politika/prezidentske-volby-usa-2024/dwayne-johnson-MSK29525613,250.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29079,Eric Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/eric-trump-MSK29525680,300.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29085,Andrew Cuomo,/stavkovanie/politika/prezidentske-volby-usa-2024/andrew-cuomo-MSK29525619,300.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29084,Donald Trump Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024/donald-trump-jr--MSK29525659,325.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29092,Ivanka Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/ivanka-trump-MSK29525607,400.00,31.08. 23:55
+2023-07-24 16:07:09.849278,29069,muž,/stavkovanie/politika/prezidentske-volby-usa-2024/men-MSK29525721,1.10,31.08. 23:59
+2023-07-24 16:07:09.849278,29068,žena,/stavkovanie/politika/prezidentske-volby-usa-2024/women-MSK29525722,6.00,31.08. 23:59
