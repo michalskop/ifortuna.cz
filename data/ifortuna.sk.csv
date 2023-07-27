@@ -470,9 +470,17 @@ date,competition_id,competition_name,competition_link
 2023-07-26 16:07:03.099751,MCZ10070,Slovensko-Parlamentní volby 2023-počet procent,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent
 2023-07-26 16:07:03.099751,MCZ42589,Slovensko-Prezidentské volby 2024,/sazeni/politika/slovensko-prezidentske-volby-2024
 2023-07-26 16:07:03.099751,MCZ30870,USA-Prezidentské volby 2024,/sazeni/politika/usa-prezidentske-volby-2024
-2023-07-26 16:07:08.495816,MSK25950,Slovensko-Parlamentné voľby 2023-víťaz,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz
-2023-07-26 16:07:08.495816,MSK26351,Slovensko-Parlamentné voľby 2023-umiestnenie do 2.miesta,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta
-2023-07-26 16:07:08.495816,MSK26352,Slovensko-Parlamentné voľby 2023-umiestnenie do 3.miesta,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-3-miesta
-2023-07-26 16:07:08.495816,MSK10070,Slovensko-Parlamentné voľby 2023-počet percent,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent
-2023-07-26 16:07:08.495816,MSK42589,Slovensko - Prezidentské voľby 2024,/stavkovanie/politika/slovensko-prezidentske-volby-2024
-2023-07-26 16:07:08.495816,MSK30870,Prezidentské voľby USA 2024,/stavkovanie/politika/prezidentske-volby-usa-2024
+2023-07-27 04:07:06.729072,MCZ42865,Slovensko-Parlamentní volby 2023,/sazeni/politika/slovensko-parlamentni-volby-2023
+2023-07-27 04:07:06.729072,MCZ25950,Slovensko-Parlamentní volby 2023-vítěz,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez
+2023-07-27 04:07:06.729072,MCZ26351,Slovensko-Parlamentní volby 2023-umístění do 2.místa,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista
+2023-07-27 04:07:06.729072,MCZ26352,Slovensko-Parlamentní volby 2023-umístění do 3.místa,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-3-mista
+2023-07-27 04:07:06.729072,MCZ10070,Slovensko-Parlamentní volby 2023-počet procent,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent
+2023-07-27 04:07:06.729072,MCZ42589,Slovensko-Prezidentské volby 2024,/sazeni/politika/slovensko-prezidentske-volby-2024
+2023-07-27 04:07:06.729072,MCZ30870,USA-Prezidentské volby 2024,/sazeni/politika/usa-prezidentske-volby-2024
+2023-07-27 04:07:13.508414,MSK25950,Slovensko-Parlamentné voľby 2023-víťaz,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz
+2023-07-27 04:07:13.508414,MSK26351,Slovensko-Parlamentné voľby 2023-umiestnenie do 2.miesta,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta
+2023-07-27 04:07:13.508414,MSK26352,Slovensko-Parlamentné voľby 2023-umiestnenie do 3.miesta,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-3-miesta
+2023-07-27 04:07:13.508414,MSK10070,Slovensko-Parlamentné voľby 2023-počet percent,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent
+2023-07-27 04:07:13.508414,MSK42865,Slovensko-Parlamentné voľby 2023,/stavkovanie/politika/slovensko-parlamentne-volby-2023
+2023-07-27 04:07:13.508414,MSK42589,Slovensko - Prezidentské voľby 2024,/stavkovanie/politika/slovensko-prezidentske-volby-2024
+2023-07-27 04:07:13.508414,MSK30870,Prezidentské voľby USA 2024,/stavkovanie/politika/prezidentske-volby-usa-2024
