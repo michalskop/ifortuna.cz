@@ -54,13 +54,26 @@ date,event_info_number,event_name,event_link,odds,datum
 2023-07-28 16:07:03.338615,7408,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/smer-MCZ78108995,1.04,7.97
 2023-07-28 16:07:03.338615,7413,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/progresivne-slovensko-MCZ78108996,1.20,3.94
 2023-07-28 16:07:03.338615,7416,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/hlas-MCZ78108999,4.20,1.18
-2023-07-28 16:07:03.338615,7429,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/republika-MCZ78109000,12.00,-1.00
-2023-07-28 16:07:03.338615,7432,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/olano-a-priatelia-MCZ78109001,20.00,-1.00
-2023-07-28 16:07:03.338615,7447,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sas-MCZ78109042,130.00,-1.00
-2023-07-28 16:07:03.338615,7455,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sme-rodina-MCZ78109043,140.00,-1.00
-2023-07-28 16:07:03.338615,7594,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/kdh-MCZ78109313,250.00,-1.00
-2023-07-28 16:07:03.338615,7595,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sns-MCZ78109314,300.00,-1.00
-2023-07-28 16:07:03.338615,7598,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/demokrati-MCZ78109315,800.00,-1.00
-2023-07-28 16:07:03.338615,7599,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/aliancia-MCZ78109316,1 000.00,-1.00
-2023-07-28 16:07:03.338615,7607,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/ls-nase-slovensko-MCZ78109317,1 500.00,-1.00
-2023-07-28 16:07:03.338615,7608,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/modri-most-hid-MCZ78109319,1 500.00,-1.00
+2023-07-28 16:07:03.338615,7429,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/republika-MCZ78109000,12.00,-1.0
+2023-07-28 16:07:03.338615,7432,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/olano-a-priatelia-MCZ78109001,20.00,-1.0
+2023-07-28 16:07:03.338615,7447,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sas-MCZ78109042,130.00,-1.0
+2023-07-28 16:07:03.338615,7455,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sme-rodina-MCZ78109043,140.00,-1.0
+2023-07-28 16:07:03.338615,7594,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/kdh-MCZ78109313,250.00,-1.0
+2023-07-28 16:07:03.338615,7595,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sns-MCZ78109314,300.00,-1.0
+2023-07-28 16:07:03.338615,7598,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/demokrati-MCZ78109315,800.00,-1.0
+2023-07-28 16:07:03.338615,7599,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/aliancia-MCZ78109316,1 000.00,-1.0
+2023-07-28 16:07:03.338615,7607,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/ls-nase-slovensko-MCZ78109317,1 500.00,-1.0
+2023-07-28 16:07:03.338615,7608,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/modri-most-hid-MCZ78109319,1 500.00,-1.0
+2023-07-29 04:07:12.054479,7408,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/smer-MCZ78108995,1.04,7.97
+2023-07-29 04:07:12.054479,7413,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/progresivne-slovensko-MCZ78108996,1.20,3.94
+2023-07-29 04:07:12.054479,7416,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/hlas-MCZ78108999,4.20,1.18
+2023-07-29 04:07:12.054479,7429,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/republika-MCZ78109000,12.00,-1.00
+2023-07-29 04:07:12.054479,7432,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/olano-a-priatelia-MCZ78109001,20.00,-1.00
+2023-07-29 04:07:12.054479,7447,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sas-MCZ78109042,130.00,-1.00
+2023-07-29 04:07:12.054479,7455,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sme-rodina-MCZ78109043,140.00,-1.00
+2023-07-29 04:07:12.054479,7594,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/kdh-MCZ78109313,250.00,-1.00
+2023-07-29 04:07:12.054479,7595,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/sns-MCZ78109314,300.00,-1.00
+2023-07-29 04:07:12.054479,7598,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/demokrati-MCZ78109315,800.00,-1.00
+2023-07-29 04:07:12.054479,7599,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/aliancia-MCZ78109316,1 000.00,-1.00
+2023-07-29 04:07:12.054479,7607,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/ls-nase-slovensko-MCZ78109317,1 500.00,-1.00
+2023-07-29 04:07:12.054479,7608,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-2-mista/modri-most-hid-MCZ78109319,1 500.00,-1.00
