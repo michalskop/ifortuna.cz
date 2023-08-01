@@ -145,13 +145,26 @@ date,event_info_number,event_name,event_link,odds,datum
 2023-08-01 04:07:34.893026,7153,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/smer-MSK78108332,1.55,2.26
 2023-08-01 04:07:34.893026,7156,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/progresivne-slovensko-MSK78108333,3.00,1.33
 2023-08-01 04:07:34.893026,7159,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/hlas-MSK78108335,12.00,1.01
-2023-08-01 04:07:34.893026,7176,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/republika-MSK78108336,65.00,-1.00
-2023-08-01 04:07:34.893026,7177,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/olano-a-priatelia-MSK78108337,100.00,-1.00
-2023-08-01 04:07:34.893026,7178,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sas-MSK78108341,400.00,-1.00
-2023-08-01 04:07:34.893026,7180,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sme-rodina-MSK78108343,500.00,-1.00
-2023-08-01 04:07:34.893026,7200,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/kdh-MSK78108345,700.00,-1.00
-2023-08-01 04:07:34.893026,7202,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sns-MSK78108347,800.00,-1.00
-2023-08-01 04:07:34.893026,7203,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/demokrati-MSK78108351,1 500.00,-1.00
-2023-08-01 04:07:34.893026,7206,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/aliancia-MSK78108352,2 222.00,-1.00
-2023-08-01 04:07:34.893026,7212,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/ls-nase-slovensko-MSK78108355,3 000.00,-1.00
-2023-08-01 04:07:34.893026,7228,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/modri-most-hid-MSK78108356,3 333.00,-1.00
+2023-08-01 04:07:34.893026,7176,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/republika-MSK78108336,65.00,-1.0
+2023-08-01 04:07:34.893026,7177,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/olano-a-priatelia-MSK78108337,100.00,-1.0
+2023-08-01 04:07:34.893026,7178,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sas-MSK78108341,400.00,-1.0
+2023-08-01 04:07:34.893026,7180,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sme-rodina-MSK78108343,500.00,-1.0
+2023-08-01 04:07:34.893026,7200,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/kdh-MSK78108345,700.00,-1.0
+2023-08-01 04:07:34.893026,7202,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sns-MSK78108347,800.00,-1.0
+2023-08-01 04:07:34.893026,7203,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/demokrati-MSK78108351,1 500.00,-1.0
+2023-08-01 04:07:34.893026,7206,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/aliancia-MSK78108352,2 222.00,-1.0
+2023-08-01 04:07:34.893026,7212,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/ls-nase-slovensko-MSK78108355,3 000.00,-1.0
+2023-08-01 04:07:34.893026,7228,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/modri-most-hid-MSK78108356,3 333.00,-1.0
+2023-08-01 16:07:24.954984,7153,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/smer-MSK78108332,1.55,2.26
+2023-08-01 16:07:24.954984,7156,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/progresivne-slovensko-MSK78108333,2.90,1.35
+2023-08-01 16:07:24.954984,7159,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/hlas-MSK78108335,14.00,-1.00
+2023-08-01 16:07:24.954984,7176,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/republika-MSK78108336,90.00,-1.00
+2023-08-01 16:07:24.954984,7177,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/olano-a-priatelia-MSK78108337,100.00,-1.00
+2023-08-01 16:07:24.954984,7178,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sas-MSK78108341,500.00,-1.00
+2023-08-01 16:07:24.954984,7180,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sme-rodina-MSK78108343,500.00,-1.00
+2023-08-01 16:07:24.954984,7200,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/kdh-MSK78108345,750.00,-1.00
+2023-08-01 16:07:24.954984,7202,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sns-MSK78108347,750.00,-1.00
+2023-08-01 16:07:24.954984,7203,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/demokrati-MSK78108351,2 000.00,-1.00
+2023-08-01 16:07:24.954984,7206,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/aliancia-MSK78108352,2 500.00,-1.00
+2023-08-01 16:07:24.954984,7212,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/ls-nase-slovensko-MSK78108355,3 333.00,-1.00
+2023-08-01 16:07:24.954984,7228,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/modri-most-hid-MSK78108356,3 333.00,-1.00
