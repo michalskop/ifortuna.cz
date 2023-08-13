@@ -49,33 +49,65 @@ for domain in domains:
     competitions.append([now, competition_id, competition_name, competition_link])
 
   # write to file
-  df = pd.read_csv('data/ifortuna.cz.csv')
+  df = pd.read_csv('data/ifortuna.' + domain['domain'] + '.csv')
   pd.concat([df, pd.DataFrame(competitions, columns=['date', 'competition_id', 'competition_name', 'competition_link'])]).to_csv('data/ifortuna.' + domain['domain'] + '.csv', index=False)
 
   # get the odds
   for competition in competitions:
-    # prepare/read the file
-    fname = 'data/' + competition[1] + '.csv'
-    if os.path.isfile(fname):
-      # Read the CSV file
-      df = pd.read_csv(fname)
-    else:
-      df = pd.DataFrame(columns=['date', 'event_info_number', 'event_name', 'event_link', 'odds', 'datum'])
     url = 'https://www.ifortuna.' + domain['domain'] + competition[3]
     print(url)
     r = session.get(url, timeout=10, proxies=proxy_servers)
-    table = r.html.find('.events-table', first=True)
-    tbody = table.find('tbody', first=True)
-    trs = tbody.find('tr')
-    rows = []
-    for tr in trs:
-      tds = tr.find('td')
-      event_info_number = tr.find('.event-info-number', first=True).text
-      event_name = tds[0].attrs['data-value']
-      event_link = tds[0].find('a', first=True).attrs['href']
-      odds = tds[1].text
-      odds2 = tds[2].text
-      datum = tds[-1].text
-      rows.append([now, event_info_number, event_name, event_link, odds, odds2, datum])
-    # write to file
-    pd.concat([df, pd.DataFrame(rows, columns=['date', 'event_info_number', 'event_name', 'event_link', 'odds', 'odds2', 'datum'])]).to_csv(fname, index=False)
+    tables = r.html.find('.events-table')
+    if len(tables) == 1:
+      # prepare/read the file
+      fname = 'data/' + competition[1] + '.csv'
+      if os.path.isfile(fname):
+        # Read the CSV file
+        df = pd.read_csv(fname)
+      else:
+        df = pd.DataFrame(columns=['date', 'event_info_number', 'event_name', 'event_link', 'odds', 'datum'])
+      
+      table = tables[0]
+      table = r.html.find('.events-table', first=True)
+      tbody = table.find('tbody', first=True)
+      trs = tbody.find('tr')
+      rows = []
+      for tr in trs:
+        tds = tr.find('td')
+        event_info_number = tr.find('.event-info-number', first=True).text
+        event_name = tds[0].attrs['data-value']
+        event_link = tds[0].find('a', first=True).attrs['href']
+        odds = tds[1].text
+        odds2 = tds[2].text
+        datum = tds[-1].text
+        rows.append([now, event_info_number, event_name, event_link, odds, odds2, datum])
+      # write to file
+      pd.concat([df, pd.DataFrame(rows, columns=['date', 'event_info_number', 'event_name', 'event_link', 'odds', 'odds2', 'datum'])]).to_csv(fname, index=False)
+    else:
+      for table in tables:
+        # prepare/read the file
+        fname = 'data/' + competition[1] + '.v2-1.csv'
+        if os.path.isfile(fname):
+          # Read the CSV file
+          df = pd.read_csv(fname)
+        else:
+          df = pd.DataFrame(columns=['date', 'event_info_number', 'event_name', 'event_link', 'header1', 'header2', 'odd1', 'odd2', 'datum'])
+        
+        thead = table.find('thead', first=True)
+        header1 = thead.find('th')[1].text
+        header2 = thead.find('th')[2].text
+
+        tbody = table.find('tbody', first=True)
+        trs = tbody.find('tr')
+        rows = []
+        for tr in trs:
+          tds = tr.find('td')
+          event_info_number = tr.find('.event-info-number', first=True).text
+          event_name = tds[0].attrs['data-value']
+          event_link = tds[0].find('a', first=True).attrs['href']
+          odd1 = tds[1].text
+          odd2 = tds[2].text
+          datum = tds[-1].text
+          rows.append([now, event_info_number, event_name, event_link, header1, header2, odd1, odd2, datum])
+        # write to file
+        pd.concat([df, pd.DataFrame(rows, columns=['date', 'event_info_number', 'event_name', 'event_link', 'header1', 'header2', 'odd1', 'odd2', 'datum'])]).to_csv(fname, index=False)
