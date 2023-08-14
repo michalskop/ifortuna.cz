@@ -662,11 +662,11 @@ date,event_info_number,event_name,event_link,odds,odds2,datum
 2023-08-14 01:55:40.736944,13641,Smer - Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/smer-progresivne-slovensko-MSK78200793,1.45,2.52,30.09. 07:00
 2023-08-14 01:55:40.736944,13659,Smer - Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/smer-hlas-MSK78200795,1.03,8.61,30.09. 07:00
 2023-08-14 01:55:40.736944,13662,Progresívne Slovensko - Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/progresivne-slovensko-hlas-MSK78200818,1.11,5.37,30.09. 07:00
-2023-08-14 01:55:40.736944,13665,Hlas - Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/hlas-republika-MSK78200831,1.30,3.15,30.09. 07:00
-2023-08-14 01:55:40.736944,13669,Hlas - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/hlas-olano-a-priatelia-MSK78200832,1.50,2.38,30.09. 07:00
+2023-08-14 01:55:40.736944,13665,Hlas - Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/hlas-republika-MSK78200831,1.3,3.15,30.09. 07:00
+2023-08-14 01:55:40.736944,13669,Hlas - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/hlas-olano-a-priatelia-MSK78200832,1.5,2.38,30.09. 07:00
 2023-08-14 01:55:40.736944,13675,Republika - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-olano-a-priatelia-MSK78200834,1.85,1.83,30.09. 07:00
 2023-08-14 01:55:40.736944,13686,Republika - SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-sas-MSK78200838,1.28,3.27,30.09. 07:00
-2023-08-14 01:55:40.736944,13690,Republika - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-sme-rodina-MSK78200839,1.20,3.94,30.09. 07:00
+2023-08-14 01:55:40.736944,13690,Republika - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-sme-rodina-MSK78200839,1.2,3.94,30.09. 07:00
 2023-08-14 01:55:40.736944,13703,OĽANO A PRIATELIA - SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-sas-MSK78200841,1.42,2.61,30.09. 07:00
 2023-08-14 01:55:40.736944,13706,OĽANO A PRIATELIA - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-sme-rodina-MSK78200843,1.33,2.98,30.09. 07:00
 2023-08-14 01:55:40.736944,13710,OĽANO A PRIATELIA - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-kdh-MSK78200845,1.25,3.48,30.09. 07:00
@@ -674,8 +674,28 @@ date,event_info_number,event_name,event_link,odds,odds2,datum
 2023-08-14 01:55:40.736944,13738,SaS - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-sme-rodina-MSK78200860,1.55,2.26,30.09. 07:00
 2023-08-14 01:55:40.736944,13742,SaS - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-kdh-MSK78200975,1.65,2.08,30.09. 07:00
 2023-08-14 01:55:40.736944,13747,SaS - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-sns-MSK78200976,1.82,1.86,30.09. 07:00
-2023-08-14 01:55:40.736944,13749,Sme rodina - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-kdh-MSK78200985,1.80,1.88,30.09. 07:00
+2023-08-14 01:55:40.736944,13749,Sme rodina - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-kdh-MSK78200985,1.8,1.88,30.09. 07:00
 2023-08-14 01:55:40.736944,13750,Sme rodina - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-sns-MSK78200991,1.98,1.72,30.09. 07:00
 2023-08-14 01:55:40.736944,13817,KDH - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/kdh-sns-MSK78200998,2.08,1.65,30.09. 07:00
-2023-08-14 01:55:40.736944,13819,Aliancia - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/aliancia-demokrati-MSK78201065,1.50,2.38,30.09. 07:00
-2023-08-14 01:55:40.736944,13823,"ĽS Naše Slovensko - Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/ls-nase-slovensko-modri-most-hid-MSK78201068,1.60,2.16,30.09. 07:00
+2023-08-14 01:55:40.736944,13819,Aliancia - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/aliancia-demokrati-MSK78201065,1.5,2.38,30.09. 07:00
+2023-08-14 01:55:40.736944,13823,"ĽS Naše Slovensko - Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/ls-nase-slovensko-modri-most-hid-MSK78201068,1.6,2.16,30.09. 07:00
+2023-08-14 04:07:43.392179,13641,Smer - Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/smer-progresivne-slovensko-MSK78200793,1.45,2.52,30.09. 07:00
+2023-08-14 04:07:43.392179,13659,Smer - Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/smer-hlas-MSK78200795,1.03,8.61,30.09. 07:00
+2023-08-14 04:07:43.392179,13662,Progresívne Slovensko - Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/progresivne-slovensko-hlas-MSK78200818,1.11,5.37,30.09. 07:00
+2023-08-14 04:07:43.392179,13665,Hlas - Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/hlas-republika-MSK78200831,1.30,3.15,30.09. 07:00
+2023-08-14 04:07:43.392179,13669,Hlas - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/hlas-olano-a-priatelia-MSK78200832,1.50,2.38,30.09. 07:00
+2023-08-14 04:07:43.392179,13675,Republika - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-olano-a-priatelia-MSK78200834,1.85,1.83,30.09. 07:00
+2023-08-14 04:07:43.392179,13686,Republika - SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-sas-MSK78200838,1.28,3.27,30.09. 07:00
+2023-08-14 04:07:43.392179,13690,Republika - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-sme-rodina-MSK78200839,1.20,3.94,30.09. 07:00
+2023-08-14 04:07:43.392179,13703,OĽANO A PRIATELIA - SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-sas-MSK78200841,1.42,2.61,30.09. 07:00
+2023-08-14 04:07:43.392179,13706,OĽANO A PRIATELIA - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-sme-rodina-MSK78200843,1.33,2.98,30.09. 07:00
+2023-08-14 04:07:43.392179,13710,OĽANO A PRIATELIA - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-kdh-MSK78200845,1.25,3.48,30.09. 07:00
+2023-08-14 04:07:43.392179,13737,OĽANO A PRIATELIA - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-sns-MSK78200846,1.35,2.89,30.09. 07:00
+2023-08-14 04:07:43.392179,13738,SaS - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-sme-rodina-MSK78200860,1.55,2.26,30.09. 07:00
+2023-08-14 04:07:43.392179,13742,SaS - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-kdh-MSK78200975,1.65,2.08,30.09. 07:00
+2023-08-14 04:07:43.392179,13747,SaS - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-sns-MSK78200976,1.82,1.86,30.09. 07:00
+2023-08-14 04:07:43.392179,13749,Sme rodina - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-kdh-MSK78200985,1.80,1.88,30.09. 07:00
+2023-08-14 04:07:43.392179,13750,Sme rodina - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-sns-MSK78200991,1.98,1.72,30.09. 07:00
+2023-08-14 04:07:43.392179,13817,KDH - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/kdh-sns-MSK78200998,2.08,1.65,30.09. 07:00
+2023-08-14 04:07:43.392179,13819,Aliancia - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/aliancia-demokrati-MSK78201065,1.50,2.38,30.09. 07:00
+2023-08-14 04:07:43.392179,13823,"ĽS Naše Slovensko - Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/ls-nase-slovensko-modri-most-hid-MSK78201068,1.60,2.16,30.09. 07:00
