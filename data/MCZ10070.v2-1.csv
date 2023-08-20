@@ -305,5 +305,33 @@ date,event_info_number,event_name,event_link,header1,header2,odd1,odd2,datum
 2023-08-19 16:07:04.252828,15266,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/demokrati-MCZ78154877,- 3.01,+ 3.01,1.88,1.8,30.09. 07:00
 2023-08-19 16:07:04.252828,15289,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/aliancia-MCZ78155189,- 5.01,+ 5.01,1.08,6.21,30.09. 07:00
 2023-08-19 16:07:04.252828,15290,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/aliancia-MCZ78155191,- 3.01,+ 3.01,2.16,1.6,30.09. 07:00
-2023-08-19 16:07:04.252828,15339,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/modri-most-hid-MCZ78155215,- 5.01,+ 5.01,-1.00,40.00,30.09. 07:00
-2023-08-19 16:07:04.252828,15514,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/ls-nase-slovensko-MCZ78155336,- 5.01,+ 5.01,-1.00,30.00,30.09. 07:00
+2023-08-19 16:07:04.252828,15339,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/modri-most-hid-MCZ78155215,- 5.01,+ 5.01,-1.0,40.0,30.09. 07:00
+2023-08-19 16:07:04.252828,15514,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/ls-nase-slovensko-MCZ78155336,- 5.01,+ 5.01,-1.0,30.0,30.09. 07:00
+2023-08-20 04:07:23.962386,12712,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/smer-MCZ78152941,- 5.01,+ 5.01,350.0,-1.0,30.09. 07:00
+2023-08-20 04:07:23.962386,12713,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/smer-MCZ78152942,- 20.51,+ 20.51,2.26,1.55,30.09. 07:00
+2023-08-20 04:07:23.962386,12714,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/smer-MCZ78152943,- 21.51,+ 21.51,2.0,1.7,30.09. 07:00
+2023-08-20 04:07:23.962386,12831,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/progresivne-slovensko-MCZ78152953,- 5.01,+ 5.01,100.0,-1.0,30.09. 07:00
+2023-08-20 04:07:23.962386,12901,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/progresivne-slovensko-MCZ78152957,- 17.51,+ 17.51,2.08,1.65,30.09. 07:00
+2023-08-20 04:07:23.962386,12902,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/progresivne-slovensko-MCZ78152959,- 18.01,+ 18.01,1.88,1.8,30.09. 07:00
+2023-08-20 04:07:23.962386,13284,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/hlas-MCZ78152974,- 5.01,+ 5.01,11.0,1.01,30.09. 07:00
+2023-08-20 04:07:23.962386,13287,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/hlas-MCZ78152996,- 12.01,+ 12.01,1.7,2.0,30.09. 07:00
+2023-08-20 04:07:23.962386,13293,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/hlas-MCZ78153000,- 11.01,+ 11.01,1.94,1.75,30.09. 07:00
+2023-08-20 04:07:23.962386,13552,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/republika-MCZ78153012,- 5.01,+ 5.01,5.15,1.12,30.09. 07:00
+2023-08-20 04:07:23.962386,13585,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/republika-MCZ78153019,- 7.01,+ 7.01,1.94,1.75,30.09. 07:00
+2023-08-20 04:07:23.962386,13586,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/republika-MCZ78153021,- 8.01,+ 8.01,1.6,2.16,30.09. 07:00
+2023-08-20 04:07:23.962386,13598,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/olano-a-priatelia-MCZ78153062,- 5.01,+ 5.01,5.37,1.11,30.09. 07:00
+2023-08-20 04:07:23.962386,13600,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/olano-a-priatelia-MCZ78153064,- 7.01,+ 7.01,2.16,1.6,30.09. 07:00
+2023-08-20 04:07:23.962386,13656,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/sas-MCZ78153146,- 5.01,+ 5.01,2.26,1.55,30.09. 07:00
+2023-08-20 04:07:23.962386,13658,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/sas-MCZ78153217,- 6.01,+ 6.01,1.74,1.95,30.09. 07:00
+2023-08-20 04:07:23.962386,13724,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/sme-rodina-MCZ78153234,- 5.01,+ 5.01,2.08,1.65,30.09. 07:00
+2023-08-20 04:07:23.962386,13735,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/sme-rodina-MCZ78153298,- 6.01,+ 6.01,1.7,2.0,30.09. 07:00
+2023-08-20 04:07:23.962386,14433,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/kdh-MCZ78153398,- 5.01,+ 5.01,2.16,1.6,30.09. 07:00
+2023-08-20 04:07:23.962386,14451,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/kdh-MCZ78153407,- 6.01,+ 6.01,1.78,1.9,30.09. 07:00
+2023-08-20 04:07:23.962386,15238,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/sns-MCZ78153559,- 5.01,+ 5.01,2.52,1.45,30.09. 07:00
+2023-08-20 04:07:23.962386,15247,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/sns-MCZ78153767,- 6.01,+ 6.01,1.88,1.8,30.09. 07:00
+2023-08-20 04:07:23.962386,15259,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/demokrati-MCZ78154836,- 5.01,+ 5.01,1.06,6.97,30.09. 07:00
+2023-08-20 04:07:23.962386,15266,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/demokrati-MCZ78154877,- 3.01,+ 3.01,1.88,1.8,30.09. 07:00
+2023-08-20 04:07:23.962386,15289,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/aliancia-MCZ78155189,- 5.01,+ 5.01,1.08,6.21,30.09. 07:00
+2023-08-20 04:07:23.962386,15290,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/aliancia-MCZ78155191,- 3.01,+ 3.01,2.16,1.6,30.09. 07:00
+2023-08-20 04:07:23.962386,15339,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/modri-most-hid-MCZ78155215,- 5.01,+ 5.01,-1.00,40.00,30.09. 07:00
+2023-08-20 04:07:23.962386,15514,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-pocet-procent/ls-nase-slovensko-MCZ78155336,- 5.01,+ 5.01,-1.00,30.00,30.09. 07:00
