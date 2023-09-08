@@ -7,7 +7,7 @@ on:
   #     - master
   workflow_dispatch:
   schedule:
-    - cron: '02 4,16 * * *'
+    - cron: '02 */2 * * *'
 
 jobs:
   update:
