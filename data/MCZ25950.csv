@@ -2042,14 +2042,27 @@ date,event_info_number,event_name,event_link,odds,odds2,datum
 2023-09-14 08:08:14.106197,7228,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/modri-most-hid-MCZ78108356,4 000.00,-1.0,30.09. 07:00
 2023-09-14 10:07:52.221211,7153,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/smer-MCZ78108332,1.75,1.94,30.09. 07:00
 2023-09-14 10:07:52.221211,7156,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/progresivne-slovensko-MCZ78108333,2.15,1.61,30.09. 07:00
-2023-09-14 10:07:52.221211,7159,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/hlas-MCZ78108335,55.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7176,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/republika-MCZ78108336,250.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7177,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/olano-a-priatelia-MCZ78108337,100.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7178,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sas-MCZ78108341,800.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7180,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sme-rodina-MCZ78108343,800.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7200,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/kdh-MCZ78108345,800.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7202,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sns-MCZ78108347,600.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7203,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/demokrati-MCZ78108351,2 000.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7206,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/aliancia-MCZ78108352,3 000.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7212,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/ls-nase-slovensko-MCZ78108355,3 500.00,-1.00,30.09. 07:00
-2023-09-14 10:07:52.221211,7228,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/modri-most-hid-MCZ78108356,4 000.00,-1.00,30.09. 07:00
+2023-09-14 10:07:52.221211,7159,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/hlas-MCZ78108335,55.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7176,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/republika-MCZ78108336,250.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7177,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/olano-a-priatelia-MCZ78108337,100.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7178,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sas-MCZ78108341,800.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7180,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sme-rodina-MCZ78108343,800.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7200,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/kdh-MCZ78108345,800.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7202,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sns-MCZ78108347,600.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7203,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/demokrati-MCZ78108351,2 000.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7206,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/aliancia-MCZ78108352,3 000.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7212,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/ls-nase-slovensko-MCZ78108355,3 500.00,-1.0,30.09. 07:00
+2023-09-14 10:07:52.221211,7228,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/modri-most-hid-MCZ78108356,4 000.00,-1.0,30.09. 07:00
+2023-09-14 12:08:48.271330,7153,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/smer-MCZ78108332,1.70,2.01,30.09. 07:00
+2023-09-14 12:08:48.271330,7156,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/progresivne-slovensko-MCZ78108333,2.20,1.58,30.09. 07:00
+2023-09-14 12:08:48.271330,7159,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/hlas-MCZ78108335,60.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7176,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/republika-MCZ78108336,250.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7177,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/olano-a-priatelia-MCZ78108337,100.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7178,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sas-MCZ78108341,800.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7180,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sme-rodina-MCZ78108343,800.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7200,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/kdh-MCZ78108345,800.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7202,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/sns-MCZ78108347,600.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7203,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/demokrati-MCZ78108351,2 000.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7206,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/aliancia-MCZ78108352,3 000.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7212,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/ls-nase-slovensko-MCZ78108355,3 500.00,-1.00,30.09. 07:00
+2023-09-14 12:08:48.271330,7228,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-vitez/modri-most-hid-MCZ78108356,4 000.00,-1.00,30.09. 07:00
