@@ -3,7 +3,7 @@
 import datetime
 import os
 import pandas as pd
-from requests_html import HTMLSession
+from requests_html import HTMLSession, HTML, AsyncHTMLSession
 
 session = HTMLSession()
 
@@ -33,20 +33,30 @@ domains = [
 
 for domain in domains:
   url0 = "https://www.ifortuna." + domain['domain'] + domain['dir0']
+  url1 = "https://www.ifortuna.cz/bets/ajax/loadmoresport/politika?timeTo=&rateFrom=&rateTo=&date=&pageSize=1000&page=1"
 
   # get the page
   now = datetime.datetime.now()
   print(url0)
   r0 = session.get(url0, timeout=10, proxies=proxy_servers)
+  r1 = session.get(url1, timeout=10, proxies=proxy_servers)
 
   # competitions
   competitions = []
+  competition_ids = []
   divs = r0.html.find('.competition-box')
+  try:
+    divs.extend(r1.html.find('.competition-box'))
+  except:
+    pass
   for div in divs:
     competition_id = div.attrs['data-competition-id']
+    if competition_id in competition_ids:
+      continue
     competition_name = div.attrs['data-competition-name']
     competition_link = div.find('a')[1].attrs['href']
     competitions.append([now, competition_id, competition_name, competition_link])
+    competition_ids.append(competition_id)
 
   # write to file
   df = pd.read_csv('data/ifortuna.' + domain['domain'] + '.csv')
