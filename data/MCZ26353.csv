@@ -5550,16 +5550,29 @@ date,event_info_number,event_name,event_link,odds,odds2,datum
 2023-09-26 14:46:39.765659,13300,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/demokrati-MCZ78200089,15.0,-1.0,30.09. 07:00
 2023-09-26 14:46:39.765659,13308,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/ls-nase-slovensko-MCZ78200093,100.0,-1.0,30.09. 07:00
 2023-09-26 14:46:39.765659,13311,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/modri-most-hid-MCZ78200095,150.0,-1.0,30.09. 07:00
-2023-09-26 15:08:47.380492,13244,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/smer-MCZ78199887,-1.00,35.00,30.09. 07:00
-2023-09-26 15:08:47.380492,13249,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/progresivne-slovensko-MCZ78199888,-1.00,20.00,30.09. 07:00
+2023-09-26 15:08:47.380492,13244,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/smer-MCZ78199887,-1.0,35.0,30.09. 07:00
+2023-09-26 15:08:47.380492,13249,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/progresivne-slovensko-MCZ78199888,-1.0,20.0,30.09. 07:00
 2023-09-26 15:08:47.380492,13251,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/hlas-MCZ78199948,1.08,6.21,30.09. 07:00
 2023-09-26 15:08:47.380492,13252,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/republika-MCZ78199955,2.15,1.74,30.09. 07:00
 2023-09-26 15:08:47.380492,13272,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/olano-a-priatelia-MCZ78199957,1.85,1.85,30.09. 07:00
-2023-09-26 15:08:47.380492,13275,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sas-MCZ78199959,7.00,1.05,30.09. 07:00
-2023-09-26 15:08:47.380492,13280,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sme-rodina-MCZ78199960,15.00,-1.00,30.09. 07:00
-2023-09-26 15:08:47.380492,13282,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/kdh-MCZ78199961,10.00,1.01,30.09. 07:00
-2023-09-26 15:08:47.380492,13290,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sns-MCZ78199962,6.00,1.08,30.09. 07:00
-2023-09-26 15:08:47.380492,13297,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/aliancia-MCZ78200079,50.00,-1.00,30.09. 07:00
-2023-09-26 15:08:47.380492,13300,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/demokrati-MCZ78200089,15.00,-1.00,30.09. 07:00
-2023-09-26 15:08:47.380492,13308,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/ls-nase-slovensko-MCZ78200093,100.00,-1.00,30.09. 07:00
-2023-09-26 15:08:47.380492,13311,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/modri-most-hid-MCZ78200095,150.00,-1.00,30.09. 07:00
+2023-09-26 15:08:47.380492,13275,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sas-MCZ78199959,7.0,1.05,30.09. 07:00
+2023-09-26 15:08:47.380492,13280,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sme-rodina-MCZ78199960,15.0,-1.0,30.09. 07:00
+2023-09-26 15:08:47.380492,13282,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/kdh-MCZ78199961,10.0,1.01,30.09. 07:00
+2023-09-26 15:08:47.380492,13290,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sns-MCZ78199962,6.0,1.08,30.09. 07:00
+2023-09-26 15:08:47.380492,13297,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/aliancia-MCZ78200079,50.0,-1.0,30.09. 07:00
+2023-09-26 15:08:47.380492,13300,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/demokrati-MCZ78200089,15.0,-1.0,30.09. 07:00
+2023-09-26 15:08:47.380492,13308,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/ls-nase-slovensko-MCZ78200093,100.0,-1.0,30.09. 07:00
+2023-09-26 15:08:47.380492,13311,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/modri-most-hid-MCZ78200095,150.0,-1.0,30.09. 07:00
+2023-09-26 15:27:20.172158,13244,Smer,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/smer-MCZ78199887,-1.00,35.00,30.09. 07:00
+2023-09-26 15:27:20.172158,13249,Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/progresivne-slovensko-MCZ78199888,-1.00,20.00,30.09. 07:00
+2023-09-26 15:27:20.172158,13251,Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/hlas-MCZ78199948,1.08,6.21,30.09. 07:00
+2023-09-26 15:27:20.172158,13252,Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/republika-MCZ78199955,2.15,1.74,30.09. 07:00
+2023-09-26 15:27:20.172158,13272,OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/olano-a-priatelia-MCZ78199957,1.85,1.85,30.09. 07:00
+2023-09-26 15:27:20.172158,13275,SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sas-MCZ78199959,7.00,1.05,30.09. 07:00
+2023-09-26 15:27:20.172158,13280,Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sme-rodina-MCZ78199960,15.00,-1.00,30.09. 07:00
+2023-09-26 15:27:20.172158,13282,KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/kdh-MCZ78199961,10.00,1.01,30.09. 07:00
+2023-09-26 15:27:20.172158,13290,SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/sns-MCZ78199962,6.00,1.08,30.09. 07:00
+2023-09-26 15:27:20.172158,13297,Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/aliancia-MCZ78200079,50.00,-1.00,30.09. 07:00
+2023-09-26 15:27:20.172158,13300,Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/demokrati-MCZ78200089,15.00,-1.00,30.09. 07:00
+2023-09-26 15:27:20.172158,13308,ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/ls-nase-slovensko-MCZ78200093,100.00,-1.00,30.09. 07:00
+2023-09-26 15:27:20.172158,13311,"Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-umisteni-do-4-mista/modri-most-hid-MCZ78200095,150.00,-1.00,30.09. 07:00
