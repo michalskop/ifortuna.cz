@@ -21686,3 +21686,103 @@ date,event_info_number,event_name,event_link,header1,header2,odd1,odd2,datum
 2023-09-26 17:08:39.783711,13817,KDH - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/kdh-sns-MSK78200998,1,2,2.38,1.50,30.09. 07:00
 2023-09-26 17:08:39.783711,13819,Aliancia - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/aliancia-demokrati-MSK78201065,1,2,2.03,1.68,30.09. 07:00
 2023-09-26 17:08:39.783711,13823,"ĽS Naše Slovensko - Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/ls-nase-slovensko-modri-most-hid-MSK78201068,1,2,1.40,2.68,30.09. 07:00
+2023-09-26 17:27:33.531454,20078,Prvý premiér s vyslovenou dôverou NRSR - Fico Róbert,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-fico-robert-MSK78164845,Víťaz,dátum,2.25,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20079,Prvý premiér s vyslovenou dôverou NRSR - Šimečka Michal,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-simecka-michal-MSK78164879,Víťaz,dátum,2.65,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20082,Prvý premiér s vyslovenou dôverou NRSR - Pellegrini Peter,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-pellegrini-peter-MSK78164882,Víťaz,dátum,4.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20085,Prvý premiér s vyslovenou dôverou NRSR - Matovič Igor,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-matovic-igor-MSK78164916,Víťaz,dátum,250.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20089,Prvý premiér s vyslovenou dôverou NRSR - Danko Andrej,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-danko-andrej-MSK78164923,Víťaz,dátum,400.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20084,Prvý premiér s vyslovenou dôverou NRSR - Sulík Richard,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-sulik-richard-MSK78164896,Víťaz,dátum,450.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20086,Prvý premiér s vyslovenou dôverou NRSR - Heger Eduard,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-heger-eduard-MSK78164917,Víťaz,dátum,450.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20087,Prvý premiér s vyslovenou dôverou NRSR - Uhrík Milan,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-uhrik-milan-MSK78164919,Víťaz,dátum,450.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20083,Prvý premiér s vyslovenou dôverou NRSR - Kollár Boris,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-kollar-boris-MSK78164886,Víťaz,dátum,500.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20088,Prvý premiér s vyslovenou dôverou NRSR - Majerský Milan,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-majersky-milan-MSK78164922,Víťaz,dátum,700.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20090,Prvý premiér s vyslovenou dôverou NRSR - Forró Krisztián,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-forro-krisztian-MSK78164941,Víťaz,dátum,1 000.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20092,Prvý premiér s vyslovenou dôverou NRSR - Remišová Veronika,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-remisova-veronika-MSK78164945,Víťaz,dátum,1 000.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20093,Prvý premiér s vyslovenou dôverou NRSR - Kotleba Marian,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-kotleba-marian-MSK78164948,Víťaz,dátum,1 200.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,20091,Prvý premiér s vyslovenou dôverou NRSR - Dzurinda Mikuláš,/stavkovanie/politika/slovensko-parlamentne-volby-2023/first-prime-minister-with-declared-confidence-dzurinda-mikulas-MSK78164943,Víťaz,dátum,1 500.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,7153,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/smer-MSK78108332,Áno,Nie,1.90,1.90,30.09. 07:00
+2023-09-26 17:27:33.531454,7156,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/progresivne-slovensko-MSK78108333,Áno,Nie,1.90,1.90,30.09. 07:00
+2023-09-26 17:27:33.531454,7159,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/hlas-MSK78108335,Áno,Nie,70.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7176,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/republika-MSK78108336,Áno,Nie,350.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7177,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/olano-a-priatelia-MSK78108337,Áno,Nie,150.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7178,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sas-MSK78108341,Áno,Nie,750.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7180,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sme-rodina-MSK78108343,Áno,Nie,1 000.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7200,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/kdh-MSK78108345,Áno,Nie,850.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7202,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/sns-MSK78108347,Áno,Nie,750.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7203,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/demokrati-MSK78108351,Áno,Nie,2 500.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7206,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/aliancia-MSK78108352,Áno,Nie,3 000.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7212,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/ls-nase-slovensko-MSK78108355,Áno,Nie,4 000.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7228,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-vitaz/modri-most-hid-MSK78108356,Áno,Nie,4 000.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7408,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/smer-MSK78108995,Áno,Nie,1.02,9.38,30.09. 07:00
+2023-09-26 17:27:33.531454,7413,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/progresivne-slovensko-MSK78108996,Áno,Nie,1.04,7.97,30.09. 07:00
+2023-09-26 17:27:33.531454,7416,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/hlas-MSK78108999,Áno,Nie,9.00,1.01,30.09. 07:00
+2023-09-26 17:27:33.531454,7429,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/republika-MSK78109000,Áno,Nie,40.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7432,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/olano-a-priatelia-MSK78109001,Áno,Nie,15.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7447,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/sas-MSK78109042,Áno,Nie,220.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7455,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/sme-rodina-MSK78109043,Áno,Nie,350.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7594,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/kdh-MSK78109313,Áno,Nie,250.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7595,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/sns-MSK78109314,Áno,Nie,220.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7598,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/demokrati-MSK78109315,Áno,Nie,750.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7599,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/aliancia-MSK78109316,Áno,Nie,1 100.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7607,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/ls-nase-slovensko-MSK78109317,Áno,Nie,1 500.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,7608,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-2-miesta/modri-most-hid-MSK78109319,Áno,Nie,1 500.00,-1.00,30.09. 07:00
+2023-09-26 17:27:33.531454,25686,Menej / Viac,/stavkovanie/politika/slovensko-parlamentne-volby-2023-volebna-ucast-v-/less-more-MSK78961390,- 63.01,+ 63.01,4.04,1.20,30.09. 07:00
+2023-09-26 17:27:33.531454,25687,Menej / Viac,/stavkovanie/politika/slovensko-parlamentne-volby-2023-volebna-ucast-v-/less-more-MSK78961398,- 64.01,+ 64.01,2.73,1.40,30.09. 07:00
+2023-09-26 17:27:33.531454,25688,Menej / Viac,/stavkovanie/politika/slovensko-parlamentne-volby-2023-volebna-ucast-v-/less-more-MSK78961399,- 65.01,+ 65.01,2.19,1.60,30.09. 07:00
+2023-09-26 17:27:33.531454,27574,Menej / Viac,/stavkovanie/politika/slovensko-parlamentne-volby-2023-volebna-ucast-v-/less-more-MSK80696706,- 66.01,+ 66.01,1.80,1.90,30.09. 07:00
+2023-09-26 17:27:33.531454,27575,Menej / Viac,/stavkovanie/politika/slovensko-parlamentne-volby-2023-volebna-ucast-v-/less-more-MSK80696708,- 67.01,+ 67.01,1.60,2.19,30.09. 07:00
+2023-09-26 17:27:33.531454,13641,Smer - Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/smer-progresivne-slovensko-MSK78200793,1,2,1.90,1.82,30.09. 07:00
+2023-09-26 17:27:33.531454,13659,Smer - Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/smer-hlas-MSK78200795,1,2,1.01,11.00,30.09. 07:00
+2023-09-26 17:27:33.531454,13662,Progresívne Slovensko - Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/progresivne-slovensko-hlas-MSK78200818,1,2,1.05,7.43,30.09. 07:00
+2023-09-26 17:27:33.531454,13665,Hlas - Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/hlas-republika-MSK78200831,1,2,1.10,5.62,30.09. 07:00
+2023-09-26 17:27:33.531454,13669,Hlas - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/hlas-olano-a-priatelia-MSK78200832,1,2,1.25,3.48,30.09. 07:00
+2023-09-26 17:27:33.531454,13675,Republika - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-olano-a-priatelia-MSK78200834,1,2,2.01,1.70,30.09. 07:00
+2023-09-26 17:27:33.531454,13686,Republika - SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-sas-MSK78200838,1,2,1.33,2.98,30.09. 07:00
+2023-09-26 17:27:33.531454,13690,Republika - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-sme-rodina-MSK78200839,1,2,1.12,5.15,30.09. 07:00
+2023-09-26 17:27:33.531454,13703,OĽANO A PRIATELIA - SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-sas-MSK78200841,1,2,1.25,3.48,30.09. 07:00
+2023-09-26 17:27:33.531454,13706,OĽANO A PRIATELIA - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-sme-rodina-MSK78200843,1,2,1.06,6.97,30.09. 07:00
+2023-09-26 17:27:33.531454,13710,OĽANO A PRIATELIA - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-kdh-MSK78200845,1,2,1.23,3.65,30.09. 07:00
+2023-09-26 17:27:33.531454,13737,OĽANO A PRIATELIA - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/olano-a-priatelia-sns-MSK78200846,1,2,1.33,2.98,30.09. 07:00
+2023-09-26 17:27:33.531454,13738,SaS - Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-sme-rodina-MSK78200860,1,2,1.40,2.38,30.09. 07:00
+2023-09-26 17:27:33.531454,13742,SaS - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-kdh-MSK78200975,1,2,1.65,2.08,30.09. 07:00
+2023-09-26 17:27:33.531454,13747,SaS - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-sns-MSK78200976,1,2,2.08,1.65,30.09. 07:00
+2023-09-26 17:27:33.531454,13749,Sme rodina - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-kdh-MSK78200985,1,2,2.38,1.50,30.09. 07:00
+2023-09-26 17:27:33.531454,13750,Sme rodina - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-sns-MSK78200991,1,2,3.15,1.30,30.09. 07:00
+2023-09-26 17:27:33.531454,13817,KDH - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/kdh-sns-MSK78200998,1,2,2.38,1.50,30.09. 07:00
+2023-09-26 17:27:33.531454,13819,Aliancia - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/aliancia-demokrati-MSK78201065,1,2,2.03,1.68,30.09. 07:00
+2023-09-26 17:27:33.531454,13823,"ĽS Naše Slovensko - Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/ls-nase-slovensko-modri-most-hid-MSK78201068,1,2,1.40,2.68,30.09. 07:00
+2023-09-26 17:27:33.531454,22121,Sme rodina - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-demokrati-MSK81175586,1,2,1.40,2.68,30.09. 07:00
+2023-09-26 17:27:33.531454,22129,Sme rodina - Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sme-rodina-aliancia-MSK81175598,1,2,1.35,2.89,30.09. 07:00
+2023-09-26 17:27:33.531454,22158,KDH - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/kdh-demokrati-MSK81175607,1,2,1.30,3.15,30.09. 07:00
+2023-09-26 17:27:33.531454,22174,SaS - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sas-demokrati-MSK81175655,1,2,1.22,3.74,30.09. 07:00
+2023-09-26 17:27:33.531454,22191,SNS - Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/sns-demokrati-MSK81175667,1,2,1.15,4.60,30.09. 07:00
+2023-09-26 17:27:33.531454,23395,Progresívne Slovensko - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/progresivne-slovensko-olano-a-priatelia-MSK79982561,1,2,1.03,8.61,30.09. 07:00
+2023-09-26 17:27:33.531454,26542,Republika - SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-sns-MSK79449619,1,2,1.35,2.89,30.09. 07:00
+2023-09-26 17:27:33.531454,28632,Smer - OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/smer-olano-a-priatelia-MSK79821432,1,2,1.01,13.00,30.09. 07:00
+2023-09-26 17:27:33.531454,28633,Republika - KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/republika-kdh-MSK79822679,1,2,1.25,3.48,30.09. 07:00
+2023-09-26 17:27:33.531454,28644,Demokrati - ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-kto-lepsi-v-percentach/demokrati-ls-nase-slovensko-MSK79822709,1,2,1.15,4.60,30.09. 07:00
+2023-09-26 17:27:33.531454,8168,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024/ivan-korcok-MSK76902164,Víťaz,dátum,1.60,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8169,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024/peter-pellegrini-MSK76902165,Víťaz,dátum,2.75,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8173,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024/jan-kubis-MSK76902170,Víťaz,dátum,4.50,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8171,Robert Fico,/stavkovanie/politika/slovensko-prezidentske-volby-2024/robert-fico-MSK76902167,Víťaz,dátum,10.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8176,Robert Mistrík,/stavkovanie/politika/slovensko-prezidentske-volby-2024/robert-mistrik-MSK76902171,Víťaz,dátum,15.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8179,Maroš Žilinka,/stavkovanie/politika/slovensko-prezidentske-volby-2024/maros-zilinka-MSK76902175,Víťaz,dátum,20.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8177,Miroslav Lajčák,/stavkovanie/politika/slovensko-prezidentske-volby-2024/miroslav-lajcak-MSK76902172,Víťaz,dátum,25.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8185,Radoslav Procházka,/stavkovanie/politika/slovensko-prezidentske-volby-2024/radoslav-prochazka-MSK76902178,Víťaz,dátum,70.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8188,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024/stefan-harabin-MSK76902181,Víťaz,dátum,70.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8192,Miriam Lexmann,/stavkovanie/politika/slovensko-prezidentske-volby-2024/miriam-lexmann-MSK76902182,Víťaz,dátum,150.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8194,Andrej Kiska,/stavkovanie/politika/slovensko-prezidentske-volby-2024/andrej-kiska-MSK76902185,Víťaz,dátum,150.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8197,Iveta Radičová,/stavkovanie/politika/slovensko-prezidentske-volby-2024/iveta-radicova-MSK76902186,Víťaz,dátum,150.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8198,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024/igor-matovic-MSK76902191,Víťaz,dátum,250.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8201,Béla Bugár,/stavkovanie/politika/slovensko-prezidentske-volby-2024/bela-bugar-MSK76902192,Víťaz,dátum,300.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8206,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024/andrej-danko-MSK76902194,Víťaz,dátum,300.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8210,Mikuláš Dzurinda,/stavkovanie/politika/slovensko-prezidentske-volby-2024/mikulas-dzurinda-MSK76902196,Víťaz,dátum,300.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8215,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024/marian-kotleba-MSK76902201,Víťaz,dátum,350.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8217,Győrgy Gyimesi,/stavkovanie/politika/slovensko-prezidentske-volby-2024/gyorgy-gyimesi-MSK76902202,Víťaz,dátum,350.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8218,Eduard Chmelár,/stavkovanie/politika/slovensko-prezidentske-volby-2024/eduard-chmelar-MSK76902204,Víťaz,dátum,350.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,8219,Vladimír Mečiar,/stavkovanie/politika/slovensko-prezidentske-volby-2024/vladimir-meciar-MSK76902206,Víťaz,dátum,400.00,30.09. 07:00,30.09. 07:00
+2023-09-26 17:27:33.531454,29097,Joe Biden,/stavkovanie/politika/prezidentske-volby-usa-2024/joe-biden-MSK29525366,Víťaz,dátum,2.70,30.09. 23:55,30.09. 23:55
+2023-09-26 17:27:33.531454,29096,Donald Trump,/stavkovanie/politika/prezidentske-volby-usa-2024/donald-trump-MSK29525391,Víťaz,dátum,3.10,30.09. 23:55,30.09. 23:55
+2023-09-26 17:27:33.531454,23842,Vivek Ramaswamy,/stavkovanie/politika/prezidentske-volby-usa-2024/vivek-ramaswamy-MSK79278829,Víťaz,dátum,12.00,30.09. 23:55,30.09. 23:55
+2023-09-26 17:27:33.531454,8330,Ron DeSantis,/stavkovanie/politika/prezidentske-volby-usa-2024/ron-desantis-MSK40111402,Víťaz,dátum,15.00,30.09. 23:55,30.09. 23:55
+2023-09-26 17:27:33.531454,23422,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024/robert-f-kennedy-jr--MSK74161334,Víťaz,dátum,17.00,30.09. 23:55,30.09. 23:55
