@@ -10585,33 +10585,63 @@ date,event_info_number,event_name,event_link,odds,odds2,datum
 2023-09-27 06:46:34.918310,28632,Smer - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-olano-a-priatelia-MCZ79821432,1.01,13.0,30.09. 07:00
 2023-09-27 06:46:34.918310,28633,Republika - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-kdh-MCZ79822679,1.25,3.48,30.09. 07:00
 2023-09-27 06:46:34.918310,28644,Demokrati - ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/demokrati-ls-nase-slovensko-MCZ79822709,1.12,5.15,30.09. 07:00
-2023-09-27 07:08:16.509606,13641,Smer - Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-progresivne-slovensko-MCZ78200793,1.80,1.92,30.09. 07:00
-2023-09-27 07:08:16.509606,13659,Smer - Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-hlas-MCZ78200795,1.01,11.00,30.09. 07:00
+2023-09-27 07:08:16.509606,13641,Smer - Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-progresivne-slovensko-MCZ78200793,1.8,1.92,30.09. 07:00
+2023-09-27 07:08:16.509606,13659,Smer - Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-hlas-MCZ78200795,1.01,11.0,30.09. 07:00
 2023-09-27 07:08:16.509606,13662,Progresívne Slovensko - Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/progresivne-slovensko-hlas-MCZ78200818,1.05,7.43,30.09. 07:00
 2023-09-27 07:08:16.509606,13665,Hlas - Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/hlas-republika-MCZ78200831,1.12,5.15,30.09. 07:00
-2023-09-27 07:08:16.509606,13669,Hlas - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/hlas-olano-a-priatelia-MCZ78200832,1.30,3.15,30.09. 07:00
+2023-09-27 07:08:16.509606,13669,Hlas - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/hlas-olano-a-priatelia-MCZ78200832,1.3,3.15,30.09. 07:00
 2023-09-27 07:08:16.509606,13675,Republika - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-olano-a-priatelia-MCZ78200834,2.26,1.55,30.09. 07:00
-2023-09-27 07:08:16.509606,13686,Republika - SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-sas-MCZ78200838,1.30,3.15,30.09. 07:00
+2023-09-27 07:08:16.509606,13686,Republika - SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-sas-MCZ78200838,1.3,3.15,30.09. 07:00
 2023-09-27 07:08:16.509606,13690,Republika - Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-sme-rodina-MCZ78200839,1.12,5.15,30.09. 07:00
-2023-09-27 07:08:16.509606,13703,OĽANO A PRIATELIA - SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-sas-MCZ78200841,1.15,4.60,30.09. 07:00
+2023-09-27 07:08:16.509606,13703,OĽANO A PRIATELIA - SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-sas-MCZ78200841,1.15,4.6,30.09. 07:00
 2023-09-27 07:08:16.509606,13706,OĽANO A PRIATELIA - Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-sme-rodina-MCZ78200843,1.04,7.97,30.09. 07:00
 2023-09-27 07:08:16.509606,13710,OĽANO A PRIATELIA - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-kdh-MCZ78200845,1.18,4.18,30.09. 07:00
 2023-09-27 07:08:16.509606,13737,OĽANO A PRIATELIA - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-sns-MCZ78200846,1.33,2.98,30.09. 07:00
 2023-09-27 07:08:16.509606,13738,SaS - Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-sme-rodina-MCZ78200860,1.35,2.89,30.09. 07:00
 2023-09-27 07:08:16.509606,13742,SaS - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-kdh-MCZ78200975,1.86,1.82,30.09. 07:00
-2023-09-27 07:08:16.509606,13747,SaS - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-sns-MCZ78200976,2.20,1.58,30.09. 07:00
+2023-09-27 07:08:16.509606,13747,SaS - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-sns-MCZ78200976,2.2,1.58,30.09. 07:00
 2023-09-27 07:08:16.509606,13749,Sme rodina - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-kdh-MCZ78200985,2.89,1.35,30.09. 07:00
 2023-09-27 07:08:16.509606,13750,Sme rodina - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-sns-MCZ78200991,3.74,1.22,30.09. 07:00
-2023-09-27 07:08:16.509606,13817,KDH - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/kdh-sns-MCZ78200998,2.20,1.58,30.09. 07:00
-2023-09-27 07:08:16.509606,13819,Aliancia - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/aliancia-demokrati-MCZ78201065,2.16,1.60,30.09. 07:00
-2023-09-27 07:08:16.509606,13823,"ĽS Naše Slovensko - Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/ls-nase-slovensko-modri-most-hid-MCZ78201068,1.40,2.68,30.09. 07:00
-2023-09-27 07:08:16.509606,22121,Sme rodina - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-demokrati-MCZ81175586,1.70,2.01,30.09. 07:00
+2023-09-27 07:08:16.509606,13817,KDH - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/kdh-sns-MCZ78200998,2.2,1.58,30.09. 07:00
+2023-09-27 07:08:16.509606,13819,Aliancia - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/aliancia-demokrati-MCZ78201065,2.16,1.6,30.09. 07:00
+2023-09-27 07:08:16.509606,13823,"ĽS Naše Slovensko - Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/ls-nase-slovensko-modri-most-hid-MCZ78201068,1.4,2.68,30.09. 07:00
+2023-09-27 07:08:16.509606,22121,Sme rodina - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-demokrati-MCZ81175586,1.7,2.01,30.09. 07:00
 2023-09-27 07:08:16.509606,22129,Sme rodina - Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-aliancia-MCZ81175598,1.45,2.52,30.09. 07:00
 2023-09-27 07:08:16.509606,22158,KDH - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/kdh-demokrati-MCZ81175607,1.35,2.89,30.09. 07:00
 2023-09-27 07:08:16.509606,22174,SaS - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-demokrati-MCZ81175655,1.28,3.27,30.09. 07:00
 2023-09-27 07:08:16.509606,22191,SNS - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sns-demokrati-MCZ81175667,1.18,4.18,30.09. 07:00
 2023-09-27 07:08:16.509606,23395,Progresívne Slovensko - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/progresivne-slovensko-olano-a-priatelia-MCZ79982561,1.03,8.61,30.09. 07:00
 2023-09-27 07:08:16.509606,26542,Republika - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-sns-MCZ79449619,1.35,2.89,30.09. 07:00
-2023-09-27 07:08:16.509606,28632,Smer - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-olano-a-priatelia-MCZ79821432,1.01,13.00,30.09. 07:00
+2023-09-27 07:08:16.509606,28632,Smer - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-olano-a-priatelia-MCZ79821432,1.01,13.0,30.09. 07:00
 2023-09-27 07:08:16.509606,28633,Republika - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-kdh-MCZ79822679,1.25,3.48,30.09. 07:00
 2023-09-27 07:08:16.509606,28644,Demokrati - ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/demokrati-ls-nase-slovensko-MCZ79822709,1.12,5.15,30.09. 07:00
+2023-09-27 07:26:43.119848,13641,Smer - Progresívne Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-progresivne-slovensko-MCZ78200793,1.80,1.92,30.09. 07:00
+2023-09-27 07:26:43.119848,13659,Smer - Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-hlas-MCZ78200795,1.01,11.00,30.09. 07:00
+2023-09-27 07:26:43.119848,13662,Progresívne Slovensko - Hlas,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/progresivne-slovensko-hlas-MCZ78200818,1.05,7.43,30.09. 07:00
+2023-09-27 07:26:43.119848,13665,Hlas - Republika,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/hlas-republika-MCZ78200831,1.12,5.15,30.09. 07:00
+2023-09-27 07:26:43.119848,13669,Hlas - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/hlas-olano-a-priatelia-MCZ78200832,1.30,3.15,30.09. 07:00
+2023-09-27 07:26:43.119848,13675,Republika - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-olano-a-priatelia-MCZ78200834,2.26,1.55,30.09. 07:00
+2023-09-27 07:26:43.119848,13686,Republika - SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-sas-MCZ78200838,1.30,3.15,30.09. 07:00
+2023-09-27 07:26:43.119848,13690,Republika - Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-sme-rodina-MCZ78200839,1.12,5.15,30.09. 07:00
+2023-09-27 07:26:43.119848,13703,OĽANO A PRIATELIA - SaS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-sas-MCZ78200841,1.15,4.60,30.09. 07:00
+2023-09-27 07:26:43.119848,13706,OĽANO A PRIATELIA - Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-sme-rodina-MCZ78200843,1.04,7.97,30.09. 07:00
+2023-09-27 07:26:43.119848,13710,OĽANO A PRIATELIA - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-kdh-MCZ78200845,1.18,4.18,30.09. 07:00
+2023-09-27 07:26:43.119848,13737,OĽANO A PRIATELIA - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/olano-a-priatelia-sns-MCZ78200846,1.33,2.98,30.09. 07:00
+2023-09-27 07:26:43.119848,13738,SaS - Sme rodina,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-sme-rodina-MCZ78200860,1.35,2.89,30.09. 07:00
+2023-09-27 07:26:43.119848,13742,SaS - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-kdh-MCZ78200975,1.86,1.82,30.09. 07:00
+2023-09-27 07:26:43.119848,13747,SaS - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-sns-MCZ78200976,2.20,1.58,30.09. 07:00
+2023-09-27 07:26:43.119848,13749,Sme rodina - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-kdh-MCZ78200985,2.89,1.35,30.09. 07:00
+2023-09-27 07:26:43.119848,13750,Sme rodina - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-sns-MCZ78200991,3.74,1.22,30.09. 07:00
+2023-09-27 07:26:43.119848,13817,KDH - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/kdh-sns-MCZ78200998,2.20,1.58,30.09. 07:00
+2023-09-27 07:26:43.119848,13819,Aliancia - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/aliancia-demokrati-MCZ78201065,2.16,1.60,30.09. 07:00
+2023-09-27 07:26:43.119848,13823,"ĽS Naše Slovensko - Modrí, Most – Híd",/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/ls-nase-slovensko-modri-most-hid-MCZ78201068,1.40,2.68,30.09. 07:00
+2023-09-27 07:26:43.119848,22121,Sme rodina - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-demokrati-MCZ81175586,1.70,2.01,30.09. 07:00
+2023-09-27 07:26:43.119848,22129,Sme rodina - Aliancia,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sme-rodina-aliancia-MCZ81175598,1.45,2.52,30.09. 07:00
+2023-09-27 07:26:43.119848,22158,KDH - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/kdh-demokrati-MCZ81175607,1.35,2.89,30.09. 07:00
+2023-09-27 07:26:43.119848,22174,SaS - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sas-demokrati-MCZ81175655,1.15,4.60,30.09. 07:00
+2023-09-27 07:26:43.119848,22191,SNS - Demokrati,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/sns-demokrati-MCZ81175667,1.18,4.18,30.09. 07:00
+2023-09-27 07:26:43.119848,23395,Progresívne Slovensko - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/progresivne-slovensko-olano-a-priatelia-MCZ79982561,1.03,8.61,30.09. 07:00
+2023-09-27 07:26:43.119848,26542,Republika - SNS,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-sns-MCZ79449619,1.35,2.89,30.09. 07:00
+2023-09-27 07:26:43.119848,28632,Smer - OĽANO A PRIATELIA,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/smer-olano-a-priatelia-MCZ79821432,1.01,13.00,30.09. 07:00
+2023-09-27 07:26:43.119848,28633,Republika - KDH,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/republika-kdh-MCZ79822679,1.25,3.48,30.09. 07:00
+2023-09-27 07:26:43.119848,28644,Demokrati - ĽS Naše Slovensko,/sazeni/politika/slovensko-parlamentni-volby-2023-kdo-lepe-v-procentech/demokrati-ls-nase-slovensko-MCZ79822709,1.12,5.15,30.09. 07:00
