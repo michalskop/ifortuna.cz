@@ -13686,5 +13686,36 @@ date,event_info_number,event_name,event_link,header1,header2,odd1,odd2,datum
 2023-09-28 02:12:06.395359,15273,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/demokrati-MSK78154879,- 4.01,+ 4.01,1.78,1.9,30.09. 07:00
 2023-09-28 02:12:06.395359,15289,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/aliancia-MSK78155189,- 5.01,+ 5.01,1.14,4.7,30.09. 07:00
 2023-09-28 02:12:06.395359,15295,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/aliancia-MSK78155193,- 3.51,+ 3.51,2.01,1.7,30.09. 07:00
-2023-09-28 02:12:06.395359,15339,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/modri-most-hid-MSK78155215,- 5.01,+ 5.01,-1.00,50.00,30.09. 07:00
-2023-09-28 02:12:06.395359,15514,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/ls-nase-slovensko-MSK78155336,- 5.01,+ 5.01,-1.00,40.00,30.09. 07:00
+2023-09-28 02:12:06.395359,15339,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/modri-most-hid-MSK78155215,- 5.01,+ 5.01,-1.0,50.0,30.09. 07:00
+2023-09-28 02:12:06.395359,15514,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/ls-nase-slovensko-MSK78155336,- 5.01,+ 5.01,-1.0,40.0,30.09. 07:00
+2023-09-28 04:07:47.207592,12709,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/smer-MSK78152940,- 19.51,+ 19.51,2.08,1.65,30.09. 07:00
+2023-09-28 04:07:47.207592,12713,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/smer-MSK78152942,- 20.51,+ 20.51,1.8,1.88,30.09. 07:00
+2023-09-28 04:07:47.207592,12714,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/smer-MSK78152943,- 21.51,+ 21.51,1.53,2.3,30.09. 07:00
+2023-09-28 04:07:47.207592,13168,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/progresivne-slovensko-MSK78152965,- 19.51,+ 19.51,2.05,1.67,30.09. 07:00
+2023-09-28 04:07:47.207592,13197,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/progresivne-slovensko-MSK78152968,- 20.51,+ 20.51,1.75,1.94,30.09. 07:00
+2023-09-28 04:07:47.207592,13225,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/progresivne-slovensko-MSK78152969,- 21.51,+ 21.51,1.56,2.25,30.09. 07:00
+2023-09-28 04:07:47.207592,13293,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/hlas-MSK78153000,- 11.01,+ 11.01,2.13,1.62,30.09. 07:00
+2023-09-28 04:07:47.207592,13517,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/hlas-MSK78153002,- 12.01,+ 12.01,1.7,2.0,30.09. 07:00
+2023-09-28 04:07:47.207592,13528,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/hlas-MSK78153004,- 13.01,+ 13.01,1.38,2.75,30.09. 07:00
+2023-09-28 04:07:47.207592,13552,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/republika-MSK78153012,- 5.01,+ 5.01,5.37,1.11,30.09. 07:00
+2023-09-28 04:07:47.207592,13585,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/republika-MSK78153019,- 7.01,+ 7.01,2.08,1.65,30.09. 07:00
+2023-09-28 04:07:47.207592,13586,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/republika-MSK78153021,- 8.01,+ 8.01,1.59,2.18,30.09. 07:00
+2023-09-28 04:07:47.207592,13600,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/olano-a-priatelia-MSK78153064,- 7.01,+ 7.01,3.27,1.28,30.09. 07:00
+2023-09-28 04:07:47.207592,13601,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/olano-a-priatelia-MSK78153065,- 8.01,+ 8.01,2.26,1.55,30.09. 07:00
+2023-09-28 04:07:47.207592,13603,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/olano-a-priatelia-MSK78153088,- 9.01,+ 9.01,1.75,1.94,30.09. 07:00
+2023-09-28 04:07:47.207592,13606,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/olano-a-priatelia-MSK78153098,- 10.01,+ 10.01,1.35,2.89,30.09. 07:00
+2023-09-28 04:07:47.207592,13656,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/sas-MSK78153146,- 5.01,+ 5.01,2.89,1.35,30.09. 07:00
+2023-09-28 04:07:47.207592,13658,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/sas-MSK78153217,- 6.01,+ 6.01,1.92,1.77,30.09. 07:00
+2023-09-28 04:07:47.207592,13671,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/sas-MSK78153221,- 7.01,+ 7.01,1.5,2.38,30.09. 07:00
+2023-09-28 04:07:47.207592,13724,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/sme-rodina-MSK78153234,- 5.01,+ 5.01,1.35,2.89,30.09. 07:00
+2023-09-28 04:07:47.207592,14433,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/kdh-MSK78153398,- 5.01,+ 5.01,2.61,1.42,30.09. 07:00
+2023-09-28 04:07:47.207592,14451,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/kdh-MSK78153407,- 6.01,+ 6.01,1.78,1.9,30.09. 07:00
+2023-09-28 04:07:47.207592,15238,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/sns-MSK78153559,- 5.01,+ 5.01,2.46,1.47,30.09. 07:00
+2023-09-28 04:07:47.207592,15247,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/sns-MSK78153767,- 6.01,+ 6.01,1.88,1.8,30.09. 07:00
+2023-09-28 04:07:47.207592,15259,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/demokrati-MSK78154836,- 5.01,+ 5.01,1.33,3.0,30.09. 07:00
+2023-09-28 04:07:47.207592,15271,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/demokrati-MSK78154878,- 3.51,+ 3.51,2.52,1.45,30.09. 07:00
+2023-09-28 04:07:47.207592,15273,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/demokrati-MSK78154879,- 4.01,+ 4.01,1.78,1.9,30.09. 07:00
+2023-09-28 04:07:47.207592,15289,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/aliancia-MSK78155189,- 5.01,+ 5.01,1.14,4.7,30.09. 07:00
+2023-09-28 04:07:47.207592,15295,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/aliancia-MSK78155193,- 3.51,+ 3.51,2.01,1.7,30.09. 07:00
+2023-09-28 04:07:47.207592,15339,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/modri-most-hid-MSK78155215,- 5.01,+ 5.01,-1.00,50.00,30.09. 07:00
+2023-09-28 04:07:47.207592,15514,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-pocet-percent/ls-nase-slovensko-MSK78155336,- 5.01,+ 5.01,-1.00,40.00,30.09. 07:00
