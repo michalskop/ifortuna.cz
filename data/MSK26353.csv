@@ -6798,16 +6798,29 @@ date,event_info_number,event_name,event_link,odds,odds2,datum
 2023-09-28 13:09:34.224385,13300,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/demokrati-MSK78200089,40.0,-1.0,30.09. 07:00
 2023-09-28 13:09:34.224385,13308,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/ls-nase-slovensko-MSK78200093,120.0,-1.0,30.09. 07:00
 2023-09-28 13:09:34.224385,13311,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/modri-most-hid-MSK78200095,180.0,-1.0,30.09. 07:00
-2023-09-28 13:30:08.778261,13244,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/smer-MSK78199887,-1.00,50.00,30.09. 07:00
-2023-09-28 13:30:08.778261,13249,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/progresivne-slovensko-MSK78199888,-1.00,50.00,30.09. 07:00
+2023-09-28 13:30:08.778261,13244,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/smer-MSK78199887,-1.0,50.0,30.09. 07:00
+2023-09-28 13:30:08.778261,13249,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/progresivne-slovensko-MSK78199888,-1.0,50.0,30.09. 07:00
 2023-09-28 13:30:08.778261,13251,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/hlas-MSK78199948,1.11,5.37,30.09. 07:00
-2023-09-28 13:30:08.778261,13252,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/republika-MSK78199955,3.80,1.21,30.09. 07:00
+2023-09-28 13:30:08.778261,13252,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/republika-MSK78199955,3.8,1.21,30.09. 07:00
 2023-09-28 13:30:08.778261,13272,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/olano-a-priatelia-MSK78199957,1.35,2.94,30.09. 07:00
-2023-09-28 13:30:08.778261,13275,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sas-MSK78199959,7.00,1.06,30.09. 07:00
-2023-09-28 13:30:08.778261,13280,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sme-rodina-MSK78199960,50.00,-1.00,30.09. 07:00
-2023-09-28 13:30:08.778261,13282,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/kdh-MSK78199961,10.00,1.01,30.09. 07:00
-2023-09-28 13:30:08.778261,13290,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sns-MSK78199962,12.00,-1.00,30.09. 07:00
-2023-09-28 13:30:08.778261,13297,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/aliancia-MSK78200079,55.00,-1.00,30.09. 07:00
-2023-09-28 13:30:08.778261,13300,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/demokrati-MSK78200089,40.00,-1.00,30.09. 07:00
-2023-09-28 13:30:08.778261,13308,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/ls-nase-slovensko-MSK78200093,120.00,-1.00,30.09. 07:00
-2023-09-28 13:30:08.778261,13311,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/modri-most-hid-MSK78200095,180.00,-1.00,30.09. 07:00
+2023-09-28 13:30:08.778261,13275,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sas-MSK78199959,7.0,1.06,30.09. 07:00
+2023-09-28 13:30:08.778261,13280,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sme-rodina-MSK78199960,50.0,-1.0,30.09. 07:00
+2023-09-28 13:30:08.778261,13282,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/kdh-MSK78199961,10.0,1.01,30.09. 07:00
+2023-09-28 13:30:08.778261,13290,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sns-MSK78199962,12.0,-1.0,30.09. 07:00
+2023-09-28 13:30:08.778261,13297,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/aliancia-MSK78200079,55.0,-1.0,30.09. 07:00
+2023-09-28 13:30:08.778261,13300,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/demokrati-MSK78200089,40.0,-1.0,30.09. 07:00
+2023-09-28 13:30:08.778261,13308,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/ls-nase-slovensko-MSK78200093,120.0,-1.0,30.09. 07:00
+2023-09-28 13:30:08.778261,13311,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/modri-most-hid-MSK78200095,180.0,-1.0,30.09. 07:00
+2023-09-28 13:47:03.506849,13244,Smer,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/smer-MSK78199887,-1.00,50.00,30.09. 07:00
+2023-09-28 13:47:03.506849,13249,Progresívne Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/progresivne-slovensko-MSK78199888,-1.00,50.00,30.09. 07:00
+2023-09-28 13:47:03.506849,13251,Hlas,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/hlas-MSK78199948,1.11,5.37,30.09. 07:00
+2023-09-28 13:47:03.506849,13252,Republika,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/republika-MSK78199955,3.80,1.21,30.09. 07:00
+2023-09-28 13:47:03.506849,13272,OĽANO A PRIATELIA,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/olano-a-priatelia-MSK78199957,1.35,2.94,30.09. 07:00
+2023-09-28 13:47:03.506849,13275,SaS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sas-MSK78199959,7.00,1.06,30.09. 07:00
+2023-09-28 13:47:03.506849,13280,Sme rodina,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sme-rodina-MSK78199960,50.00,-1.00,30.09. 07:00
+2023-09-28 13:47:03.506849,13282,KDH,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/kdh-MSK78199961,10.00,1.01,30.09. 07:00
+2023-09-28 13:47:03.506849,13290,SNS,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/sns-MSK78199962,12.00,-1.00,30.09. 07:00
+2023-09-28 13:47:03.506849,13297,Aliancia,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/aliancia-MSK78200079,55.00,-1.00,30.09. 07:00
+2023-09-28 13:47:03.506849,13300,Demokrati,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/demokrati-MSK78200089,40.00,-1.00,30.09. 07:00
+2023-09-28 13:47:03.506849,13308,ĽS Naše Slovensko,/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/ls-nase-slovensko-MSK78200093,120.00,-1.00,30.09. 07:00
+2023-09-28 13:47:03.506849,13311,"Modrí, Most – Híd",/stavkovanie/politika/slovensko-parlamentne-volby-2023-umiestnenie-do-4-miesta/modri-most-hid-MSK78200095,180.00,-1.00,30.09. 07:00
