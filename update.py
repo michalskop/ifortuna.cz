@@ -33,7 +33,7 @@ domains = [
 
 for domain in domains:
   url0 = "https://www.ifortuna." + domain['domain'] + domain['dir0']
-  url1 = "https://www.ifortuna.cz/bets/ajax/loadmoresport/politika?timeTo=&rateFrom=&rateTo=&date=&pageSize=1000&page=1"
+  url1 = "https://www.ifortuna." + domain['domain'] + "/bets/ajax/loadmoresport/politika?timeTo=&rateFrom=&rateTo=&date=&pageSize=1000&page=1"
 
   # get the page
   now = datetime.datetime.now()
