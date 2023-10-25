@@ -7,8 +7,7 @@ on:
   #     - master
   workflow_dispatch:
   schedule:
-    - cron: '02,22,42 6-21 * * *'
-    - cron: '02 22,00,02,04 * * *'
+    - cron: '02 4,12,20 * * *'
 jobs:
   update:
     runs-on: ubuntu-latest
