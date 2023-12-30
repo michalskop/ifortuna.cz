@@ -21,11 +21,14 @@ for cc in ccs:
       # get the dates only
       df['date'] = pd.to_datetime(df['date']).dt.date
 
-      # correct the odds format ("1 066.00" to 1066.0)
+      # correct the odds format ("1 066.00" to 1066.0), keep the negative odds
       try:
-        df['odds'] = df['odds'].str.replace('[^\d.]', '', regex=True).astype(float)
+        df['odds'] = df['odds'].str.replace('[^-\d.]', '', regex=True).astype(float)
       except:
         pass
+
+      # remove negative odds
+      df = df[df['odds'] > 0]
 
       # calculate the averages
       pt = pd.pivot_table(df, values='odds', index=['date'], columns=['event_name'], aggfunc=np.average).reset_index()
