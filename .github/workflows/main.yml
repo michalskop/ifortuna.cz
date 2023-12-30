@@ -20,9 +20,11 @@ jobs:
       with:
         python-version: 3
 
+    - name: Install system dependencies
+      run: sudo apt-get update && sudo apt-get install -y libxml2-dev libxslt-dev
+
     - name: Install dependencies
-      run: |
-        sudo apt-get install libxml2-dev libxslt-dev
+      run: pip install -r requirements.txt
         pip install -r requirements.txt
 
     - name: Run scraper
