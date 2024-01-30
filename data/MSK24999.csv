@@ -165,13 +165,24 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-01-30 04:08:12.845390,13822,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/pete-buttigieg-MSK97718192,200.0,31.01. 23:55,31.01. 23:55
 2024-01-30 04:08:12.845390,13824,Susan Rice,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/susan-rice-MSK97718204,200.0,31.01. 23:55,31.01. 23:55
 2024-01-30 12:08:48.552799,13600,Joe Biden,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/joe-biden-MSK97717967,1.24,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13621,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/michelle-obama-MSK97717975,5.40,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13648,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gavin-newsom-MSK97717979,20.00,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13695,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/kamala-harris-MSK97717993,25.00,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13692,Dean Phillips,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/dean-phillips-MSK97717987,30.00,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13710,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/elizabeth-warren-MSK97718016,60.00,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13751,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/hillary-clinton-MSK97718030,80.00,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13818,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/robert-f-kennedy-jr--MSK97718045,100.00,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13821,Gretchen Whitmer,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gretchen-whitmer-MSK97718176,125.00,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13822,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/pete-buttigieg-MSK97718192,200.00,31.01. 23:55,31.01. 23:55
-2024-01-30 12:08:48.552799,13824,Susan Rice,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/susan-rice-MSK97718204,200.00,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13621,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/michelle-obama-MSK97717975,5.4,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13648,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gavin-newsom-MSK97717979,20.0,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13695,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/kamala-harris-MSK97717993,25.0,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13692,Dean Phillips,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/dean-phillips-MSK97717987,30.0,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13710,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/elizabeth-warren-MSK97718016,60.0,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13751,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/hillary-clinton-MSK97718030,80.0,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13818,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/robert-f-kennedy-jr--MSK97718045,100.0,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13821,Gretchen Whitmer,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gretchen-whitmer-MSK97718176,125.0,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13822,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/pete-buttigieg-MSK97718192,200.0,31.01. 23:55,31.01. 23:55
+2024-01-30 12:08:48.552799,13824,Susan Rice,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/susan-rice-MSK97718204,200.0,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13600,Joe Biden,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/joe-biden-MSK97717967,1.24,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13621,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/michelle-obama-MSK97717975,5.40,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13648,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gavin-newsom-MSK97717979,20.00,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13695,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/kamala-harris-MSK97717993,25.00,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13692,Dean Phillips,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/dean-phillips-MSK97717987,30.00,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13710,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/elizabeth-warren-MSK97718016,60.00,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13751,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/hillary-clinton-MSK97718030,80.00,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13818,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/robert-f-kennedy-jr--MSK97718045,100.00,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13821,Gretchen Whitmer,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gretchen-whitmer-MSK97718176,125.00,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13822,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/pete-buttigieg-MSK97718192,200.00,31.01. 23:55,31.01. 23:55
+2024-01-30 20:07:55.492548,13824,Susan Rice,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/susan-rice-MSK97718204,200.00,31.01. 23:55,31.01. 23:55
