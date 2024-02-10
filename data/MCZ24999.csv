@@ -506,13 +506,24 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-02-09 20:07:54.247416,13824,Susan Rice,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/susan-rice-MCZ97718204,200.0,29.02. 23:55,29.02. 23:55
 2024-02-09 20:07:54.247416,13822,Pete Buttigieg,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/pete-buttigieg-MCZ97718192,300.0,29.02. 23:55,29.02. 23:55
 2024-02-10 04:08:28.189806,13600,Joe Biden,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/joe-biden-MCZ97717967,1.36,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13621,Michelle Obama,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/michelle-obama-MCZ97717975,5.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13648,Gavin Newsom,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/gavin-newsom-MCZ97717979,10.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13695,Kamala Harris,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/kamala-harris-MCZ97717993,15.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13692,Dean Phillips,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/dean-phillips-MCZ97717987,40.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13710,Elizabeth Warren,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/elizabeth-warren-MCZ97718016,50.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13821,Gretchen Whitmer,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/gretchen-whitmer-MCZ97718176,50.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13751,Hillary Clinton,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/hillary-clinton-MCZ97718030,80.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13818,Robert F. Kennedy Jr.,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/robert-f-kennedy-jr--MCZ97718045,150.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13824,Susan Rice,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/susan-rice-MCZ97718204,200.00,29.02. 23:55,29.02. 23:55
-2024-02-10 04:08:28.189806,13822,Pete Buttigieg,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/pete-buttigieg-MCZ97718192,300.00,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13621,Michelle Obama,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/michelle-obama-MCZ97717975,5.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13648,Gavin Newsom,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/gavin-newsom-MCZ97717979,10.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13695,Kamala Harris,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/kamala-harris-MCZ97717993,15.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13692,Dean Phillips,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/dean-phillips-MCZ97717987,40.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13710,Elizabeth Warren,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/elizabeth-warren-MCZ97718016,50.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13821,Gretchen Whitmer,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/gretchen-whitmer-MCZ97718176,50.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13751,Hillary Clinton,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/hillary-clinton-MCZ97718030,80.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13818,Robert F. Kennedy Jr.,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/robert-f-kennedy-jr--MCZ97718045,150.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13824,Susan Rice,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/susan-rice-MCZ97718204,200.0,29.02. 23:55,29.02. 23:55
+2024-02-10 04:08:28.189806,13822,Pete Buttigieg,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/pete-buttigieg-MCZ97718192,300.0,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13600,Joe Biden,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/joe-biden-MCZ97717967,1.36,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13621,Michelle Obama,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/michelle-obama-MCZ97717975,5.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13648,Gavin Newsom,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/gavin-newsom-MCZ97717979,10.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13695,Kamala Harris,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/kamala-harris-MCZ97717993,15.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13692,Dean Phillips,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/dean-phillips-MCZ97717987,40.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13710,Elizabeth Warren,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/elizabeth-warren-MCZ97718016,50.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13821,Gretchen Whitmer,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/gretchen-whitmer-MCZ97718176,50.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13751,Hillary Clinton,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/hillary-clinton-MCZ97718030,80.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13818,Robert F. Kennedy Jr.,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/robert-f-kennedy-jr--MCZ97718045,150.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13824,Susan Rice,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/susan-rice-MCZ97718204,200.00,29.02. 23:55,29.02. 23:55
+2024-02-10 12:08:42.787448,13822,Pete Buttigieg,/sazeni/politika/usa-prezidentske-volby-2024-nominace-demokratu/pete-buttigieg-MCZ97718192,300.00,29.02. 23:55,29.02. 23:55
