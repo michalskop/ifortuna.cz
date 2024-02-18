@@ -770,13 +770,24 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-02-17 20:07:56.497790,13824,Susan Rice,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/susan-rice-MSK97718204,200.0,29.02. 23:55,29.02. 23:55
 2024-02-17 20:07:56.497790,13822,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/pete-buttigieg-MSK97718192,300.0,29.02. 23:55,29.02. 23:55
 2024-02-18 04:08:13.451092,13600,Joe Biden,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/joe-biden-MSK97717967,1.28,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13621,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/michelle-obama-MSK97717975,5.50,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13648,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gavin-newsom-MSK97717979,8.00,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13695,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/kamala-harris-MSK97717993,14.00,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13692,Dean Phillips,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/dean-phillips-MSK97717987,44.00,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13710,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/elizabeth-warren-MSK97718016,50.00,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13821,Gretchen Whitmer,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gretchen-whitmer-MSK97718176,55.00,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13751,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/hillary-clinton-MSK97718030,80.00,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13818,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/robert-f-kennedy-jr--MSK97718045,125.00,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13824,Susan Rice,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/susan-rice-MSK97718204,200.00,29.02. 23:55,29.02. 23:55
-2024-02-18 04:08:13.451092,13822,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/pete-buttigieg-MSK97718192,300.00,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13621,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/michelle-obama-MSK97717975,5.5,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13648,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gavin-newsom-MSK97717979,8.0,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13695,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/kamala-harris-MSK97717993,14.0,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13692,Dean Phillips,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/dean-phillips-MSK97717987,44.0,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13710,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/elizabeth-warren-MSK97718016,50.0,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13821,Gretchen Whitmer,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gretchen-whitmer-MSK97718176,55.0,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13751,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/hillary-clinton-MSK97718030,80.0,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13818,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/robert-f-kennedy-jr--MSK97718045,125.0,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13824,Susan Rice,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/susan-rice-MSK97718204,200.0,29.02. 23:55,29.02. 23:55
+2024-02-18 04:08:13.451092,13822,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/pete-buttigieg-MSK97718192,300.0,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13600,Joe Biden,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/joe-biden-MSK97717967,1.28,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13621,Michelle Obama,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/michelle-obama-MSK97717975,5.50,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13648,Gavin Newsom,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gavin-newsom-MSK97717979,8.00,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13695,Kamala Harris,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/kamala-harris-MSK97717993,14.00,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13692,Dean Phillips,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/dean-phillips-MSK97717987,44.00,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13710,Elizabeth Warren,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/elizabeth-warren-MSK97718016,50.00,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13821,Gretchen Whitmer,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/gretchen-whitmer-MSK97718176,55.00,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13751,Hillary Clinton,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/hillary-clinton-MSK97718030,80.00,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13818,Robert F. Kennedy Jr.,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/robert-f-kennedy-jr--MSK97718045,125.00,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13824,Susan Rice,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/susan-rice-MSK97718204,200.00,29.02. 23:55,29.02. 23:55
+2024-02-18 12:08:43.478790,13822,Pete Buttigieg,/stavkovanie/politika/prezidentske-volby-usa-2024-nominacie-demokratov/pete-buttigieg-MSK97718192,300.00,29.02. 23:55,29.02. 23:55
