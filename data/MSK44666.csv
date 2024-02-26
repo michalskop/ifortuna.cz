@@ -622,12 +622,23 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-02-25 20:07:56.786109,25654,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/milan-nahlik-MSK98466620,5 000.00,23.03. 07:00,-1.0
 2024-02-26 04:08:21.326504,25609,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/peter-pellegrini-MSK98466518,1.65,23.03. 07:00,2.13
 2024-02-26 04:08:21.326504,25616,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/ivan-korcok-MSK98466522,2.13,23.03. 07:00,1.65
-2024-02-26 04:08:21.326504,25617,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/stefan-harabin-MSK98466529,600.00,23.03. 07:00,-1.00
-2024-02-26 04:08:21.326504,25619,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/igor-matovic-MSK98466537,1 500.00,23.03. 07:00,-1.00
-2024-02-26 04:08:21.326504,25622,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/jan-kubis-MSK98466550,2 500.00,23.03. 07:00,-1.00
-2024-02-26 04:08:21.326504,25632,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/krisztian-forro-MSK98466553,3 000.00,23.03. 07:00,-1.00
-2024-02-26 04:08:21.326504,25631,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/andrej-danko-MSK98466552,4 000.00,23.03. 07:00,-1.00
-2024-02-26 04:08:21.326504,25633,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/marian-kotleba-MSK98466599,4 000.00,23.03. 07:00,-1.00
-2024-02-26 04:08:21.326504,25648,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/patrik-dubovsky-MSK98466604,5 000.00,23.03. 07:00,-1.00
-2024-02-26 04:08:21.326504,25649,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/robert-svec-MSK98466615,5 000.00,23.03. 07:00,-1.00
-2024-02-26 04:08:21.326504,25654,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/milan-nahlik-MSK98466620,5 000.00,23.03. 07:00,-1.00
+2024-02-26 04:08:21.326504,25617,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/stefan-harabin-MSK98466529,600.00,23.03. 07:00,-1.0
+2024-02-26 04:08:21.326504,25619,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/igor-matovic-MSK98466537,1 500.00,23.03. 07:00,-1.0
+2024-02-26 04:08:21.326504,25622,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/jan-kubis-MSK98466550,2 500.00,23.03. 07:00,-1.0
+2024-02-26 04:08:21.326504,25632,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/krisztian-forro-MSK98466553,3 000.00,23.03. 07:00,-1.0
+2024-02-26 04:08:21.326504,25631,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/andrej-danko-MSK98466552,4 000.00,23.03. 07:00,-1.0
+2024-02-26 04:08:21.326504,25633,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/marian-kotleba-MSK98466599,4 000.00,23.03. 07:00,-1.0
+2024-02-26 04:08:21.326504,25648,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/patrik-dubovsky-MSK98466604,5 000.00,23.03. 07:00,-1.0
+2024-02-26 04:08:21.326504,25649,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/robert-svec-MSK98466615,5 000.00,23.03. 07:00,-1.0
+2024-02-26 04:08:21.326504,25654,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/milan-nahlik-MSK98466620,5 000.00,23.03. 07:00,-1.0
+2024-02-26 12:09:08.074642,25609,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/peter-pellegrini-MSK98466518,1.60,23.03. 07:00,2.22
+2024-02-26 12:09:08.074642,25616,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/ivan-korcok-MSK98466522,2.22,23.03. 07:00,1.60
+2024-02-26 12:09:08.074642,25617,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/stefan-harabin-MSK98466529,300.00,23.03. 07:00,-1.00
+2024-02-26 12:09:08.074642,25619,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/igor-matovic-MSK98466537,1 500.00,23.03. 07:00,-1.00
+2024-02-26 12:09:08.074642,25622,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/jan-kubis-MSK98466550,2 500.00,23.03. 07:00,-1.00
+2024-02-26 12:09:08.074642,25632,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/krisztian-forro-MSK98466553,3 000.00,23.03. 07:00,-1.00
+2024-02-26 12:09:08.074642,25631,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/andrej-danko-MSK98466552,4 000.00,23.03. 07:00,-1.00
+2024-02-26 12:09:08.074642,25633,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/marian-kotleba-MSK98466599,4 000.00,23.03. 07:00,-1.00
+2024-02-26 12:09:08.074642,25648,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/patrik-dubovsky-MSK98466604,5 000.00,23.03. 07:00,-1.00
+2024-02-26 12:09:08.074642,25649,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/robert-svec-MSK98466615,5 000.00,23.03. 07:00,-1.00
+2024-02-26 12:09:08.074642,25654,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-vitaz-1-kola/milan-nahlik-MSK98466620,5 000.00,23.03. 07:00,-1.00
