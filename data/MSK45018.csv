@@ -21,14 +21,25 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-03-16 04:08:21.900841,19069,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/patrik-dubovsky-MSK104270536,2 500.00,23.03. 07:00,-1.0
 2024-03-16 04:08:21.900841,19070,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/robert-svec-MSK104270546,2 500.00,23.03. 07:00,-1.0
 2024-03-16 04:08:21.900841,19846,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/milan-nahlik-MSK104270552,2 500.00,23.03. 07:00,-1.0
-2024-03-16 12:08:58.259254,15674,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/peter-pellegrini-MSK104270250,-1.00,23.03. 07:00,25.00
-2024-03-16 12:08:58.259254,15687,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/ivan-korcok-MSK104270261,-1.00,23.03. 07:00,30.00
-2024-03-16 12:08:58.259254,19026,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/stefan-harabin-MSK104270417,33.00,23.03. 07:00,-1.00
-2024-03-16 12:08:58.259254,19027,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/jan-kubis-MSK104270454,1 000.00,23.03. 07:00,-1.00
-2024-03-16 12:08:58.259254,19029,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/igor-matovic-MSK104270487,2 500.00,23.03. 07:00,-1.00
-2024-03-16 12:08:58.259254,19046,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/andrej-danko-MSK104270509,2 500.00,23.03. 07:00,-1.00
-2024-03-16 12:08:58.259254,19060,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/marian-kotleba-MSK104270516,2 500.00,23.03. 07:00,-1.00
-2024-03-16 12:08:58.259254,19065,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/krisztian-forro-MSK104270533,2 500.00,23.03. 07:00,-1.00
-2024-03-16 12:08:58.259254,19069,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/patrik-dubovsky-MSK104270536,2 500.00,23.03. 07:00,-1.00
-2024-03-16 12:08:58.259254,19070,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/robert-svec-MSK104270546,2 500.00,23.03. 07:00,-1.00
-2024-03-16 12:08:58.259254,19846,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/milan-nahlik-MSK104270552,2 500.00,23.03. 07:00,-1.00
+2024-03-16 12:08:58.259254,15674,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/peter-pellegrini-MSK104270250,-1.00,23.03. 07:00,25.0
+2024-03-16 12:08:58.259254,15687,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/ivan-korcok-MSK104270261,-1.00,23.03. 07:00,30.0
+2024-03-16 12:08:58.259254,19026,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/stefan-harabin-MSK104270417,33.00,23.03. 07:00,-1.0
+2024-03-16 12:08:58.259254,19027,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/jan-kubis-MSK104270454,1 000.00,23.03. 07:00,-1.0
+2024-03-16 12:08:58.259254,19029,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/igor-matovic-MSK104270487,2 500.00,23.03. 07:00,-1.0
+2024-03-16 12:08:58.259254,19046,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/andrej-danko-MSK104270509,2 500.00,23.03. 07:00,-1.0
+2024-03-16 12:08:58.259254,19060,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/marian-kotleba-MSK104270516,2 500.00,23.03. 07:00,-1.0
+2024-03-16 12:08:58.259254,19065,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/krisztian-forro-MSK104270533,2 500.00,23.03. 07:00,-1.0
+2024-03-16 12:08:58.259254,19069,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/patrik-dubovsky-MSK104270536,2 500.00,23.03. 07:00,-1.0
+2024-03-16 12:08:58.259254,19070,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/robert-svec-MSK104270546,2 500.00,23.03. 07:00,-1.0
+2024-03-16 12:08:58.259254,19846,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/milan-nahlik-MSK104270552,2 500.00,23.03. 07:00,-1.0
+2024-03-16 20:04:42.255332,15674,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/peter-pellegrini-MSK104270250,-1.00,23.03. 07:00,25.00
+2024-03-16 20:04:42.255332,15687,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/ivan-korcok-MSK104270261,-1.00,23.03. 07:00,30.00
+2024-03-16 20:04:42.255332,19026,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/stefan-harabin-MSK104270417,33.00,23.03. 07:00,-1.00
+2024-03-16 20:04:42.255332,19027,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/jan-kubis-MSK104270454,1 000.00,23.03. 07:00,-1.00
+2024-03-16 20:04:42.255332,19029,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/igor-matovic-MSK104270487,2 500.00,23.03. 07:00,-1.00
+2024-03-16 20:04:42.255332,19046,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/andrej-danko-MSK104270509,2 500.00,23.03. 07:00,-1.00
+2024-03-16 20:04:42.255332,19060,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/marian-kotleba-MSK104270516,2 500.00,23.03. 07:00,-1.00
+2024-03-16 20:04:42.255332,19065,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/krisztian-forro-MSK104270533,2 500.00,23.03. 07:00,-1.00
+2024-03-16 20:04:42.255332,19069,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/patrik-dubovsky-MSK104270536,2 500.00,23.03. 07:00,-1.00
+2024-03-16 20:04:42.255332,19070,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/robert-svec-MSK104270546,2 500.00,23.03. 07:00,-1.00
+2024-03-16 20:04:42.255332,19846,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-2-miesta-v-1-kole/milan-nahlik-MSK104270552,2 500.00,23.03. 07:00,-1.00
