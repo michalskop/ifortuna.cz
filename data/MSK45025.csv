@@ -120,14 +120,25 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-03-17 10:04:33.653655,21172,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/patrik-dubovsky-MSK104273085,30.0,23.03. 07:00,-1.00
 2024-03-17 10:04:33.653655,21200,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/robert-svec-MSK104273097,50.0,23.03. 07:00,-1.00
 2024-03-17 10:04:33.653655,21207,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/milan-nahlik-MSK104273105,50.0,23.03. 07:00,-1.00
-2024-03-17 12:06:27.893833,21131,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/peter-pellegrini-MSK104272992,-1.00,23.03. 07:00,1 000.00
-2024-03-17 12:06:27.893833,21133,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/ivan-korcok-MSK104272996,-1.00,23.03. 07:00,1 000.00
-2024-03-17 12:06:27.893833,21138,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/stefan-harabin-MSK104273006,-1.00,23.03. 07:00,50.00
+2024-03-17 12:06:27.893833,21131,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/peter-pellegrini-MSK104272992,-1.0,23.03. 07:00,1 000.00
+2024-03-17 12:06:27.893833,21133,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/ivan-korcok-MSK104272996,-1.0,23.03. 07:00,1 000.00
+2024-03-17 12:06:27.893833,21138,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/stefan-harabin-MSK104273006,-1.0,23.03. 07:00,50.00
 2024-03-17 12:06:27.893833,21141,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/igor-matovic-MSK104273026,1.55,23.03. 07:00,2.15
-2024-03-17 12:06:27.893833,21140,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/jan-kubis-MSK104273018,3.00,23.03. 07:00,1.29
-2024-03-17 12:06:27.893833,21165,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/krisztian-forro-MSK104273077,5.00,23.03. 07:00,1.10
-2024-03-17 12:06:27.893833,21152,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/andrej-danko-MSK104273031,15.00,23.03. 07:00,-1.00
-2024-03-17 12:06:27.893833,21153,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/marian-kotleba-MSK104273055,20.00,23.03. 07:00,-1.00
-2024-03-17 12:06:27.893833,21172,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/patrik-dubovsky-MSK104273085,30.00,23.03. 07:00,-1.00
-2024-03-17 12:06:27.893833,21200,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/robert-svec-MSK104273097,50.00,23.03. 07:00,-1.00
-2024-03-17 12:06:27.893833,21207,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/milan-nahlik-MSK104273105,50.00,23.03. 07:00,-1.00
+2024-03-17 12:06:27.893833,21140,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/jan-kubis-MSK104273018,3.0,23.03. 07:00,1.29
+2024-03-17 12:06:27.893833,21165,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/krisztian-forro-MSK104273077,5.0,23.03. 07:00,1.10
+2024-03-17 12:06:27.893833,21152,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/andrej-danko-MSK104273031,15.0,23.03. 07:00,-1.00
+2024-03-17 12:06:27.893833,21153,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/marian-kotleba-MSK104273055,20.0,23.03. 07:00,-1.00
+2024-03-17 12:06:27.893833,21172,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/patrik-dubovsky-MSK104273085,30.0,23.03. 07:00,-1.00
+2024-03-17 12:06:27.893833,21200,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/robert-svec-MSK104273097,50.0,23.03. 07:00,-1.00
+2024-03-17 12:06:27.893833,21207,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/milan-nahlik-MSK104273105,50.0,23.03. 07:00,-1.00
+2024-03-17 14:04:39.119191,21131,Peter Pellegrini,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/peter-pellegrini-MSK104272992,-1.00,23.03. 07:00,1 000.00
+2024-03-17 14:04:39.119191,21133,Ivan Korčok,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/ivan-korcok-MSK104272996,-1.00,23.03. 07:00,1 000.00
+2024-03-17 14:04:39.119191,21138,Štefan Harabin,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/stefan-harabin-MSK104273006,-1.00,23.03. 07:00,50.00
+2024-03-17 14:04:39.119191,21141,Igor Matovič,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/igor-matovic-MSK104273026,1.55,23.03. 07:00,2.15
+2024-03-17 14:04:39.119191,21140,Ján Kubiš,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/jan-kubis-MSK104273018,3.00,23.03. 07:00,1.29
+2024-03-17 14:04:39.119191,21165,Krisztián Forró,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/krisztian-forro-MSK104273077,5.00,23.03. 07:00,1.10
+2024-03-17 14:04:39.119191,21152,Andrej Danko,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/andrej-danko-MSK104273031,15.00,23.03. 07:00,-1.00
+2024-03-17 14:04:39.119191,21153,Marian Kotleba,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/marian-kotleba-MSK104273055,20.00,23.03. 07:00,-1.00
+2024-03-17 14:04:39.119191,21172,Patrik Dubovský,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/patrik-dubovsky-MSK104273085,30.00,23.03. 07:00,-1.00
+2024-03-17 14:04:39.119191,21200,Róbert Švec,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/robert-svec-MSK104273097,50.00,23.03. 07:00,-1.00
+2024-03-17 14:04:39.119191,21207,Milan Náhlik,/stavkovanie/politika/slovensko-prezidentske-volby-2024-umiestnenie-do-4-miesta-v-1-kole/milan-nahlik-MSK104273105,50.00,23.03. 07:00,-1.00
