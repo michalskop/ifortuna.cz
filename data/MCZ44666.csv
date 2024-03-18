@@ -1392,12 +1392,23 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-03-17 20:04:27.715567,25654,Milan Náhlik,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/milan-nahlik-MCZ98466620,5 000.00,23.03. 07:00,-1.0
 2024-03-17 22:04:39.395115,25609,Peter Pellegrini,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/peter-pellegrini-MCZ98466518,1.65,23.03. 07:00,2.13
 2024-03-17 22:04:39.395115,25616,Ivan Korčok,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/ivan-korcok-MCZ98466522,2.13,23.03. 07:00,1.65
-2024-03-17 22:04:39.395115,25617,Štefan Harabin,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/stefan-harabin-MCZ98466529,99.00,23.03. 07:00,-1.00
-2024-03-17 22:04:39.395115,25619,Igor Matovič,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/igor-matovic-MCZ98466537,2 000.00,23.03. 07:00,-1.00
-2024-03-17 22:04:39.395115,25622,Ján Kubiš,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/jan-kubis-MCZ98466550,3 000.00,23.03. 07:00,-1.00
-2024-03-17 22:04:39.395115,25631,Andrej Danko,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/andrej-danko-MCZ98466552,5 000.00,23.03. 07:00,-1.00
-2024-03-17 22:04:39.395115,25632,Krisztián Forró,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/krisztian-forro-MCZ98466553,3 000.00,23.03. 07:00,-1.00
-2024-03-17 22:04:39.395115,25633,Marian Kotleba,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/marian-kotleba-MCZ98466599,5 000.00,23.03. 07:00,-1.00
-2024-03-17 22:04:39.395115,25648,Patrik Dubovský,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/patrik-dubovsky-MCZ98466604,5 000.00,23.03. 07:00,-1.00
-2024-03-17 22:04:39.395115,25649,Róbert Švec,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/robert-svec-MCZ98466615,5 000.00,23.03. 07:00,-1.00
-2024-03-17 22:04:39.395115,25654,Milan Náhlik,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/milan-nahlik-MCZ98466620,5 000.00,23.03. 07:00,-1.00
+2024-03-17 22:04:39.395115,25617,Štefan Harabin,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/stefan-harabin-MCZ98466529,99.00,23.03. 07:00,-1.0
+2024-03-17 22:04:39.395115,25619,Igor Matovič,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/igor-matovic-MCZ98466537,2 000.00,23.03. 07:00,-1.0
+2024-03-17 22:04:39.395115,25622,Ján Kubiš,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/jan-kubis-MCZ98466550,3 000.00,23.03. 07:00,-1.0
+2024-03-17 22:04:39.395115,25631,Andrej Danko,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/andrej-danko-MCZ98466552,5 000.00,23.03. 07:00,-1.0
+2024-03-17 22:04:39.395115,25632,Krisztián Forró,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/krisztian-forro-MCZ98466553,3 000.00,23.03. 07:00,-1.0
+2024-03-17 22:04:39.395115,25633,Marian Kotleba,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/marian-kotleba-MCZ98466599,5 000.00,23.03. 07:00,-1.0
+2024-03-17 22:04:39.395115,25648,Patrik Dubovský,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/patrik-dubovsky-MCZ98466604,5 000.00,23.03. 07:00,-1.0
+2024-03-17 22:04:39.395115,25649,Róbert Švec,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/robert-svec-MCZ98466615,5 000.00,23.03. 07:00,-1.0
+2024-03-17 22:04:39.395115,25654,Milan Náhlik,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/milan-nahlik-MCZ98466620,5 000.00,23.03. 07:00,-1.0
+2024-03-18 00:16:25.228758,25609,Peter Pellegrini,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/peter-pellegrini-MCZ98466518,1.65,23.03. 07:00,2.13
+2024-03-18 00:16:25.228758,25616,Ivan Korčok,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/ivan-korcok-MCZ98466522,2.13,23.03. 07:00,1.65
+2024-03-18 00:16:25.228758,25617,Štefan Harabin,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/stefan-harabin-MCZ98466529,99.00,23.03. 07:00,-1.00
+2024-03-18 00:16:25.228758,25619,Igor Matovič,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/igor-matovic-MCZ98466537,2 000.00,23.03. 07:00,-1.00
+2024-03-18 00:16:25.228758,25622,Ján Kubiš,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/jan-kubis-MCZ98466550,3 000.00,23.03. 07:00,-1.00
+2024-03-18 00:16:25.228758,25631,Andrej Danko,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/andrej-danko-MCZ98466552,5 000.00,23.03. 07:00,-1.00
+2024-03-18 00:16:25.228758,25632,Krisztián Forró,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/krisztian-forro-MCZ98466553,3 000.00,23.03. 07:00,-1.00
+2024-03-18 00:16:25.228758,25633,Marian Kotleba,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/marian-kotleba-MCZ98466599,5 000.00,23.03. 07:00,-1.00
+2024-03-18 00:16:25.228758,25648,Patrik Dubovský,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/patrik-dubovsky-MCZ98466604,5 000.00,23.03. 07:00,-1.00
+2024-03-18 00:16:25.228758,25649,Róbert Švec,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/robert-svec-MCZ98466615,5 000.00,23.03. 07:00,-1.00
+2024-03-18 00:16:25.228758,25654,Milan Náhlik,/sazeni/politika/slovensko-prezidentske-volby-2024-vitez-1-kola/milan-nahlik-MCZ98466620,5 000.00,23.03. 07:00,-1.00
