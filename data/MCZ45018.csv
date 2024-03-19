@@ -361,13 +361,23 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-03-19 12:06:43.703061,19069,Patrik Dubovský,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/patrik-dubovsky-MCZ104270536,2 500.00,23.03. 07:00,-1.0
 2024-03-19 12:06:43.703061,19070,Róbert Švec,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/robert-svec-MCZ104270546,2 500.00,23.03. 07:00,-1.0
 2024-03-19 12:06:43.703061,19846,Milan Náhlik,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/milan-nahlik-MCZ104270552,2 500.00,23.03. 07:00,-1.0
-2024-03-19 14:04:39.572681,15674,Peter Pellegrini,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/peter-pellegrini-MCZ104270250,-1.00,23.03. 07:00,30.00
-2024-03-19 14:04:39.572681,15687,Ivan Korčok,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/ivan-korcok-MCZ104270261,-1.00,23.03. 07:00,25.00
-2024-03-19 14:04:39.572681,19026,Štefan Harabin,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/stefan-harabin-MCZ104270417,28.00,23.03. 07:00,-1.00
-2024-03-19 14:04:39.572681,19027,Ján Kubiš,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/jan-kubis-MCZ104270454,1 000.00,23.03. 07:00,-1.00
-2024-03-19 14:04:39.572681,19029,Igor Matovič,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/igor-matovic-MCZ104270487,2 500.00,23.03. 07:00,-1.00
-2024-03-19 14:04:39.572681,19060,Marian Kotleba,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/marian-kotleba-MCZ104270516,2 500.00,23.03. 07:00,-1.00
-2024-03-19 14:04:39.572681,19065,Krisztián Forró,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/krisztian-forro-MCZ104270533,2 500.00,23.03. 07:00,-1.00
-2024-03-19 14:04:39.572681,19069,Patrik Dubovský,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/patrik-dubovsky-MCZ104270536,2 500.00,23.03. 07:00,-1.00
-2024-03-19 14:04:39.572681,19070,Róbert Švec,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/robert-svec-MCZ104270546,2 500.00,23.03. 07:00,-1.00
-2024-03-19 14:04:39.572681,19846,Milan Náhlik,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/milan-nahlik-MCZ104270552,2 500.00,23.03. 07:00,-1.00
+2024-03-19 14:04:39.572681,15674,Peter Pellegrini,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/peter-pellegrini-MCZ104270250,-1.00,23.03. 07:00,30.0
+2024-03-19 14:04:39.572681,15687,Ivan Korčok,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/ivan-korcok-MCZ104270261,-1.00,23.03. 07:00,25.0
+2024-03-19 14:04:39.572681,19026,Štefan Harabin,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/stefan-harabin-MCZ104270417,28.00,23.03. 07:00,-1.0
+2024-03-19 14:04:39.572681,19027,Ján Kubiš,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/jan-kubis-MCZ104270454,1 000.00,23.03. 07:00,-1.0
+2024-03-19 14:04:39.572681,19029,Igor Matovič,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/igor-matovic-MCZ104270487,2 500.00,23.03. 07:00,-1.0
+2024-03-19 14:04:39.572681,19060,Marian Kotleba,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/marian-kotleba-MCZ104270516,2 500.00,23.03. 07:00,-1.0
+2024-03-19 14:04:39.572681,19065,Krisztián Forró,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/krisztian-forro-MCZ104270533,2 500.00,23.03. 07:00,-1.0
+2024-03-19 14:04:39.572681,19069,Patrik Dubovský,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/patrik-dubovsky-MCZ104270536,2 500.00,23.03. 07:00,-1.0
+2024-03-19 14:04:39.572681,19070,Róbert Švec,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/robert-svec-MCZ104270546,2 500.00,23.03. 07:00,-1.0
+2024-03-19 14:04:39.572681,19846,Milan Náhlik,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/milan-nahlik-MCZ104270552,2 500.00,23.03. 07:00,-1.0
+2024-03-19 16:04:40.968575,15674,Peter Pellegrini,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/peter-pellegrini-MCZ104270250,-1.00,23.03. 07:00,30.00
+2024-03-19 16:04:40.968575,15687,Ivan Korčok,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/ivan-korcok-MCZ104270261,-1.00,23.03. 07:00,25.00
+2024-03-19 16:04:40.968575,19026,Štefan Harabin,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/stefan-harabin-MCZ104270417,28.00,23.03. 07:00,-1.00
+2024-03-19 16:04:40.968575,19027,Ján Kubiš,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/jan-kubis-MCZ104270454,1 000.00,23.03. 07:00,-1.00
+2024-03-19 16:04:40.968575,19029,Igor Matovič,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/igor-matovic-MCZ104270487,2 500.00,23.03. 07:00,-1.00
+2024-03-19 16:04:40.968575,19060,Marian Kotleba,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/marian-kotleba-MCZ104270516,2 500.00,23.03. 07:00,-1.00
+2024-03-19 16:04:40.968575,19065,Krisztián Forró,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/krisztian-forro-MCZ104270533,2 500.00,23.03. 07:00,-1.00
+2024-03-19 16:04:40.968575,19069,Patrik Dubovský,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/patrik-dubovsky-MCZ104270536,2 500.00,23.03. 07:00,-1.00
+2024-03-19 16:04:40.968575,19070,Róbert Švec,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/robert-svec-MCZ104270546,2 500.00,23.03. 07:00,-1.00
+2024-03-19 16:04:40.968575,19846,Milan Náhlik,/sazeni/politika/slovensko-prezidentske-volby-2024-umisteni-do-2-mista-v-1-kole/milan-nahlik-MCZ104270552,2 500.00,23.03. 07:00,-1.00
