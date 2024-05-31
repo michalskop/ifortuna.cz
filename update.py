@@ -3,6 +3,7 @@
 import datetime
 import os
 import pandas as pd
+from lxml.html.clean import Cleaner
 from requests_html import HTMLSession, HTML, AsyncHTMLSession
 
 session = HTMLSession()
