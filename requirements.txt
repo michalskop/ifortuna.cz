@@ -1,2 +1,3 @@
+lxml[html_clean]
 requests_html
 pandas
