@@ -76,14 +76,25 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-06-02 04:07:30.829916,21102,Zelení,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/zeleni-MCZ109274026,1 500.00,07.06. 14:00,-1.0
 2024-06-02 04:07:30.829916,5791,Svobodní,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/svobodni-MCZ113074706,900.00,07.06. 14:01,-1.0
 2024-06-02 04:07:30.829916,5813,Sociální demokracie,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/socialni-demokracie-MCZ113074709,600.00,07.06. 14:01,-1.0
-2024-06-02 12:08:32.906187,5791,Svobodní,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/svobodni-MCZ113074706,1 000.00,07.06. 14:00,-1.00
-2024-06-02 12:08:32.906187,5813,Sociální demokracie,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/socialni-demokracie-MCZ113074709,800.00,07.06. 14:00,-1.00
+2024-06-02 12:08:32.906187,5791,Svobodní,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/svobodni-MCZ113074706,1 000.00,07.06. 14:00,-1.0
+2024-06-02 12:08:32.906187,5813,Sociální demokracie,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/socialni-demokracie-MCZ113074709,800.00,07.06. 14:00,-1.0
 2024-06-02 12:08:32.906187,21082,ANO 2011,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/ano-2011-MCZ109272942,1.45,07.06. 14:00,2.44
 2024-06-02 12:08:32.906187,21083,SPOLU,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/spolu-MCZ109273850,2.40,07.06. 14:00,1.47
-2024-06-02 12:08:32.906187,21087,Starostové a osobnosti pro Evropu,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/starostove-a-osobnosti-pro-evropu-MCZ109273863,130.00,07.06. 14:00,-1.00
-2024-06-02 12:08:32.906187,21089,Česká pirátská strana,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/ceska-piratska-strana-MCZ109273880,130.00,07.06. 14:00,-1.00
-2024-06-02 12:08:32.906187,21091,SPD a Trikolora,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/spd-a-trikolora-MCZ109273899,150.00,07.06. 14:00,-1.00
-2024-06-02 12:08:32.906187,21092,STAČILO!,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/stacilo--MCZ109273981,190.00,07.06. 14:00,-1.00
-2024-06-02 12:08:32.906187,21093,PŘÍSAHA a MOTORISTÉ,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/prisaha-a-motoriste-MCZ109273990,200.00,07.06. 14:00,-1.00
-2024-06-02 12:08:32.906187,21095,PRO,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/pro-MCZ109274020,2 000.00,07.06. 14:00,-1.00
-2024-06-02 12:08:32.906187,21102,Zelení,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/zeleni-MCZ109274026,1 500.00,07.06. 14:00,-1.00
+2024-06-02 12:08:32.906187,21087,Starostové a osobnosti pro Evropu,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/starostove-a-osobnosti-pro-evropu-MCZ109273863,130.00,07.06. 14:00,-1.0
+2024-06-02 12:08:32.906187,21089,Česká pirátská strana,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/ceska-piratska-strana-MCZ109273880,130.00,07.06. 14:00,-1.0
+2024-06-02 12:08:32.906187,21091,SPD a Trikolora,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/spd-a-trikolora-MCZ109273899,150.00,07.06. 14:00,-1.0
+2024-06-02 12:08:32.906187,21092,STAČILO!,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/stacilo--MCZ109273981,190.00,07.06. 14:00,-1.0
+2024-06-02 12:08:32.906187,21093,PŘÍSAHA a MOTORISTÉ,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/prisaha-a-motoriste-MCZ109273990,200.00,07.06. 14:00,-1.0
+2024-06-02 12:08:32.906187,21095,PRO,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/pro-MCZ109274020,2 000.00,07.06. 14:00,-1.0
+2024-06-02 12:08:32.906187,21102,Zelení,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/zeleni-MCZ109274026,1 500.00,07.06. 14:00,-1.0
+2024-06-02 20:06:53.328715,5791,Svobodní,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/svobodni-MCZ113074706,1 000.00,07.06. 14:00,-1.00
+2024-06-02 20:06:53.328715,5813,Sociální demokracie,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/socialni-demokracie-MCZ113074709,800.00,07.06. 14:00,-1.00
+2024-06-02 20:06:53.328715,21082,ANO 2011,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/ano-2011-MCZ109272942,1.50,07.06. 14:00,2.31
+2024-06-02 20:06:53.328715,21083,SPOLU,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/spolu-MCZ109273850,2.35,07.06. 14:00,1.49
+2024-06-02 20:06:53.328715,21087,Starostové a osobnosti pro Evropu,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/starostove-a-osobnosti-pro-evropu-MCZ109273863,130.00,07.06. 14:00,-1.00
+2024-06-02 20:06:53.328715,21089,Česká pirátská strana,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/ceska-piratska-strana-MCZ109273880,150.00,07.06. 14:00,-1.00
+2024-06-02 20:06:53.328715,21091,SPD a Trikolora,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/spd-a-trikolora-MCZ109273899,160.00,07.06. 14:00,-1.00
+2024-06-02 20:06:53.328715,21092,STAČILO!,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/stacilo--MCZ109273981,190.00,07.06. 14:00,-1.00
+2024-06-02 20:06:53.328715,21093,PŘÍSAHA a MOTORISTÉ,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/prisaha-a-motoriste-MCZ109273990,190.00,07.06. 14:00,-1.00
+2024-06-02 20:06:53.328715,21095,PRO,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/pro-MCZ109274020,2 000.00,07.06. 14:00,-1.00
+2024-06-02 20:06:53.328715,21102,Zelení,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024/zeleni-MCZ109274026,1 500.00,07.06. 14:00,-1.00
