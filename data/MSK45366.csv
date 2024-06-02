@@ -65,14 +65,25 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-06-01 20:07:04.635314,20920,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/slovensko-za-ludi-MSK109273440,400.00,08.06. 07:00,-1.0
 2024-06-01 20:07:04.635314,20926,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/demokrati-MSK109273451,400.00,08.06. 07:00,-1.0
 2024-06-01 20:07:04.635314,20929,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/lsns-MSK109273529,1 000.00,08.06. 07:00,-1.0
-2024-06-02 04:07:44.436062,20888,Progresívne Slovensko,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/progresivne-slovensko-MSK109272963,2.00,08.06. 07:00,1.70
+2024-06-02 04:07:44.436062,20888,Progresívne Slovensko,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/progresivne-slovensko-MSK109272963,2.00,08.06. 07:00,1.7
 2024-06-02 04:07:44.436062,20889,SMER-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/smer-sd-MSK109272974,1.71,08.06. 07:00,1.99
-2024-06-02 04:07:44.436062,20892,HLAS-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/hlas-sd-MSK109273085,70.00,08.06. 07:00,-1.00
-2024-06-02 04:07:44.436062,20894,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/kdh-MSK109273118,150.00,08.06. 07:00,-1.00
-2024-06-02 04:07:44.436062,20901,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/sas-MSK109273125,200.00,08.06. 07:00,-1.00
-2024-06-02 04:07:44.436062,20903,Republika,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/republika-MSK109273131,100.00,08.06. 07:00,-1.00
-2024-06-02 04:07:44.436062,20906,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/sns-MSK109273138,500.00,08.06. 07:00,-1.00
-2024-06-02 04:07:44.436062,20913,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/madarska-aliancia-MSK109273387,400.00,08.06. 07:00,-1.00
-2024-06-02 04:07:44.436062,20920,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/slovensko-za-ludi-MSK109273440,450.00,08.06. 07:00,-1.00
-2024-06-02 04:07:44.436062,20926,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/demokrati-MSK109273451,400.00,08.06. 07:00,-1.00
-2024-06-02 04:07:44.436062,20929,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/lsns-MSK109273529,1 000.00,08.06. 07:00,-1.00
+2024-06-02 04:07:44.436062,20892,HLAS-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/hlas-sd-MSK109273085,70.00,08.06. 07:00,-1.0
+2024-06-02 04:07:44.436062,20894,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/kdh-MSK109273118,150.00,08.06. 07:00,-1.0
+2024-06-02 04:07:44.436062,20901,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/sas-MSK109273125,200.00,08.06. 07:00,-1.0
+2024-06-02 04:07:44.436062,20903,Republika,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/republika-MSK109273131,100.00,08.06. 07:00,-1.0
+2024-06-02 04:07:44.436062,20906,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/sns-MSK109273138,500.00,08.06. 07:00,-1.0
+2024-06-02 04:07:44.436062,20913,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/madarska-aliancia-MSK109273387,400.00,08.06. 07:00,-1.0
+2024-06-02 04:07:44.436062,20920,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/slovensko-za-ludi-MSK109273440,450.00,08.06. 07:00,-1.0
+2024-06-02 04:07:44.436062,20926,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/demokrati-MSK109273451,400.00,08.06. 07:00,-1.0
+2024-06-02 04:07:44.436062,20929,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/lsns-MSK109273529,1 000.00,08.06. 07:00,-1.0
+2024-06-02 12:08:43.708883,20888,Progresívne Slovensko,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/progresivne-slovensko-MSK109272963,1.92,08.06. 07:00,1.77
+2024-06-02 12:08:43.708883,20889,SMER-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/smer-sd-MSK109272974,1.77,08.06. 07:00,1.92
+2024-06-02 12:08:43.708883,20892,HLAS-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/hlas-sd-MSK109273085,70.00,08.06. 07:00,-1.00
+2024-06-02 12:08:43.708883,20894,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/kdh-MSK109273118,150.00,08.06. 07:00,-1.00
+2024-06-02 12:08:43.708883,20901,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/sas-MSK109273125,200.00,08.06. 07:00,-1.00
+2024-06-02 12:08:43.708883,20903,Republika,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/republika-MSK109273131,100.00,08.06. 07:00,-1.00
+2024-06-02 12:08:43.708883,20906,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/sns-MSK109273138,500.00,08.06. 07:00,-1.00
+2024-06-02 12:08:43.708883,20913,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/madarska-aliancia-MSK109273387,400.00,08.06. 07:00,-1.00
+2024-06-02 12:08:43.708883,20920,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/slovensko-za-ludi-MSK109273440,450.00,08.06. 07:00,-1.00
+2024-06-02 12:08:43.708883,20926,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/demokrati-MSK109273451,400.00,08.06. 07:00,-1.00
+2024-06-02 12:08:43.708883,20929,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024/lsns-MSK109273529,1 000.00,08.06. 07:00,-1.00
