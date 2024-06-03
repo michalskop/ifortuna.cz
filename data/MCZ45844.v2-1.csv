@@ -178,4 +178,24 @@ date,event_info_number,event_name,event_link,header1,header2,odd1,odd2,datum
 2024-06-02 20:06:53.328715,5632,Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/demokrati-MCZ113074020,Méně než 5.01,Více než 5.01,1.42,2.6,08.06. 07:00
 2024-06-02 20:06:53.328715,5642,SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/sns-MCZ113074034,Méně než 3.51,Více než 3.51,1.78,1.9,08.06. 07:00
 2024-06-02 20:06:53.328715,5672,SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/sns-MCZ113074039,Méně než 5.01,Více než 5.01,1.18,4.18,08.06. 07:00
-2024-06-02 20:06:53.328715,5716,ĽSNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/lsns-MCZ113074051,Méně než 5.01,Více než 5.01,-1.00,15.00,08.06. 07:00
+2024-06-02 20:06:53.328715,5716,ĽSNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/lsns-MCZ113074051,Méně než 5.01,Více než 5.01,-1.0,15.0,08.06. 07:00
+2024-06-03 04:09:24.680518,4203,Progresívne Slovensko,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/progresivne-slovensko-MCZ113072030,Méně než 5.01,Více než 5.01,25.0,-1.0,08.06. 07:00
+2024-06-03 04:09:24.680518,4221,Progresívne Slovensko,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/progresivne-slovensko-MCZ113072039,Méně než 25.01,Více než 25.01,1.67,2.05,08.06. 07:00
+2024-06-03 04:09:24.680518,4334,SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/smer-sd-MCZ113072164,Méně než 5.01,Více než 5.01,25.0,-1.0,08.06. 07:00
+2024-06-03 04:09:24.680518,4396,SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/smer-sd-MCZ113072180,Méně než 25.01,Více než 25.01,1.72,1.98,08.06. 07:00
+2024-06-03 04:09:24.680518,4451,HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/hlas-sd-MCZ113072226,Méně než 5.01,Více než 5.01,7.43,1.05,08.06. 07:00
+2024-06-03 04:09:24.680518,4473,HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/hlas-sd-MCZ113072241,Méně než 10.01,Více než 10.01,1.88,1.8,08.06. 07:00
+2024-06-03 04:09:24.680518,4508,Republika,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/republika-MCZ113072256,Méně než 5.01,Více než 5.01,5.37,1.11,08.06. 07:00
+2024-06-03 04:09:24.680518,4535,Republika,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/republika-MCZ113072271,Méně než 8.01,Více než 8.01,1.78,1.86,08.06. 07:00
+2024-06-03 04:09:24.680518,4561,KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/kdh-MCZ113072281,Méně než 5.01,Více než 5.01,3.94,1.2,08.06. 07:00
+2024-06-03 04:09:24.680518,4566,KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/kdh-MCZ113072287,Méně než 6.51,Více než 6.51,1.84,1.84,08.06. 07:00
+2024-06-03 04:09:24.680518,4791,SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/sas-MCZ113072394,Méně než 5.01,Více než 5.01,3.15,1.3,08.06. 07:00
+2024-06-03 04:09:24.680518,4997,SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/sas-MCZ113072397,Méně než 6.51,Více než 6.51,1.74,1.95,08.06. 07:00
+2024-06-03 04:09:24.680518,5296,"Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/slovensko-za-ludi-MCZ113072435,Méně než 4.01,Více než 4.01,1.7,1.96,08.06. 07:00
+2024-06-03 04:09:24.680518,5386,"Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/slovensko-za-ludi-MCZ113072437,Méně než 5.01,Více než 5.01,1.25,3.48,08.06. 07:00
+2024-06-03 04:09:24.680518,5608,Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/madarska-aliancia-MCZ113073969,Méně než 5.01,Více než 5.01,1.35,2.89,08.06. 07:00
+2024-06-03 04:09:24.680518,5627,Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/demokrati-MCZ113074015,Méně než 4.01,Více než 4.01,1.9,1.75,08.06. 07:00
+2024-06-03 04:09:24.680518,5632,Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/demokrati-MCZ113074020,Méně než 5.01,Více než 5.01,1.42,2.6,08.06. 07:00
+2024-06-03 04:09:24.680518,5642,SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/sns-MCZ113074034,Méně než 3.51,Více než 3.51,1.78,1.9,08.06. 07:00
+2024-06-03 04:09:24.680518,5672,SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/sns-MCZ113074039,Méně než 5.01,Více než 5.01,1.18,4.18,08.06. 07:00
+2024-06-03 04:09:24.680518,5716,ĽSNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-pocet-hlasu-v-/lsns-MCZ113074051,Méně než 5.01,Více než 5.01,-1.00,15.00,08.06. 07:00
