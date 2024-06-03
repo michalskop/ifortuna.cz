@@ -53,12 +53,21 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-06-01 20:07:04.635314,5499,Svobodní,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/svobodni-MSK113074026,115.0,07.06. 14:00,-1.0
 2024-06-01 20:07:04.635314,3285,PRO,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/pro-MSK113069796,200.0,07.06. 14:00,-1.0
 2024-06-01 20:07:04.635314,3295,Strana Zelených,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/zeleni-MSK113069800,200.0,07.06. 14:00,-1.0
-2024-06-02 04:07:44.436062,3277,Česká pirátská strana,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/ceska-piratska-strana-MSK113069756,1.10,07.06. 14:00,5.62
-2024-06-02 04:07:44.436062,3269,Starostové a osobnosti pro Evropu,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/starostove-a-osobnosti-pro-evropu-MSK113069753,1.60,07.06. 14:00,2.16
-2024-06-02 04:07:44.436062,3278,SPD a Trikolora,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/spd-a-trikolora-MSK113069763,2.70,07.06. 14:00,1.40
-2024-06-02 04:07:44.436062,3283,PŘÍSAHA a MOTORISTÉ,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/prisaha-a-motoriste-MSK113069772,2.90,07.06. 14:00,1.35
-2024-06-02 04:07:44.436062,3280,STAČILO!,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/stacilo--MSK113069765,4.00,07.06. 14:00,1.19
-2024-06-02 04:07:44.436062,5487,Sociální demokracie,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/socialni-demokracie-MSK113074008,90.00,07.06. 14:00,-1.00
-2024-06-02 04:07:44.436062,5499,Svobodní,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/svobodni-MSK113074026,115.00,07.06. 14:00,-1.00
-2024-06-02 04:07:44.436062,3285,PRO,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/pro-MSK113069796,200.00,07.06. 14:00,-1.00
-2024-06-02 04:07:44.436062,3295,Strana Zelených,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/zeleni-MSK113069800,200.00,07.06. 14:00,-1.00
+2024-06-02 04:07:44.436062,3277,Česká pirátská strana,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/ceska-piratska-strana-MSK113069756,1.1,07.06. 14:00,5.62
+2024-06-02 04:07:44.436062,3269,Starostové a osobnosti pro Evropu,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/starostove-a-osobnosti-pro-evropu-MSK113069753,1.6,07.06. 14:00,2.16
+2024-06-02 04:07:44.436062,3278,SPD a Trikolora,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/spd-a-trikolora-MSK113069763,2.7,07.06. 14:00,1.4
+2024-06-02 04:07:44.436062,3283,PŘÍSAHA a MOTORISTÉ,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/prisaha-a-motoriste-MSK113069772,2.9,07.06. 14:00,1.35
+2024-06-02 04:07:44.436062,3280,STAČILO!,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/stacilo--MSK113069765,4.0,07.06. 14:00,1.19
+2024-06-02 04:07:44.436062,5487,Sociální demokracie,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/socialni-demokracie-MSK113074008,90.0,07.06. 14:00,-1.0
+2024-06-02 04:07:44.436062,5499,Svobodní,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/svobodni-MSK113074026,115.0,07.06. 14:00,-1.0
+2024-06-02 04:07:44.436062,3285,PRO,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/pro-MSK113069796,200.0,07.06. 14:00,-1.0
+2024-06-02 04:07:44.436062,3295,Strana Zelených,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/zeleni-MSK113069800,200.0,07.06. 14:00,-1.0
+2024-06-03 12:10:43.563757,3269,Starostové a osobnosti pro Evropu,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/starostove-a-osobnosti-pro-evropu-MSK113069753,1.45,07.06. 14:00,2.52
+2024-06-03 12:10:43.563757,3277,Česká pirátská strana,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/ceska-piratska-strana-MSK113069756,1.60,07.06. 14:00,2.16
+2024-06-03 12:10:43.563757,3278,SPD a Trikolora,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/spd-a-trikolora-MSK113069763,2.20,07.06. 14:00,1.58
+2024-06-03 12:10:43.563757,3280,STAČILO!,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/stacilo--MSK113069765,3.00,07.06. 14:00,1.33
+2024-06-03 12:10:43.563757,3283,PŘÍSAHA a MOTORISTÉ,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/prisaha-a-motoriste-MSK113069772,3.00,07.06. 14:00,1.33
+2024-06-03 12:10:43.563757,5487,Sociální demokracie,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/socialni-demokracie-MSK113074008,100.00,07.06. 14:00,-1.00
+2024-06-03 12:10:43.563757,5499,Svobodní,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/svobodni-MSK113074026,150.00,07.06. 14:00,-1.00
+2024-06-03 12:10:43.563757,3295,Strana Zelených,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/zeleni-MSK113069800,200.00,07.06. 14:00,-1.00
+2024-06-03 12:10:43.563757,3285,PRO,/stavkovanie/politika/cesko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/pro-MSK113069796,300.00,07.06. 14:00,-1.00
