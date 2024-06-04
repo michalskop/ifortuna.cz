@@ -131,14 +131,25 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-06-03 20:07:12.527735,4096,ĽSNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/lsns-MCZ113071919,100.0,08.06. 07:00,-1.0
 2024-06-03 20:07:12.527735,11438,Progresívne Slovensko,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/progresivne-slovensko-MCZ112534880,-1.0,08.06. 07:00,80.0
 2024-06-03 20:07:12.527735,11439,SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/smer-sd-MCZ112534881,-1.0,08.06. 07:00,100.0
-2024-06-04 04:07:25.423033,11856,HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/hlas-sd-MCZ112534884,1.40,08.06. 07:00,2.60
-2024-06-04 04:07:25.423033,11860,Republika,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/republika-MCZ112534886,2.60,08.06. 07:00,1.40
-2024-06-04 04:07:25.423033,11861,KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/kdh-MCZ112534891,5.00,08.06. 07:00,1.11
-2024-06-04 04:07:25.423033,11862,SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/sas-MCZ112534893,6.50,08.06. 07:00,1.06
-2024-06-04 04:07:25.423033,11863,"Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/slovensko-za-ludi-MCZ112534894,25.00,08.06. 07:00,-1.00
-2024-06-04 04:07:25.423033,11864,Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/madarska-aliancia-MCZ112534898,25.00,08.06. 07:00,-1.00
-2024-06-04 04:07:25.423033,11865,Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/demokrati-MCZ112534900,25.00,08.06. 07:00,-1.00
-2024-06-04 04:07:25.423033,11866,SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/sns-MCZ112534903,50.00,08.06. 07:00,-1.00
-2024-06-04 04:07:25.423033,4096,ĽSNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/lsns-MCZ113071919,100.00,08.06. 07:00,-1.00
-2024-06-04 04:07:25.423033,11438,Progresívne Slovensko,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/progresivne-slovensko-MCZ112534880,-1.00,08.06. 07:00,80.00
-2024-06-04 04:07:25.423033,11439,SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/smer-sd-MCZ112534881,-1.00,08.06. 07:00,100.00
+2024-06-04 04:07:25.423033,11856,HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/hlas-sd-MCZ112534884,1.4,08.06. 07:00,2.6
+2024-06-04 04:07:25.423033,11860,Republika,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/republika-MCZ112534886,2.6,08.06. 07:00,1.4
+2024-06-04 04:07:25.423033,11861,KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/kdh-MCZ112534891,5.0,08.06. 07:00,1.11
+2024-06-04 04:07:25.423033,11862,SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/sas-MCZ112534893,6.5,08.06. 07:00,1.06
+2024-06-04 04:07:25.423033,11863,"Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/slovensko-za-ludi-MCZ112534894,25.0,08.06. 07:00,-1.0
+2024-06-04 04:07:25.423033,11864,Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/madarska-aliancia-MCZ112534898,25.0,08.06. 07:00,-1.0
+2024-06-04 04:07:25.423033,11865,Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/demokrati-MCZ112534900,25.0,08.06. 07:00,-1.0
+2024-06-04 04:07:25.423033,11866,SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/sns-MCZ112534903,50.0,08.06. 07:00,-1.0
+2024-06-04 04:07:25.423033,4096,ĽSNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/lsns-MCZ113071919,100.0,08.06. 07:00,-1.0
+2024-06-04 04:07:25.423033,11438,Progresívne Slovensko,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/progresivne-slovensko-MCZ112534880,-1.0,08.06. 07:00,80.0
+2024-06-04 04:07:25.423033,11439,SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/smer-sd-MCZ112534881,-1.0,08.06. 07:00,100.0
+2024-06-04 12:09:58.156168,11856,HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/hlas-sd-MCZ112534884,1.28,08.06. 07:00,3.15
+2024-06-04 12:09:58.156168,11860,Republika,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/republika-MCZ112534886,3.50,08.06. 07:00,1.23
+2024-06-04 12:09:58.156168,11861,KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/kdh-MCZ112534891,7.00,08.06. 07:00,1.05
+2024-06-04 12:09:58.156168,11862,SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/sas-MCZ112534893,8.00,08.06. 07:00,1.03
+2024-06-04 12:09:58.156168,11865,Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/demokrati-MCZ112534900,20.00,08.06. 07:00,-1.00
+2024-06-04 12:09:58.156168,11863,"Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/slovensko-za-ludi-MCZ112534894,25.00,08.06. 07:00,-1.00
+2024-06-04 12:09:58.156168,11864,Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/madarska-aliancia-MCZ112534898,25.00,08.06. 07:00,-1.00
+2024-06-04 12:09:58.156168,11866,SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/sns-MCZ112534903,50.00,08.06. 07:00,-1.00
+2024-06-04 12:09:58.156168,4096,ĽSNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/lsns-MCZ113071919,100.00,08.06. 07:00,-1.00
+2024-06-04 12:09:58.156168,11438,Progresívne Slovensko,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/progresivne-slovensko-MCZ112534880,-1.00,08.06. 07:00,100.00
+2024-06-04 12:09:58.156168,11439,SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-umisteni-do-3-mista/smer-sd-MCZ112534881,-1.00,08.06. 07:00,100.00
