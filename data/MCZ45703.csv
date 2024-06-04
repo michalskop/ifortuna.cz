@@ -197,21 +197,39 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-06-03 12:10:31.256877,10248,SNS - Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sns-madarska-aliancia-MCZ112538481,2.05,08.06. 07:00,1.67
 2024-06-03 12:10:31.256877,10132,Progresívne Slovensko - HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/progresivne-slovensko-hlas-sd-MCZ112534931,-1.0,08.06. 07:00,25.0
 2024-06-03 12:10:31.256877,10134,SMER-SD - HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/smer-sd-hlas-sd-MCZ112534933,-1.0,08.06. 07:00,30.0
-2024-06-03 20:07:12.527735,10131,Progresívne Slovensko - SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/progresivne-slovensko-smer-sd-MCZ112534930,1.80,08.06. 07:00,1.90
-2024-06-03 20:07:12.527735,10136,HLAS-SD - Republika,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/hlas-sd-republika-MCZ112537685,1.40,08.06. 07:00,2.68
-2024-06-03 20:07:12.527735,10140,HLAS-SD - KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/hlas-sd-kdh-MCZ112537914,1.20,08.06. 07:00,3.94
+2024-06-03 20:07:12.527735,10131,Progresívne Slovensko - SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/progresivne-slovensko-smer-sd-MCZ112534930,1.8,08.06. 07:00,1.9
+2024-06-03 20:07:12.527735,10136,HLAS-SD - Republika,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/hlas-sd-republika-MCZ112537685,1.4,08.06. 07:00,2.68
+2024-06-03 20:07:12.527735,10140,HLAS-SD - KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/hlas-sd-kdh-MCZ112537914,1.2,08.06. 07:00,3.94
 2024-06-03 20:07:12.527735,10141,Republika - KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/republika-kdh-MCZ112537919,1.27,08.06. 07:00,3.34
 2024-06-03 20:07:12.527735,10144,Republika - SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/republika-sas-MCZ112537923,1.35,08.06. 07:00,2.89
-2024-06-03 20:07:12.527735,10145,KDH - SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/kdh-sas-MCZ112537939,1.70,08.06. 07:00,2.01
-2024-06-03 20:07:12.527735,10149,"KDH - Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/kdh-slovensko-za-ludi-MCZ112537948,1.20,08.06. 07:00,3.94
+2024-06-03 20:07:12.527735,10145,KDH - SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/kdh-sas-MCZ112537939,1.7,08.06. 07:00,2.01
+2024-06-03 20:07:12.527735,10149,"KDH - Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/kdh-slovensko-za-ludi-MCZ112537948,1.2,08.06. 07:00,3.94
 2024-06-03 20:07:12.527735,10153,KDH - Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/kdh-demokrati-MCZ112537951,1.17,08.06. 07:00,4.31
 2024-06-03 20:07:12.527735,10156,"SaS - Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sas-slovensko-za-ludi-MCZ112537961,1.25,08.06. 07:00,3.48
 2024-06-03 20:07:12.527735,10158,SaS - Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sas-demokrati-MCZ112538241,1.28,08.06. 07:00,3.27
-2024-06-03 20:07:12.527735,10160,SaS - SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sas-sns-MCZ112538252,1.20,08.06. 07:00,3.94
-2024-06-03 20:07:12.527735,10161,"Slovensko, Za ľudí - Demokrati",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/slovensko-za-ludi-demokrati-MCZ112538257,2.01,08.06. 07:00,1.70
+2024-06-03 20:07:12.527735,10160,SaS - SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sas-sns-MCZ112538252,1.2,08.06. 07:00,3.94
+2024-06-03 20:07:12.527735,10161,"Slovensko, Za ľudí - Demokrati",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/slovensko-za-ludi-demokrati-MCZ112538257,2.01,08.06. 07:00,1.7
 2024-06-03 20:07:12.527735,10163,"Slovensko, Za ľudí - SNS",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/slovensko-za-ludi-sns-MCZ112538259,1.68,08.06. 07:00,2.03
-2024-06-03 20:07:12.527735,10165,Demokrati - SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/demokrati-sns-MCZ112538286,1.60,08.06. 07:00,2.16
+2024-06-03 20:07:12.527735,10165,Demokrati - SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/demokrati-sns-MCZ112538286,1.6,08.06. 07:00,2.16
 2024-06-03 20:07:12.527735,10167,Demokrati - Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/demokrati-madarska-aliancia-MCZ112538449,1.72,08.06. 07:00,1.98
 2024-06-03 20:07:12.527735,10248,SNS - Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sns-madarska-aliancia-MCZ112538481,2.05,08.06. 07:00,1.67
-2024-06-03 20:07:12.527735,10132,Progresívne Slovensko - HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/progresivne-slovensko-hlas-sd-MCZ112534931,-1.00,08.06. 07:00,25.00
-2024-06-03 20:07:12.527735,10134,SMER-SD - HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/smer-sd-hlas-sd-MCZ112534933,-1.00,08.06. 07:00,30.00
+2024-06-03 20:07:12.527735,10132,Progresívne Slovensko - HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/progresivne-slovensko-hlas-sd-MCZ112534931,-1.0,08.06. 07:00,25.0
+2024-06-03 20:07:12.527735,10134,SMER-SD - HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/smer-sd-hlas-sd-MCZ112534933,-1.0,08.06. 07:00,30.0
+2024-06-04 04:07:25.423033,10131,Progresívne Slovensko - SMER-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/progresivne-slovensko-smer-sd-MCZ112534930,1.75,08.06. 07:00,1.95
+2024-06-04 04:07:25.423033,10136,HLAS-SD - Republika,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/hlas-sd-republika-MCZ112537685,1.28,08.06. 07:00,3.27
+2024-06-04 04:07:25.423033,10140,HLAS-SD - KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/hlas-sd-kdh-MCZ112537914,1.10,08.06. 07:00,5.62
+2024-06-04 04:07:25.423033,10141,Republika - KDH,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/republika-kdh-MCZ112537919,1.30,08.06. 07:00,3.15
+2024-06-04 04:07:25.423033,10144,Republika - SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/republika-sas-MCZ112537923,1.33,08.06. 07:00,2.98
+2024-06-04 04:07:25.423033,10145,KDH - SaS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/kdh-sas-MCZ112537939,1.80,08.06. 07:00,1.88
+2024-06-04 04:07:25.423033,10149,"KDH - Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/kdh-slovensko-za-ludi-MCZ112537948,1.20,08.06. 07:00,3.94
+2024-06-04 04:07:25.423033,10153,KDH - Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/kdh-demokrati-MCZ112537951,1.25,08.06. 07:00,3.48
+2024-06-04 04:07:25.423033,10156,"SaS - Slovensko, Za ľudí",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sas-slovensko-za-ludi-MCZ112537961,1.25,08.06. 07:00,3.48
+2024-06-04 04:07:25.423033,10158,SaS - Demokrati,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sas-demokrati-MCZ112538241,1.28,08.06. 07:00,3.27
+2024-06-04 04:07:25.423033,10160,SaS - SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sas-sns-MCZ112538252,1.20,08.06. 07:00,3.94
+2024-06-04 04:07:25.423033,10161,"Slovensko, Za ľudí - Demokrati",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/slovensko-za-ludi-demokrati-MCZ112538257,2.01,08.06. 07:00,1.70
+2024-06-04 04:07:25.423033,10163,"Slovensko, Za ľudí - SNS",/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/slovensko-za-ludi-sns-MCZ112538259,1.68,08.06. 07:00,2.03
+2024-06-04 04:07:25.423033,10165,Demokrati - SNS,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/demokrati-sns-MCZ112538286,1.57,08.06. 07:00,2.22
+2024-06-04 04:07:25.423033,10167,Demokrati - Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/demokrati-madarska-aliancia-MCZ112538449,1.72,08.06. 07:00,1.98
+2024-06-04 04:07:25.423033,10248,SNS - Maďarská aliancia,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/sns-madarska-aliancia-MCZ112538481,2.05,08.06. 07:00,1.67
+2024-06-04 04:07:25.423033,10132,Progresívne Slovensko - HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/progresivne-slovensko-hlas-sd-MCZ112534931,-1.00,08.06. 07:00,25.00
+2024-06-04 04:07:25.423033,10134,SMER-SD - HLAS-SD,/sazeni/politika/slovensko-volby-do-evropskeho-parlamentu-2024-ziska-vice-/smer-sd-hlas-sd-MCZ112534933,-1.00,08.06. 07:00,30.00
