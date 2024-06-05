@@ -153,14 +153,25 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-06-04 12:10:11.111803,4093,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/lsns-MSK113071907,500.0,08.06. 07:00,-1.0
 2024-06-04 12:10:11.111803,11871,Progresívne Slovensko,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/progresivne-slovensko-MSK112534515,-1.0,08.06. 06:59,30.0
 2024-06-04 12:10:11.111803,11888,SMER-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/smer-sd-MSK112534516,-1.0,08.06. 06:59,30.0
-2024-06-04 20:07:27.943199,11889,HLAS-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/hlas-sd-MSK112534553,35.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,11891,Republika,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/republika-MSK112534554,45.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,11892,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/kdh-MSK112534560,80.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,11893,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/sas-MSK112534562,100.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,11894,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/slovensko-za-ludi-MSK112534568,150.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,11971,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/demokrati-MSK112539626,175.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,11895,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/madarska-aliancia-MSK112534605,200.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,11973,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/sns-MSK112539627,300.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,4093,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/lsns-MSK113071907,500.00,08.06. 07:00,-1.00
-2024-06-04 20:07:27.943199,11871,Progresívne Slovensko,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/progresivne-slovensko-MSK112534515,-1.00,08.06. 06:59,30.00
-2024-06-04 20:07:27.943199,11888,SMER-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/smer-sd-MSK112534516,-1.00,08.06. 06:59,30.00
+2024-06-04 20:07:27.943199,11889,HLAS-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/hlas-sd-MSK112534553,35.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,11891,Republika,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/republika-MSK112534554,45.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,11892,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/kdh-MSK112534560,80.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,11893,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/sas-MSK112534562,100.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,11894,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/slovensko-za-ludi-MSK112534568,150.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,11971,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/demokrati-MSK112539626,175.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,11895,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/madarska-aliancia-MSK112534605,200.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,11973,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/sns-MSK112539627,300.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,4093,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/lsns-MSK113071907,500.0,08.06. 07:00,-1.0
+2024-06-04 20:07:27.943199,11871,Progresívne Slovensko,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/progresivne-slovensko-MSK112534515,-1.0,08.06. 06:59,30.0
+2024-06-04 20:07:27.943199,11888,SMER-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/smer-sd-MSK112534516,-1.0,08.06. 06:59,30.0
+2024-06-05 04:08:53.147929,11889,HLAS-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/hlas-sd-MSK112534553,35.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,11891,Republika,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/republika-MSK112534554,45.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,11892,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/kdh-MSK112534560,80.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,11893,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/sas-MSK112534562,100.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,11894,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/slovensko-za-ludi-MSK112534568,150.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,11971,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/demokrati-MSK112539626,175.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,11895,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/madarska-aliancia-MSK112534605,200.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,11973,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/sns-MSK112539627,300.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,4093,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/lsns-MSK113071907,500.00,08.06. 07:00,-1.00
+2024-06-05 04:08:53.147929,11871,Progresívne Slovensko,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/progresivne-slovensko-MSK112534515,-1.00,08.06. 06:59,30.00
+2024-06-05 04:08:53.147929,11888,SMER-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-2-miesta/smer-sd-MSK112534516,-1.00,08.06. 06:59,30.00
