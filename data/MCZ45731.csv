@@ -153,14 +153,25 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-06-05 12:10:04.553478,1977,PRO,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/pro-MCZ112808123,1 000.00,07.06. 14:00,-1.0
 2024-06-05 12:10:04.553478,1938,ANO 2011,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/ano-2011-MCZ112808068,-1.00,07.06. 14:00,20.0
 2024-06-05 12:10:04.553478,1940,SPOLU,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/spolu-MCZ112808071,-1.00,07.06. 14:00,18.0
-2024-06-05 20:07:16.759148,1943,Starostové a osobnosti pro Evropu,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/starostove-a-osobnosti-pro-evropu-MCZ112808078,40.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,1945,Česká pirátská strana,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/ceska-piratska-strana-MCZ112808081,50.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,1953,SPD a Trikolora,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/spd-a-trikolora-MCZ112808094,60.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,1957,STAČILO!,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/stacilo--MCZ112808099,80.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,1958,PŘÍSAHA a MOTORISTÉ,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/prisaha-a-motoriste-MCZ112808102,80.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,4143,Sociální demokracie,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/socialni-demokracie-MCZ113072297,400.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,4144,Svobodní,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/svobodni-MCZ113072303,600.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,1981,Zelení,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/zeleni-MCZ112808140,800.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,1977,PRO,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/pro-MCZ112808123,1 000.00,07.06. 14:00,-1.00
-2024-06-05 20:07:16.759148,1938,ANO 2011,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/ano-2011-MCZ112808068,-1.00,07.06. 14:00,20.00
-2024-06-05 20:07:16.759148,1940,SPOLU,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/spolu-MCZ112808071,-1.00,07.06. 14:00,18.00
+2024-06-05 20:07:16.759148,1943,Starostové a osobnosti pro Evropu,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/starostove-a-osobnosti-pro-evropu-MCZ112808078,40.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,1945,Česká pirátská strana,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/ceska-piratska-strana-MCZ112808081,50.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,1953,SPD a Trikolora,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/spd-a-trikolora-MCZ112808094,60.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,1957,STAČILO!,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/stacilo--MCZ112808099,80.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,1958,PŘÍSAHA a MOTORISTÉ,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/prisaha-a-motoriste-MCZ112808102,80.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,4143,Sociální demokracie,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/socialni-demokracie-MCZ113072297,400.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,4144,Svobodní,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/svobodni-MCZ113072303,600.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,1981,Zelení,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/zeleni-MCZ112808140,800.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,1977,PRO,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/pro-MCZ112808123,1 000.00,07.06. 14:00,-1.0
+2024-06-05 20:07:16.759148,1938,ANO 2011,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/ano-2011-MCZ112808068,-1.00,07.06. 14:00,20.0
+2024-06-05 20:07:16.759148,1940,SPOLU,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/spolu-MCZ112808071,-1.00,07.06. 14:00,18.0
+2024-06-06 04:07:32.970194,1943,Starostové a osobnosti pro Evropu,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/starostove-a-osobnosti-pro-evropu-MCZ112808078,40.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,1945,Česká pirátská strana,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/ceska-piratska-strana-MCZ112808081,50.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,1953,SPD a Trikolora,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/spd-a-trikolora-MCZ112808094,60.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,1957,STAČILO!,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/stacilo--MCZ112808099,80.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,1958,PŘÍSAHA a MOTORISTÉ,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/prisaha-a-motoriste-MCZ112808102,80.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,4143,Sociální demokracie,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/socialni-demokracie-MCZ113072297,400.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,4144,Svobodní,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/svobodni-MCZ113072303,600.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,1981,Zelení,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/zeleni-MCZ112808140,800.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,1977,PRO,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/pro-MCZ112808123,1 000.00,07.06. 14:00,-1.00
+2024-06-06 04:07:32.970194,1938,ANO 2011,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/ano-2011-MCZ112808068,-1.00,07.06. 14:00,20.00
+2024-06-06 04:07:32.970194,1940,SPOLU,/sazeni/politika/cesko-volby-do-evropskeho-parlamentu-2024-umisteni-do-2-mista/spolu-MCZ112808071,-1.00,07.06. 14:00,18.00
