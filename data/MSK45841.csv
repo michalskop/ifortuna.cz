@@ -199,10 +199,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-06-07 04:08:44.282157,7827,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/lsns-MSK113082449,90.0,08.06. 07:00,-1.0
 2024-06-07 12:11:31.148950,7732,HLAS-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/hlas-sd-MSK113082383,1.02,08.06. 07:00,9.38
 2024-06-07 12:11:31.148950,7738,Republika,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/republika-MSK113082387,1.25,08.06. 07:00,3.48
-2024-06-07 12:11:31.148950,7740,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/kdh-MSK113082391,5.00,08.06. 07:00,1.13
-2024-06-07 12:11:31.148950,7744,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/sas-MSK113082394,5.00,08.06. 07:00,1.13
-2024-06-07 12:11:31.148950,7824,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/demokrati-MSK113082445,8.00,08.06. 07:00,-1.00
-2024-06-07 12:11:31.148950,7750,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/madarska-aliancia-MSK113082421,13.00,08.06. 07:00,-1.00
-2024-06-07 12:11:31.148950,7746,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/slovensko-za-ludi-MSK113082420,15.00,08.06. 07:00,-1.00
-2024-06-07 12:11:31.148950,7826,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/sns-MSK113082446,30.00,08.06. 07:00,-1.00
-2024-06-07 12:11:31.148950,7827,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/lsns-MSK113082449,90.00,08.06. 07:00,-1.00
+2024-06-07 12:11:31.148950,7740,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/kdh-MSK113082391,5.0,08.06. 07:00,1.13
+2024-06-07 12:11:31.148950,7744,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/sas-MSK113082394,5.0,08.06. 07:00,1.13
+2024-06-07 12:11:31.148950,7824,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/demokrati-MSK113082445,8.0,08.06. 07:00,-1.0
+2024-06-07 12:11:31.148950,7750,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/madarska-aliancia-MSK113082421,13.0,08.06. 07:00,-1.0
+2024-06-07 12:11:31.148950,7746,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/slovensko-za-ludi-MSK113082420,15.0,08.06. 07:00,-1.0
+2024-06-07 12:11:31.148950,7826,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/sns-MSK113082446,30.0,08.06. 07:00,-1.0
+2024-06-07 12:11:31.148950,7827,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/lsns-MSK113082449,90.0,08.06. 07:00,-1.0
+2024-06-07 20:07:21.668593,7732,HLAS-SD,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/hlas-sd-MSK113082383,1.05,08.06. 07:00,7.43
+2024-06-07 20:07:21.668593,7738,Republika,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/republika-MSK113082387,1.25,08.06. 07:00,3.48
+2024-06-07 20:07:21.668593,7740,KDH,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/kdh-MSK113082391,4.50,08.06. 07:00,1.16
+2024-06-07 20:07:21.668593,7744,SaS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/sas-MSK113082394,5.50,08.06. 07:00,1.10
+2024-06-07 20:07:21.668593,7824,Demokrati,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/demokrati-MSK113082445,8.00,08.06. 07:00,-1.00
+2024-06-07 20:07:21.668593,7750,Maďarská aliancia,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/madarska-aliancia-MSK113082421,13.00,08.06. 07:00,-1.00
+2024-06-07 20:07:21.668593,7746,"Slovensko, Za ľudí",/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/slovensko-za-ludi-MSK113082420,15.00,08.06. 07:00,-1.00
+2024-06-07 20:07:21.668593,7826,SNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/sns-MSK113082446,30.00,08.06. 07:00,-1.00
+2024-06-07 20:07:21.668593,7827,ĽSNS,/stavkovanie/politika/slovensko-volby-do-europskeho-parlamentu-2024-umiestnenie-do-4-miesta/lsns-MSK113082449,90.00,08.06. 07:00,-1.00
