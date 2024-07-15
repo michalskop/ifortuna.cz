@@ -85,13 +85,16 @@ for domain in domains:
       rows = []
       for tr in trs:
         tds = tr.find('td')
-        event_info_number = tr.find('.event-info-number', first=True).text
-        event_name = tds[0].attrs['data-value']
-        event_link = tds[0].find('a', first=True).attrs['href']
-        odds = tds[1].text
-        odds2 = tds[2].text
-        datum = tds[-1].text
-        rows.append([now, event_info_number, event_name, event_link, odds, odds2, datum])
+        try:
+          event_info_number = tr.find('.event-info-number', first=True).text
+          event_name = tds[0].attrs['data-value']
+          event_link = tds[0].find('a', first=True).attrs['href']
+          odds = tds[1].text
+          odds2 = tds[2].text
+          datum = tds[-1].text
+          rows.append([now, event_info_number, event_name, event_link, odds, odds2, datum])
+        except:
+          pass
       # write to file
       pd.concat([df, pd.DataFrame(rows, columns=['date', 'event_info_number', 'event_name', 'event_link', 'odds', 'odds2', 'datum'])]).to_csv(fname, index=False)
     else:
