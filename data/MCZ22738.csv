@@ -71,11 +71,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-09-15 04:08:06.458014,8816,Fischer Pavel Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/fischer-pavel-ing--MCZ135707881,40.0,20.09. 14:00,-1.0
 2024-09-15 04:08:06.458014,8821,Kopecký David BA (Hons),/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/kopecky-david-ba-hons--MCZ135707884,50.0,20.09. 14:00,-1.0
 2024-09-15 04:08:06.458014,8833,Novák Vítězslav Bc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/novak-vitezslav-bc--MCZ135707899,50.0,20.09. 14:00,-1.0
-2024-09-15 12:10:13.079198,8835,Wagenknecht Lukáš Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/wagenknecht-lukas-ing--MCZ135707908,1.77,20.09. 14:00,-1.00
-2024-09-15 12:10:13.079198,8831,Ludková Vladimíra Mgr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/ludkova-vladimira-mgr--MCZ135707896,2.00,20.09. 14:00,-1.00
-2024-09-15 12:10:13.079198,8826,Kučera Zdeněk Mgr. MBA,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/kucera-zdenek-mgr-mba-MCZ135707894,7.00,20.09. 14:00,-1.00
-2024-09-15 12:10:13.079198,8807,Erbrt Miroslav MUDr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/erbrt-miroslav-mudr--MCZ135707875,10.00,20.09. 14:00,-1.00
-2024-09-15 12:10:13.079198,8822,Korda Jan Mgr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/korda-jan-mgr--MCZ135707892,15.00,20.09. 14:00,-1.00
-2024-09-15 12:10:13.079198,8816,Fischer Pavel Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/fischer-pavel-ing--MCZ135707881,40.00,20.09. 14:00,-1.00
-2024-09-15 12:10:13.079198,8821,Kopecký David BA (Hons),/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/kopecky-david-ba-hons--MCZ135707884,50.00,20.09. 14:00,-1.00
-2024-09-15 12:10:13.079198,8833,Novák Vítězslav Bc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/novak-vitezslav-bc--MCZ135707899,50.00,20.09. 14:00,-1.00
+2024-09-15 12:10:13.079198,8835,Wagenknecht Lukáš Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/wagenknecht-lukas-ing--MCZ135707908,1.77,20.09. 14:00,-1.0
+2024-09-15 12:10:13.079198,8831,Ludková Vladimíra Mgr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/ludkova-vladimira-mgr--MCZ135707896,2.0,20.09. 14:00,-1.0
+2024-09-15 12:10:13.079198,8826,Kučera Zdeněk Mgr. MBA,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/kucera-zdenek-mgr-mba-MCZ135707894,7.0,20.09. 14:00,-1.0
+2024-09-15 12:10:13.079198,8807,Erbrt Miroslav MUDr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/erbrt-miroslav-mudr--MCZ135707875,10.0,20.09. 14:00,-1.0
+2024-09-15 12:10:13.079198,8822,Korda Jan Mgr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/korda-jan-mgr--MCZ135707892,15.0,20.09. 14:00,-1.0
+2024-09-15 12:10:13.079198,8816,Fischer Pavel Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/fischer-pavel-ing--MCZ135707881,40.0,20.09. 14:00,-1.0
+2024-09-15 12:10:13.079198,8821,Kopecký David BA (Hons),/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/kopecky-david-ba-hons--MCZ135707884,50.0,20.09. 14:00,-1.0
+2024-09-15 12:10:13.079198,8833,Novák Vítězslav Bc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/novak-vitezslav-bc--MCZ135707899,50.0,20.09. 14:00,-1.0
+2024-09-15 20:07:28.576912,8835,Wagenknecht Lukáš Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/wagenknecht-lukas-ing--MCZ135707908,1.77,20.09. 14:00,-1.00
+2024-09-15 20:07:28.576912,8831,Ludková Vladimíra Mgr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/ludkova-vladimira-mgr--MCZ135707896,2.00,20.09. 14:00,-1.00
+2024-09-15 20:07:28.576912,8826,Kučera Zdeněk Mgr. MBA,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/kucera-zdenek-mgr-mba-MCZ135707894,7.00,20.09. 14:00,-1.00
+2024-09-15 20:07:28.576912,8807,Erbrt Miroslav MUDr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/erbrt-miroslav-mudr--MCZ135707875,10.00,20.09. 14:00,-1.00
+2024-09-15 20:07:28.576912,8822,Korda Jan Mgr.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/korda-jan-mgr--MCZ135707892,15.00,20.09. 14:00,-1.00
+2024-09-15 20:07:28.576912,8816,Fischer Pavel Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/fischer-pavel-ing--MCZ135707881,40.00,20.09. 14:00,-1.00
+2024-09-15 20:07:28.576912,8821,Kopecký David BA (Hons),/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/kopecky-david-ba-hons--MCZ135707884,50.00,20.09. 14:00,-1.00
+2024-09-15 20:07:28.576912,8833,Novák Vítězslav Bc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-23-praha-8-celkove/novak-vitezslav-bc--MCZ135707899,50.00,20.09. 14:00,-1.00
