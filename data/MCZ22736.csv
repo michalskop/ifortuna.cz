@@ -179,12 +179,21 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-09-19 04:08:17.959068,8637,"Maštálka Ivan Mgr. LL.M., MBA",/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/mastalka-ivan-mgr-ll-m-mba-MCZ135707042,30.0,20.09. 14:00,-1.0
 2024-09-19 04:08:17.959068,8641,Ridzoň Ján Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/ridzon-jan-ing--MCZ135707051,40.0,20.09. 14:00,-1.0
 2024-09-19 04:08:17.959068,8652,Sladký Václav,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/sladky-vaclav-MCZ135707055,40.0,20.09. 14:00,-1.0
-2024-09-19 12:11:17.039234,8636,Látka Jan,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/latka-jan-MCZ135707038,2.20,20.09. 14:00,1.40
-2024-09-19 12:11:17.039234,8658,Vilímec Vladislav Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/vilimec-vladislav-ing--MCZ135707067,2.20,20.09. 14:00,1.40
-2024-09-19 12:11:17.039234,8639,Picka Libor Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/picka-libor-ing--MCZ135707048,5.50,20.09. 14:00,2.50
-2024-09-19 12:11:17.039234,8631,Antoš Stanislav Bc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/antos-stanislav-bc--MCZ135707026,7.00,20.09. 14:00,3.00
-2024-09-19 12:11:17.039234,8632,Baxa Robert Mgr. Bc. LL.M.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/baxa-robert-mgr-bc-ll-m--MCZ135707029,7.00,20.09. 14:00,3.00
-2024-09-19 12:11:17.039234,8637,"Maštálka Ivan Mgr. LL.M., MBA",/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/mastalka-ivan-mgr-ll-m-mba-MCZ135707042,27.00,20.09. 14:00,12.00
-2024-09-19 12:11:17.039234,8633,Janda Jan,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/janda-jan-MCZ135707034,35.00,20.09. 14:00,16.00
-2024-09-19 12:11:17.039234,8641,Ridzoň Ján Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/ridzon-jan-ing--MCZ135707051,50.00,20.09. 14:00,22.00
-2024-09-19 12:11:17.039234,8652,Sladký Václav,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/sladky-vaclav-MCZ135707055,50.00,20.09. 14:00,22.00
+2024-09-19 12:11:17.039234,8636,Látka Jan,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/latka-jan-MCZ135707038,2.2,20.09. 14:00,1.4
+2024-09-19 12:11:17.039234,8658,Vilímec Vladislav Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/vilimec-vladislav-ing--MCZ135707067,2.2,20.09. 14:00,1.4
+2024-09-19 12:11:17.039234,8639,Picka Libor Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/picka-libor-ing--MCZ135707048,5.5,20.09. 14:00,2.5
+2024-09-19 12:11:17.039234,8631,Antoš Stanislav Bc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/antos-stanislav-bc--MCZ135707026,7.0,20.09. 14:00,3.0
+2024-09-19 12:11:17.039234,8632,Baxa Robert Mgr. Bc. LL.M.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/baxa-robert-mgr-bc-ll-m--MCZ135707029,7.0,20.09. 14:00,3.0
+2024-09-19 12:11:17.039234,8637,"Maštálka Ivan Mgr. LL.M., MBA",/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/mastalka-ivan-mgr-ll-m-mba-MCZ135707042,27.0,20.09. 14:00,12.0
+2024-09-19 12:11:17.039234,8633,Janda Jan,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/janda-jan-MCZ135707034,35.0,20.09. 14:00,16.0
+2024-09-19 12:11:17.039234,8641,Ridzoň Ján Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/ridzon-jan-ing--MCZ135707051,50.0,20.09. 14:00,22.0
+2024-09-19 12:11:17.039234,8652,Sladký Václav,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/sladky-vaclav-MCZ135707055,50.0,20.09. 14:00,22.0
+2024-09-19 20:07:19.706438,8636,Látka Jan,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/latka-jan-MCZ135707038,2.20,20.09. 14:00,1.40
+2024-09-19 20:07:19.706438,8658,Vilímec Vladislav Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/vilimec-vladislav-ing--MCZ135707067,2.20,20.09. 14:00,1.40
+2024-09-19 20:07:19.706438,8639,Picka Libor Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/picka-libor-ing--MCZ135707048,5.50,20.09. 14:00,2.50
+2024-09-19 20:07:19.706438,8631,Antoš Stanislav Bc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/antos-stanislav-bc--MCZ135707026,7.00,20.09. 14:00,3.00
+2024-09-19 20:07:19.706438,8632,Baxa Robert Mgr. Bc. LL.M.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/baxa-robert-mgr-bc-ll-m--MCZ135707029,7.00,20.09. 14:00,3.00
+2024-09-19 20:07:19.706438,8637,"Maštálka Ivan Mgr. LL.M., MBA",/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/mastalka-ivan-mgr-ll-m-mba-MCZ135707042,27.00,20.09. 14:00,12.00
+2024-09-19 20:07:19.706438,8633,Janda Jan,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/janda-jan-MCZ135707034,35.00,20.09. 14:00,16.00
+2024-09-19 20:07:19.706438,8641,Ridzoň Ján Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/ridzon-jan-ing--MCZ135707051,50.00,20.09. 14:00,22.00
+2024-09-19 20:07:19.706438,8652,Sladký Václav,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-11-domazlice-celkove/sladky-vaclav-MCZ135707055,50.00,20.09. 14:00,22.00
