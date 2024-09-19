@@ -143,11 +143,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds2
 2024-09-18 12:11:12.097417,8721,Folajtár Jiří,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/folajtar-jiri-MCZ135707413,60.0,20.09. 14:00,-1.0
 2024-09-18 12:11:12.097417,8728,Sehnal Pavel Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/sehnal-pavel-ing--MCZ135707754,60.0,20.09. 14:00,-1.0
 2024-09-18 12:11:12.097417,8780,Vítová Vladimíra PhDr. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/vitova-vladimira-phdr-ph-d--MCZ135707777,60.0,20.09. 14:00,-1.0
-2024-09-18 20:07:28.294085,8720,"Drahoš Jiří prof. Ing. DrSc., dr. h. c. mult.",/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/drahos-jiri-prof-ing-drsc-dr-h-c-mult--MCZ135707410,1.03,20.09. 14:00,-1.00
-2024-09-18 20:07:28.294085,8753,Šichtařová Markéta Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/sichtarova-marketa-ing--MCZ135707759,5.00,20.09. 14:00,-1.00
-2024-09-18 20:07:28.294085,8749,Svoboda Josef Mgr. Ing. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/svoboda-josef-mgr-ing-ph-d--MCZ135707758,13.00,20.09. 14:00,-1.00
-2024-09-18 20:07:28.294085,8766,Štěpánek Petr Mgr. CSc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/stepanek-petr-mgr-csc--MCZ135707773,30.00,20.09. 14:00,-1.00
-2024-09-18 20:07:28.294085,8724,Outrata Filip Mgr. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/outrata-filip-mgr-ph-d--MCZ135707741,50.00,20.09. 14:00,-1.00
-2024-09-18 20:07:28.294085,8721,Folajtár Jiří,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/folajtar-jiri-MCZ135707413,60.00,20.09. 14:00,-1.00
-2024-09-18 20:07:28.294085,8728,Sehnal Pavel Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/sehnal-pavel-ing--MCZ135707754,60.00,20.09. 14:00,-1.00
-2024-09-18 20:07:28.294085,8780,Vítová Vladimíra PhDr. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/vitova-vladimira-phdr-ph-d--MCZ135707777,60.00,20.09. 14:00,-1.00
+2024-09-18 20:07:28.294085,8720,"Drahoš Jiří prof. Ing. DrSc., dr. h. c. mult.",/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/drahos-jiri-prof-ing-drsc-dr-h-c-mult--MCZ135707410,1.03,20.09. 14:00,-1.0
+2024-09-18 20:07:28.294085,8753,Šichtařová Markéta Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/sichtarova-marketa-ing--MCZ135707759,5.0,20.09. 14:00,-1.0
+2024-09-18 20:07:28.294085,8749,Svoboda Josef Mgr. Ing. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/svoboda-josef-mgr-ing-ph-d--MCZ135707758,13.0,20.09. 14:00,-1.0
+2024-09-18 20:07:28.294085,8766,Štěpánek Petr Mgr. CSc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/stepanek-petr-mgr-csc--MCZ135707773,30.0,20.09. 14:00,-1.0
+2024-09-18 20:07:28.294085,8724,Outrata Filip Mgr. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/outrata-filip-mgr-ph-d--MCZ135707741,50.0,20.09. 14:00,-1.0
+2024-09-18 20:07:28.294085,8721,Folajtár Jiří,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/folajtar-jiri-MCZ135707413,60.0,20.09. 14:00,-1.0
+2024-09-18 20:07:28.294085,8728,Sehnal Pavel Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/sehnal-pavel-ing--MCZ135707754,60.0,20.09. 14:00,-1.0
+2024-09-18 20:07:28.294085,8780,Vítová Vladimíra PhDr. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/vitova-vladimira-phdr-ph-d--MCZ135707777,60.0,20.09. 14:00,-1.0
+2024-09-19 04:08:17.959068,8720,"Drahoš Jiří prof. Ing. DrSc., dr. h. c. mult.",/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/drahos-jiri-prof-ing-drsc-dr-h-c-mult--MCZ135707410,1.03,20.09. 14:00,-1.00
+2024-09-19 04:08:17.959068,8753,Šichtařová Markéta Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/sichtarova-marketa-ing--MCZ135707759,5.00,20.09. 14:00,-1.00
+2024-09-19 04:08:17.959068,8749,Svoboda Josef Mgr. Ing. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/svoboda-josef-mgr-ing-ph-d--MCZ135707758,13.00,20.09. 14:00,-1.00
+2024-09-19 04:08:17.959068,8766,Štěpánek Petr Mgr. CSc.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/stepanek-petr-mgr-csc--MCZ135707773,30.00,20.09. 14:00,-1.00
+2024-09-19 04:08:17.959068,8724,Outrata Filip Mgr. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/outrata-filip-mgr-ph-d--MCZ135707741,50.00,20.09. 14:00,-1.00
+2024-09-19 04:08:17.959068,8721,Folajtár Jiří,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/folajtar-jiri-MCZ135707413,60.00,20.09. 14:00,-1.00
+2024-09-19 04:08:17.959068,8728,Sehnal Pavel Ing.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/sehnal-pavel-ing--MCZ135707754,60.00,20.09. 14:00,-1.00
+2024-09-19 04:08:17.959068,8780,Vítová Vladimíra PhDr. Ph.D.,/sazeni/politika/volby-do-senatu-pcr-2024-obvod-c-20-praha-4-celkove/vitova-vladimira-phdr-ph-d--MCZ135707777,60.00,20.09. 14:00,-1.00
