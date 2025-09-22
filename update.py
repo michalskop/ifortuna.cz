@@ -71,7 +71,7 @@ for domain in domains:
     tables = r.html.find('.events-table')
     if len(tables) == 1:
       # prepare/read the file
-      fname = 'data/' + competition[1] + '.csv'
+      fname = 'data/' + competition[1] + '.v1.2.csv'
       if os.path.isfile(fname):
         # Read the CSV file
         df = pd.read_csv(fname)
@@ -85,18 +85,25 @@ for domain in domains:
       rows = []
       for tr in trs:
         tds = tr.find('td')
+        # might have more odds than two
+        odds = []
+        for td in tds[1:]:
+          if td.text:
+            odds.append(td.text)
+        # remove the last one, it is date
+        odds = odds[:-1]
         try:
           event_info_number = tr.find('.event-info-number', first=True).text
           event_name = tds[0].attrs['data-value']
           event_link = tds[0].find('a', first=True).attrs['href']
-          odds = tds[1].text
-          odds2 = tds[2].text
+
           datum = tds[-1].text
-          rows.append([now, event_info_number, event_name, event_link, odds, odds2, datum])
+          rows.append([now, event_info_number, event_name, event_link] + odds + [datum])
         except:
           pass
       # write to file
-      pd.concat([df, pd.DataFrame(rows, columns=['date', 'event_info_number', 'event_name', 'event_link', 'odds', 'odds2', 'datum'])]).to_csv(fname, index=False)
+      columns = ['date', 'event_info_number', 'event_name', 'event_link'] + ['odds' + str(i + 1) for i in range(len(odds))] + ['datum']
+      pd.concat([df, pd.DataFrame(rows, columns=columns)]).to_csv(fname, index=False)
     else:
       for table in tables:
         # prepare/read the file
