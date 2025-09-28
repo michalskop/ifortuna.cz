@@ -232,13 +232,23 @@ date,event_info_number,event_name,event_link,odds,datum,odds1,odds2
 2025-09-28 13:09:03.246722,15173,Piráti - Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/pirati-stacilo--MCZ190691919,,03.10. 14:00,1.2,3.94
 2025-09-28 13:09:03.246722,15174,Piráti - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/pirati-motoriste-sobe-MCZ190691934,,03.10. 14:00,1.2,3.94
 2025-09-28 13:09:03.246722,15175,Stačilo! - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stacilo-motoriste-sobe-MCZ190691938,,03.10. 14:00,1.8,1.88
-2025-09-28 14:05:02.496014,15149,ANO 2011 - SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/ano-2011-spolu-MCZ190691395,,03.10. 14:00,1.01,12.00
-2025-09-28 14:05:02.496014,15153,SPOLU - SPD,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/spolu-spd-MCZ190691446,,03.10. 14:00,1.01,10.00
+2025-09-28 14:05:02.496014,15149,ANO 2011 - SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/ano-2011-spolu-MCZ190691395,,03.10. 14:00,1.01,12.0
+2025-09-28 14:05:02.496014,15153,SPOLU - SPD,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/spolu-spd-MCZ190691446,,03.10. 14:00,1.01,10.0
 2025-09-28 14:05:02.496014,15163,SPD - STAN,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/spd-stan-MCZ190691874,,03.10. 14:00,1.53,2.31
 2025-09-28 14:05:02.496014,15165,SPD - Piráti,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/spd-pirati-MCZ190691876,,03.10. 14:00,1.22,3.74
-2025-09-28 14:05:02.496014,15170,STAN - Piráti,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-pirati-MCZ190691901,,03.10. 14:00,1.60,2.16
-2025-09-28 14:05:02.496014,15171,STAN - Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-stacilo--MCZ190691905,,03.10. 14:00,1.10,5.62
-2025-09-28 14:05:02.496014,15172,STAN - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-motoriste-sobe-MCZ190691906,,03.10. 14:00,1.10,5.62
-2025-09-28 14:05:02.496014,15173,Piráti - Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/pirati-stacilo--MCZ190691919,,03.10. 14:00,1.20,3.94
-2025-09-28 14:05:02.496014,15174,Piráti - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/pirati-motoriste-sobe-MCZ190691934,,03.10. 14:00,1.20,3.94
-2025-09-28 14:05:02.496014,15175,Stačilo! - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stacilo-motoriste-sobe-MCZ190691938,,03.10. 14:00,1.80,1.88
+2025-09-28 14:05:02.496014,15170,STAN - Piráti,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-pirati-MCZ190691901,,03.10. 14:00,1.6,2.16
+2025-09-28 14:05:02.496014,15171,STAN - Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-stacilo--MCZ190691905,,03.10. 14:00,1.1,5.62
+2025-09-28 14:05:02.496014,15172,STAN - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-motoriste-sobe-MCZ190691906,,03.10. 14:00,1.1,5.62
+2025-09-28 14:05:02.496014,15173,Piráti - Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/pirati-stacilo--MCZ190691919,,03.10. 14:00,1.2,3.94
+2025-09-28 14:05:02.496014,15174,Piráti - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/pirati-motoriste-sobe-MCZ190691934,,03.10. 14:00,1.2,3.94
+2025-09-28 14:05:02.496014,15175,Stačilo! - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stacilo-motoriste-sobe-MCZ190691938,,03.10. 14:00,1.8,1.88
+2025-09-28 15:05:18.729691,15149,ANO 2011 - SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/ano-2011-spolu-MCZ190691395,,03.10. 14:00,1.01,12.00
+2025-09-28 15:05:18.729691,15153,SPOLU - SPD,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/spolu-spd-MCZ190691446,,03.10. 14:00,1.01,10.00
+2025-09-28 15:05:18.729691,15163,SPD - STAN,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/spd-stan-MCZ190691874,,03.10. 14:00,1.53,2.31
+2025-09-28 15:05:18.729691,15165,SPD - Piráti,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/spd-pirati-MCZ190691876,,03.10. 14:00,1.22,3.74
+2025-09-28 15:05:18.729691,15170,STAN - Piráti,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-pirati-MCZ190691901,,03.10. 14:00,1.60,2.16
+2025-09-28 15:05:18.729691,15171,STAN - Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-stacilo--MCZ190691905,,03.10. 14:00,1.10,5.62
+2025-09-28 15:05:18.729691,15172,STAN - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stan-motoriste-sobe-MCZ190691906,,03.10. 14:00,1.10,5.62
+2025-09-28 15:05:18.729691,15173,Piráti - Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/pirati-stacilo--MCZ190691919,,03.10. 14:00,1.20,3.94
+2025-09-28 15:05:18.729691,15174,Piráti - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/pirati-motoriste-sobe-MCZ190691934,,03.10. 14:00,1.20,3.94
+2025-09-28 15:05:18.729691,15175,Stačilo! - Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-ziska-vice-/stacilo-motoriste-sobe-MCZ190691938,,03.10. 14:00,1.80,1.88

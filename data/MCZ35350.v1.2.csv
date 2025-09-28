@@ -199,11 +199,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds1,odds2
 2025-09-28 13:09:03.246722,15466,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/motoriste-sobe-MCZ192193870,,04.10. 14:00,250.0,-1.0
 2025-09-28 13:09:03.246722,15467,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/prisaha-MCZ192193880,,04.10. 14:00,500.0,-1.0
 2025-09-28 13:09:03.246722,15452,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/ano-2011-MCZ192193847,,04.10. 14:00,-1.0,15.0
-2025-09-28 14:05:02.496014,15455,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/spolu-MCZ192193848,,04.10. 14:00,20.00,-1.00
-2025-09-28 14:05:02.496014,15458,SPD,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/spd-MCZ192193851,,04.10. 14:00,30.00,-1.00
-2025-09-28 14:05:02.496014,15459,STAN,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/stan-MCZ192193853,,04.10. 14:00,50.00,-1.00
-2025-09-28 14:05:02.496014,15463,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/stacilo--MCZ192193864,,04.10. 14:00,80.00,-1.00
-2025-09-28 14:05:02.496014,15465,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/pirati-MCZ192193865,,04.10. 14:00,120.00,-1.00
-2025-09-28 14:05:02.496014,15466,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/motoriste-sobe-MCZ192193870,,04.10. 14:00,250.00,-1.00
-2025-09-28 14:05:02.496014,15467,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/prisaha-MCZ192193880,,04.10. 14:00,500.00,-1.00
-2025-09-28 14:05:02.496014,15452,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/ano-2011-MCZ192193847,,04.10. 14:00,-1.00,15.00
+2025-09-28 14:05:02.496014,15455,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/spolu-MCZ192193848,,04.10. 14:00,20.0,-1.0
+2025-09-28 14:05:02.496014,15458,SPD,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/spd-MCZ192193851,,04.10. 14:00,30.0,-1.0
+2025-09-28 14:05:02.496014,15459,STAN,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/stan-MCZ192193853,,04.10. 14:00,50.0,-1.0
+2025-09-28 14:05:02.496014,15463,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/stacilo--MCZ192193864,,04.10. 14:00,80.0,-1.0
+2025-09-28 14:05:02.496014,15465,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/pirati-MCZ192193865,,04.10. 14:00,120.0,-1.0
+2025-09-28 14:05:02.496014,15466,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/motoriste-sobe-MCZ192193870,,04.10. 14:00,250.0,-1.0
+2025-09-28 14:05:02.496014,15467,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/prisaha-MCZ192193880,,04.10. 14:00,500.0,-1.0
+2025-09-28 14:05:02.496014,15452,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/ano-2011-MCZ192193847,,04.10. 14:00,-1.0,15.0
+2025-09-28 15:05:18.729691,15455,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/spolu-MCZ192193848,,04.10. 14:00,20.00,-1.00
+2025-09-28 15:05:18.729691,15458,SPD,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/spd-MCZ192193851,,04.10. 14:00,30.00,-1.00
+2025-09-28 15:05:18.729691,15459,STAN,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/stan-MCZ192193853,,04.10. 14:00,50.00,-1.00
+2025-09-28 15:05:18.729691,15463,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/stacilo--MCZ192193864,,04.10. 14:00,80.00,-1.00
+2025-09-28 15:05:18.729691,15465,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/pirati-MCZ192193865,,04.10. 14:00,120.00,-1.00
+2025-09-28 15:05:18.729691,15466,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/motoriste-sobe-MCZ192193870,,04.10. 14:00,250.00,-1.00
+2025-09-28 15:05:18.729691,15467,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/prisaha-MCZ192193880,,04.10. 14:00,500.00,-1.00
+2025-09-28 15:05:18.729691,15452,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-plzensky-kraj/ano-2011-MCZ192193847,,04.10. 14:00,-1.00,15.00
