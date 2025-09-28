@@ -151,11 +151,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds1,odds2,odds3,odds4,
 2025-09-27 12:11:15.818062,12505,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025/stacilo--MCZ190673338,,03.10. 14:00,150.00,50.0,15.0,9.0,4.0,1.8
 2025-09-27 12:11:15.818062,12506,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025/motoriste-sobe-MCZ190673384,,03.10. 14:00,200.00,60.0,20.0,9.0,4.0,1.8
 2025-09-27 12:11:15.818062,12507,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025/prisaha-MCZ190673390,,03.10. 14:00,1 200.00,500.0,180.0,80.0,40.0,20.0
-2025-09-27 20:07:23.385874,5454,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025/ano-2011-MCZ178194442,,03.10. 14:00,1.01,-1.00,-1.00,-1.00,-1.00,-1.00
-2025-09-27 20:07:23.385874,5534,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025/spolu-MCZ178195220,,03.10. 14:00,13.00,1.01,-1.00,-1.00,-1.00,-1.00
-2025-09-27 20:07:23.385874,12480,SPD,/sazeni/politika/cesko-volby-do-ps-2025/spd-MCZ190672385,,03.10. 14:00,35.00,13.00,1.60,1.15,-1.00,-1.00
-2025-09-27 20:07:23.385874,12492,STAN,/sazeni/politika/cesko-volby-do-ps-2025/stan-MCZ190672388,,03.10. 14:00,50.00,15.00,2.70,1.40,1.07,1.02
-2025-09-27 20:07:23.385874,12501,Piráti,/sazeni/politika/cesko-volby-do-ps-2025/pirati-MCZ190672392,,03.10. 14:00,70.00,30.00,4.50,2.10,1.15,1.05
-2025-09-27 20:07:23.385874,12505,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025/stacilo--MCZ190673338,,03.10. 14:00,150.00,50.00,15.00,9.00,4.00,1.80
-2025-09-27 20:07:23.385874,12506,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025/motoriste-sobe-MCZ190673384,,03.10. 14:00,200.00,60.00,18.00,9.00,4.00,1.80
-2025-09-27 20:07:23.385874,12507,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025/prisaha-MCZ190673390,,03.10. 14:00,1 200.00,500.00,180.00,80.00,40.00,20.00
+2025-09-27 20:07:23.385874,5454,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025/ano-2011-MCZ178194442,,03.10. 14:00,1.01,-1.0,-1.0,-1.0,-1.0,-1.0
+2025-09-27 20:07:23.385874,5534,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025/spolu-MCZ178195220,,03.10. 14:00,13.00,1.01,-1.0,-1.0,-1.0,-1.0
+2025-09-27 20:07:23.385874,12480,SPD,/sazeni/politika/cesko-volby-do-ps-2025/spd-MCZ190672385,,03.10. 14:00,35.00,13.0,1.6,1.15,-1.0,-1.0
+2025-09-27 20:07:23.385874,12492,STAN,/sazeni/politika/cesko-volby-do-ps-2025/stan-MCZ190672388,,03.10. 14:00,50.00,15.0,2.7,1.4,1.07,1.02
+2025-09-27 20:07:23.385874,12501,Piráti,/sazeni/politika/cesko-volby-do-ps-2025/pirati-MCZ190672392,,03.10. 14:00,70.00,30.0,4.5,2.1,1.15,1.05
+2025-09-27 20:07:23.385874,12505,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025/stacilo--MCZ190673338,,03.10. 14:00,150.00,50.0,15.0,9.0,4.0,1.8
+2025-09-27 20:07:23.385874,12506,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025/motoriste-sobe-MCZ190673384,,03.10. 14:00,200.00,60.0,18.0,9.0,4.0,1.8
+2025-09-27 20:07:23.385874,12507,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025/prisaha-MCZ190673390,,03.10. 14:00,1 200.00,500.0,180.0,80.0,40.0,20.0
+2025-09-28 04:08:25.589142,5454,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025/ano-2011-MCZ178194442,,03.10. 14:00,1.01,-1.00,-1.00,-1.00,-1.00,-1.00
+2025-09-28 04:08:25.589142,5534,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025/spolu-MCZ178195220,,03.10. 14:00,13.00,1.01,-1.00,-1.00,-1.00,-1.00
+2025-09-28 04:08:25.589142,12480,SPD,/sazeni/politika/cesko-volby-do-ps-2025/spd-MCZ190672385,,03.10. 14:00,35.00,13.00,1.60,1.15,-1.00,-1.00
+2025-09-28 04:08:25.589142,12492,STAN,/sazeni/politika/cesko-volby-do-ps-2025/stan-MCZ190672388,,03.10. 14:00,50.00,15.00,2.70,1.40,1.07,1.02
+2025-09-28 04:08:25.589142,12501,Piráti,/sazeni/politika/cesko-volby-do-ps-2025/pirati-MCZ190672392,,03.10. 14:00,70.00,30.00,4.50,2.10,1.15,1.05
+2025-09-28 04:08:25.589142,12505,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025/stacilo--MCZ190673338,,03.10. 14:00,150.00,50.00,15.00,9.00,4.00,1.80
+2025-09-28 04:08:25.589142,12506,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025/motoriste-sobe-MCZ190673384,,03.10. 14:00,200.00,60.00,18.00,9.00,4.00,1.80
+2025-09-28 04:08:25.589142,12507,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025/prisaha-MCZ190673390,,03.10. 14:00,1 200.00,500.00,180.00,80.00,40.00,20.00
