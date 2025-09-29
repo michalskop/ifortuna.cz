@@ -1606,4 +1606,32 @@ date,event_info_number,event_name,event_link,header1,header2,odd1,odd2,datum
 2025-09-29 22:05:40.400710,13458,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/motoriste-sobe-MCZ190678132,Méně než 6.01,Více než 6.01,2.16,1.6,03.10. 14:00
 2025-09-29 22:05:40.400710,13464,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/motoriste-sobe-MCZ190678135,Méně než 7.01,Více než 7.01,1.5,2.38,03.10. 14:00
 2025-09-29 22:05:40.400710,13469,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/motoriste-sobe-MCZ190678137,Méně než 8.01,Více než 8.01,1.28,3.27,03.10. 14:00
-2025-09-29 22:05:40.400710,13510,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/prisaha-MCZ190678152,Méně než 5.01,Více než 5.01,-1.00,33.00,03.10. 14:00
+2025-09-29 22:05:40.400710,13510,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/prisaha-MCZ190678152,Méně než 5.01,Více než 5.01,-1.0,33.0,03.10. 14:00
+2025-09-29 23:05:47.121927,12934,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/ano-2011-MCZ190677945,Méně než 28.01,Více než 28.01,3.74,1.22,03.10. 14:00
+2025-09-29 23:05:47.121927,12944,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/ano-2011-MCZ190677948,Méně než 29.01,Více než 29.01,2.68,1.4,03.10. 14:00
+2025-09-29 23:05:47.121927,12980,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/ano-2011-MCZ190677949,Méně než 30.01,Více než 30.01,2.01,1.7,03.10. 14:00
+2025-09-29 23:05:47.121927,12989,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/ano-2011-MCZ190677950,Méně než 31.01,Více než 31.01,1.61,2.15,03.10. 14:00
+2025-09-29 23:05:47.121927,12998,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/ano-2011-MCZ190677954,Méně než 32.01,Více než 32.01,1.35,2.89,03.10. 14:00
+2025-09-29 23:05:47.121927,13031,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/spolu-MCZ190677971,Méně než 19.01,Více než 19.01,3.74,1.22,03.10. 14:00
+2025-09-29 23:05:47.121927,13053,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/spolu-MCZ190677974,Méně než 20.01,Více než 20.01,2.3,1.53,03.10. 14:00
+2025-09-29 23:05:47.121927,13103,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/spolu-MCZ190677976,Méně než 21.01,Více než 21.01,1.75,1.94,03.10. 14:00
+2025-09-29 23:05:47.121927,13121,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/spolu-MCZ190677981,Méně než 22.01,Více než 22.01,1.4,2.7,03.10. 14:00
+2025-09-29 23:05:47.121927,13165,SPD,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/spd-MCZ190677990,Méně než 11.01,Více než 11.01,2.68,1.4,03.10. 14:00
+2025-09-29 23:05:47.121927,13175,SPD,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/spd-MCZ190677992,Méně než 12.01,Více než 12.01,2.01,1.7,03.10. 14:00
+2025-09-29 23:05:47.121927,13197,SPD,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/spd-MCZ190677994,Méně než 13.01,Více než 13.01,1.45,2.52,03.10. 14:00
+2025-09-29 23:05:47.121927,13264,STAN,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/stan-MCZ190678010,Méně než 10.01,Více než 10.01,2.43,1.48,03.10. 14:00
+2025-09-29 23:05:47.121927,13266,STAN,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/stan-MCZ190678011,Méně než 11.01,Více než 11.01,1.78,1.9,03.10. 14:00
+2025-09-29 23:05:47.121927,13278,STAN,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/stan-MCZ190678013,Méně než 12.01,Více než 12.01,1.42,2.6,03.10. 14:00
+2025-09-29 23:05:47.121927,13379,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/pirati-MCZ190678028,Méně než 7.01,Více než 7.01,5.15,1.12,03.10. 14:00
+2025-09-29 23:05:47.121927,13393,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/pirati-MCZ190678035,Méně než 8.51,Více než 8.51,2.89,1.35,03.10. 14:00
+2025-09-29 23:05:47.121927,13395,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/pirati-MCZ190678038,Méně než 9.51,Více než 9.51,1.94,1.75,03.10. 14:00
+2025-09-29 23:05:47.121927,13396,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/pirati-MCZ190678039,Méně než 10.51,Více než 10.51,1.38,2.76,03.10. 14:00
+2025-09-29 23:05:47.121927,13412,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/stacilo--MCZ190678105,Méně než 5.01,Více než 5.01,3.65,1.23,03.10. 14:00
+2025-09-29 23:05:47.121927,13422,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/stacilo--MCZ190678109,Méně než 6.01,Více než 6.01,2.16,1.6,03.10. 14:00
+2025-09-29 23:05:47.121927,13431,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/stacilo--MCZ190678114,Méně než 7.01,Více než 7.01,1.5,2.38,03.10. 14:00
+2025-09-29 23:05:47.121927,13445,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/stacilo--MCZ190678116,Méně než 8.01,Více než 8.01,1.22,3.74,03.10. 14:00
+2025-09-29 23:05:47.121927,13456,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/motoriste-sobe-MCZ190678131,Méně než 5.01,Více než 5.01,3.84,1.21,03.10. 14:00
+2025-09-29 23:05:47.121927,13458,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/motoriste-sobe-MCZ190678132,Méně než 6.01,Více než 6.01,2.16,1.6,03.10. 14:00
+2025-09-29 23:05:47.121927,13464,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/motoriste-sobe-MCZ190678135,Méně než 7.01,Více než 7.01,1.5,2.38,03.10. 14:00
+2025-09-29 23:05:47.121927,13469,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/motoriste-sobe-MCZ190678137,Méně než 8.01,Více než 8.01,1.28,3.27,03.10. 14:00
+2025-09-29 23:05:47.121927,13510,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-pocet-hlasu-v-/prisaha-MCZ190678152,Méně než 5.01,Více než 5.01,-1.00,33.00,03.10. 14:00
