@@ -615,11 +615,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds1,odds2
 2025-09-30 17:05:59.762321,16161,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/pirati-MCZ192199683,,04.10. 14:00,100.0,-1.0
 2025-09-30 17:05:59.762321,16164,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/motoriste-sobe-MCZ192199685,,04.10. 14:00,125.0,-1.0
 2025-09-30 17:05:59.762321,16166,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/prisaha-MCZ192199687,,04.10. 14:00,500.0,-1.0
-2025-09-30 18:08:37.245272,16133,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/ano-2011-MCZ192199601,,04.10. 14:00,1.05,6.30
-2025-09-30 18:08:37.245272,16140,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/spolu-MCZ192199602,,04.10. 14:00,4.80,1.11
-2025-09-30 18:08:37.245272,16147,SPD,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/spd-MCZ192199648,,04.10. 14:00,40.00,-1.00
-2025-09-30 18:08:37.245272,16152,STAN,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/stan-MCZ192199676,,04.10. 14:00,50.00,-1.00
-2025-09-30 18:08:37.245272,16156,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/stacilo--MCZ192199680,,04.10. 14:00,100.00,-1.00
-2025-09-30 18:08:37.245272,16161,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/pirati-MCZ192199683,,04.10. 14:00,100.00,-1.00
-2025-09-30 18:08:37.245272,16164,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/motoriste-sobe-MCZ192199685,,04.10. 14:00,125.00,-1.00
-2025-09-30 18:08:37.245272,16166,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/prisaha-MCZ192199687,,04.10. 14:00,500.00,-1.00
+2025-09-30 18:08:37.245272,16133,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/ano-2011-MCZ192199601,,04.10. 14:00,1.05,6.3
+2025-09-30 18:08:37.245272,16140,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/spolu-MCZ192199602,,04.10. 14:00,4.8,1.11
+2025-09-30 18:08:37.245272,16147,SPD,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/spd-MCZ192199648,,04.10. 14:00,40.0,-1.0
+2025-09-30 18:08:37.245272,16152,STAN,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/stan-MCZ192199676,,04.10. 14:00,50.0,-1.0
+2025-09-30 18:08:37.245272,16156,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/stacilo--MCZ192199680,,04.10. 14:00,100.0,-1.0
+2025-09-30 18:08:37.245272,16161,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/pirati-MCZ192199683,,04.10. 14:00,100.0,-1.0
+2025-09-30 18:08:37.245272,16164,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/motoriste-sobe-MCZ192199685,,04.10. 14:00,125.0,-1.0
+2025-09-30 18:08:37.245272,16166,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/prisaha-MCZ192199687,,04.10. 14:00,500.0,-1.0
+2025-09-30 19:05:29.570596,16133,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/ano-2011-MCZ192199601,,04.10. 14:00,1.05,6.30
+2025-09-30 19:05:29.570596,16140,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/spolu-MCZ192199602,,04.10. 14:00,4.80,1.11
+2025-09-30 19:05:29.570596,16147,SPD,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/spd-MCZ192199648,,04.10. 14:00,40.00,-1.00
+2025-09-30 19:05:29.570596,16152,STAN,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/stan-MCZ192199676,,04.10. 14:00,50.00,-1.00
+2025-09-30 19:05:29.570596,16156,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/stacilo--MCZ192199680,,04.10. 14:00,100.00,-1.00
+2025-09-30 19:05:29.570596,16161,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/pirati-MCZ192199683,,04.10. 14:00,100.00,-1.00
+2025-09-30 19:05:29.570596,16164,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/motoriste-sobe-MCZ192199685,,04.10. 14:00,125.00,-1.00
+2025-09-30 19:05:29.570596,16166,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-jihomoravsky-kraj/prisaha-MCZ192199687,,04.10. 14:00,500.00,-1.00
