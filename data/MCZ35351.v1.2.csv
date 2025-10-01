@@ -775,11 +775,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds1,odds2
 2025-10-01 13:14:23.011982,15448,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/motoriste-sobe-MCZ192194254,,04.10. 14:00,450.00,-1.0
 2025-10-01 13:14:23.011982,15450,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/prisaha-MCZ192194281,,04.10. 14:00,1 000.00,-1.0
 2025-10-01 13:14:23.011982,15416,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/ano-2011-MCZ192193973,,04.10. 14:00,-1.00,100.0
-2025-10-01 14:06:19.214115,15419,SPD,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/spd-MCZ192193975,,04.10. 14:00,150.00,-1.00
-2025-10-01 14:06:19.214115,15429,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/spolu-MCZ192193979,,04.10. 14:00,200.00,-1.00
-2025-10-01 14:06:19.214115,15439,STAN,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/stan-MCZ192194078,,04.10. 14:00,250.00,-1.00
-2025-10-01 14:06:19.214115,15442,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/stacilo--MCZ192194111,,04.10. 14:00,250.00,-1.00
-2025-10-01 14:06:19.214115,15447,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/pirati-MCZ192194114,,04.10. 14:00,500.00,-1.00
-2025-10-01 14:06:19.214115,15448,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/motoriste-sobe-MCZ192194254,,04.10. 14:00,450.00,-1.00
-2025-10-01 14:06:19.214115,15450,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/prisaha-MCZ192194281,,04.10. 14:00,1 000.00,-1.00
-2025-10-01 14:06:19.214115,15416,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/ano-2011-MCZ192193973,,04.10. 14:00,-1.00,100.00
+2025-10-01 14:06:19.214115,15419,SPD,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/spd-MCZ192193975,,04.10. 14:00,150.00,-1.0
+2025-10-01 14:06:19.214115,15429,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/spolu-MCZ192193979,,04.10. 14:00,200.00,-1.0
+2025-10-01 14:06:19.214115,15439,STAN,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/stan-MCZ192194078,,04.10. 14:00,250.00,-1.0
+2025-10-01 14:06:19.214115,15442,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/stacilo--MCZ192194111,,04.10. 14:00,250.00,-1.0
+2025-10-01 14:06:19.214115,15447,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/pirati-MCZ192194114,,04.10. 14:00,500.00,-1.0
+2025-10-01 14:06:19.214115,15448,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/motoriste-sobe-MCZ192194254,,04.10. 14:00,450.00,-1.0
+2025-10-01 14:06:19.214115,15450,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/prisaha-MCZ192194281,,04.10. 14:00,1 000.00,-1.0
+2025-10-01 14:06:19.214115,15416,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/ano-2011-MCZ192193973,,04.10. 14:00,-1.00,100.0
+2025-10-01 15:06:09.700158,15419,SPD,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/spd-MCZ192193975,,04.10. 14:00,150.00,-1.00
+2025-10-01 15:06:09.700158,15429,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/spolu-MCZ192193979,,04.10. 14:00,200.00,-1.00
+2025-10-01 15:06:09.700158,15439,STAN,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/stan-MCZ192194078,,04.10. 14:00,250.00,-1.00
+2025-10-01 15:06:09.700158,15442,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/stacilo--MCZ192194111,,04.10. 14:00,250.00,-1.00
+2025-10-01 15:06:09.700158,15447,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/pirati-MCZ192194114,,04.10. 14:00,500.00,-1.00
+2025-10-01 15:06:09.700158,15448,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/motoriste-sobe-MCZ192194254,,04.10. 14:00,450.00,-1.00
+2025-10-01 15:06:09.700158,15450,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/prisaha-MCZ192194281,,04.10. 14:00,1 000.00,-1.00
+2025-10-01 15:06:09.700158,15416,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-karlovarsky-kraj/ano-2011-MCZ192193973,,04.10. 14:00,-1.00,100.00
