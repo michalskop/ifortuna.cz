@@ -695,11 +695,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds1,odds2
 2025-10-01 03:25:16.196408,15583,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/motoriste-sobe-MCZ192194984,,04.10. 14:00,100.0,-1.0
 2025-10-01 03:25:16.196408,15584,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/prisaha-MCZ192194985,,04.10. 14:00,150.0,-1.0
 2025-10-01 03:25:16.196408,15548,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/ano-2011-MCZ192194958,,04.10. 14:00,-1.0,10.0
-2025-10-01 04:07:04.049098,15549,SPD,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/spd-MCZ192194970,,04.10. 14:00,20.00,-1.00
-2025-10-01 04:07:04.049098,15555,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/spolu-MCZ192194972,,04.10. 14:00,20.00,-1.00
-2025-10-01 04:07:04.049098,15574,STAN,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/stan-MCZ192194974,,04.10. 14:00,30.00,-1.00
-2025-10-01 04:07:04.049098,15579,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/pirati-MCZ192194975,,04.10. 14:00,50.00,-1.00
-2025-10-01 04:07:04.049098,15582,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/stacilo--MCZ192194978,,04.10. 14:00,100.00,-1.00
-2025-10-01 04:07:04.049098,15583,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/motoriste-sobe-MCZ192194984,,04.10. 14:00,100.00,-1.00
-2025-10-01 04:07:04.049098,15584,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/prisaha-MCZ192194985,,04.10. 14:00,150.00,-1.00
-2025-10-01 04:07:04.049098,15548,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/ano-2011-MCZ192194958,,04.10. 14:00,-1.00,10.00
+2025-10-01 04:07:04.049098,15549,SPD,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/spd-MCZ192194970,,04.10. 14:00,20.0,-1.0
+2025-10-01 04:07:04.049098,15555,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/spolu-MCZ192194972,,04.10. 14:00,20.0,-1.0
+2025-10-01 04:07:04.049098,15574,STAN,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/stan-MCZ192194974,,04.10. 14:00,30.0,-1.0
+2025-10-01 04:07:04.049098,15579,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/pirati-MCZ192194975,,04.10. 14:00,50.0,-1.0
+2025-10-01 04:07:04.049098,15582,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/stacilo--MCZ192194978,,04.10. 14:00,100.0,-1.0
+2025-10-01 04:07:04.049098,15583,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/motoriste-sobe-MCZ192194984,,04.10. 14:00,100.0,-1.0
+2025-10-01 04:07:04.049098,15584,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/prisaha-MCZ192194985,,04.10. 14:00,150.0,-1.0
+2025-10-01 04:07:04.049098,15548,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/ano-2011-MCZ192194958,,04.10. 14:00,-1.0,10.0
+2025-10-01 05:06:58.750092,15549,SPD,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/spd-MCZ192194970,,04.10. 14:00,20.00,-1.00
+2025-10-01 05:06:58.750092,15555,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/spolu-MCZ192194972,,04.10. 14:00,20.00,-1.00
+2025-10-01 05:06:58.750092,15574,STAN,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/stan-MCZ192194974,,04.10. 14:00,30.00,-1.00
+2025-10-01 05:06:58.750092,15579,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/pirati-MCZ192194975,,04.10. 14:00,50.00,-1.00
+2025-10-01 05:06:58.750092,15582,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/stacilo--MCZ192194978,,04.10. 14:00,100.00,-1.00
+2025-10-01 05:06:58.750092,15583,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/motoriste-sobe-MCZ192194984,,04.10. 14:00,100.00,-1.00
+2025-10-01 05:06:58.750092,15584,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/prisaha-MCZ192194985,,04.10. 14:00,150.00,-1.00
+2025-10-01 05:06:58.750092,15548,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-liberecky-kraj/ano-2011-MCZ192194958,,04.10. 14:00,-1.00,10.00
