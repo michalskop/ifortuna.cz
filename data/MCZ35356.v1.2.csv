@@ -703,11 +703,19 @@ date,event_info_number,event_name,event_link,odds,datum,odds1,odds2
 2025-10-01 04:07:04.049098,16182,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/pirati-MCZ192199743,,04.10. 14:00,200.0,-1.0
 2025-10-01 04:07:04.049098,16184,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/prisaha-MCZ192199747,,04.10. 14:00,500.0,-1.0
 2025-10-01 04:07:04.049098,16170,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/ano-2011-MCZ192199708,,04.10. 14:00,-1.0,20.0
-2025-10-01 05:06:58.750092,16172,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/spolu-MCZ192199709,,04.10. 14:00,30.00,-1.00
-2025-10-01 05:06:58.750092,16173,SPD,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/spd-MCZ192199714,,04.10. 14:00,30.00,-1.00
-2025-10-01 05:06:58.750092,16175,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/stacilo--MCZ192199731,,04.10. 14:00,80.00,-1.00
-2025-10-01 05:06:58.750092,16176,STAN,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/stan-MCZ192199736,,04.10. 14:00,100.00,-1.00
-2025-10-01 05:06:58.750092,16177,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/motoriste-sobe-MCZ192199737,,04.10. 14:00,200.00,-1.00
-2025-10-01 05:06:58.750092,16182,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/pirati-MCZ192199743,,04.10. 14:00,200.00,-1.00
-2025-10-01 05:06:58.750092,16184,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/prisaha-MCZ192199747,,04.10. 14:00,500.00,-1.00
-2025-10-01 05:06:58.750092,16170,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/ano-2011-MCZ192199708,,04.10. 14:00,-1.00,20.00
+2025-10-01 05:06:58.750092,16172,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/spolu-MCZ192199709,,04.10. 14:00,30.0,-1.0
+2025-10-01 05:06:58.750092,16173,SPD,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/spd-MCZ192199714,,04.10. 14:00,30.0,-1.0
+2025-10-01 05:06:58.750092,16175,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/stacilo--MCZ192199731,,04.10. 14:00,80.0,-1.0
+2025-10-01 05:06:58.750092,16176,STAN,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/stan-MCZ192199736,,04.10. 14:00,100.0,-1.0
+2025-10-01 05:06:58.750092,16177,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/motoriste-sobe-MCZ192199737,,04.10. 14:00,200.0,-1.0
+2025-10-01 05:06:58.750092,16182,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/pirati-MCZ192199743,,04.10. 14:00,200.0,-1.0
+2025-10-01 05:06:58.750092,16184,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/prisaha-MCZ192199747,,04.10. 14:00,500.0,-1.0
+2025-10-01 05:06:58.750092,16170,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/ano-2011-MCZ192199708,,04.10. 14:00,-1.0,20.0
+2025-10-01 06:08:45.592668,16172,SPOLU,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/spolu-MCZ192199709,,04.10. 14:00,30.00,-1.00
+2025-10-01 06:08:45.592668,16173,SPD,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/spd-MCZ192199714,,04.10. 14:00,30.00,-1.00
+2025-10-01 06:08:45.592668,16175,Stačilo!,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/stacilo--MCZ192199731,,04.10. 14:00,80.00,-1.00
+2025-10-01 06:08:45.592668,16176,STAN,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/stan-MCZ192199736,,04.10. 14:00,100.00,-1.00
+2025-10-01 06:08:45.592668,16177,Motoristé sobě,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/motoriste-sobe-MCZ192199737,,04.10. 14:00,200.00,-1.00
+2025-10-01 06:08:45.592668,16182,Piráti,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/pirati-MCZ192199743,,04.10. 14:00,200.00,-1.00
+2025-10-01 06:08:45.592668,16184,Přísaha,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/prisaha-MCZ192199747,,04.10. 14:00,500.00,-1.00
+2025-10-01 06:08:45.592668,16170,ANO 2011,/sazeni/politika/cesko-volby-do-ps-2025-olomoucky-kraj/ano-2011-MCZ192199708,,04.10. 14:00,-1.00,20.00
